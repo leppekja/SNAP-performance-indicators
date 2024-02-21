@@ -14,7 +14,13 @@ USDA Descriptions as follows:
 ### Updates
 
 - 2/20/24 Application Processing Timeliness CSV uploaded
-- 
+
+
+### Data Notes
+
+- Any listed corrctions that were already made to the data when accessed are reflected within the CSVs.
+- View each years' summary to view any descriptions or release-specific notes.
+- Any national totals are not included in the data.
 
 ### Other Resources
 
