@@ -25,6 +25,10 @@ USDA Descriptions as follows:
 - APT data is not available for 2020, 2021.
 - PER data is not available for [2016](https://www.fns.usda.gov/snap/qc/fy16-payment-error-rate), [2020, 2021](https://www.fns.usda.gov/snap/qc-error-rate-announcements-fy-2020-2021) and has [measurement issues in 2015](https://www.fns.usda.gov/snap/fy-2015-measurement-issues).
 
+### Any issues?
+
+If the data is incorrect in this repository, but ccorrect on the associated file, please open an issue. If the data may also be incorrect in the associated file, visit [this USDA Data Quality page](https://www.fns.usda.gov/information-quality).
+
 ### Other Resources
 
 - Visit the [SNAP Quality Control Database](https://snapqcdata.net/datafiles), which "contains detailed information on the economic and demographic circumstances of a sample of households selected for review as part of the SNAP QC System."
