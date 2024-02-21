@@ -1,2 +1,23 @@
-# SNAP-performance-indicators
+# SNAP State Performance Indicators
 SNAP performance indicators from the USDA in machine-readable format
+
+Much of the SNAP Efficiency & Effectiveness data is shared in PDF tables. This repository includes quick-access to cleaned, FIPS-linked CSV long-format tables of yearly state reported indicators for [Application Processing Timeliness](https://www.fns.usda.gov/snap/qc/timeliness), [Program Error Rates](https://www.fns.usda.gov/snap/qc/per), and [Case and Procedural Error Rates](https://www.fns.usda.gov/snap/qc/caper).
+
+USDA Descriptions as follows:
+
+- Application Processing Timeliness "measures the timeliness of states’ processing of initial SNAP applications. The Food and Nutrition Act of 2008 entitles all eligible households to SNAP benefits within 30 days of application, or within 7 days, if they are eligible for expedited service."
+
+- Payment Error Rates (PER) "measures how accurately a state agency determined SNAP eligibility and benefit amounts for those who participate in SNAP. Errors include both overpayments -- when households receive more benefits than they are entitled to – and underpayments – when households receive less benefits than they are entitled to."
+  
+- Case and Procedural Error Rates (CAPER) "assesses the accuracy of state agency actions in cases in which applicants were denied, terminated, or suspended and did not receive benefits. It also measures a state's compliance with federal procedural requirements, including the timeliness and accuracy of notifications sent to affected households."
+
+### Updates
+
+- 2/20/24 Application Processing Timeliness CSV uploaded
+- 
+
+### Other Resources
+
+- Visit the [SNAP Quality Control Database](https://snapqcdata.net/datafiles), which "contains detailed information on the economic and demographic circumstances of a sample of households selected for review as part of the SNAP QC System."
+
+This data is not synced regularly. Be careful when using the data and ensure it matches any posted documents. Data was accessed Feb. 2024, and extracted with OCR.
