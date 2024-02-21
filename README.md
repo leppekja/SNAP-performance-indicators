@@ -21,6 +21,9 @@ USDA Descriptions as follows:
 - Any listed corrctions that were already made to the data when accessed are reflected within the CSVs.
 - View each years' summary to view any descriptions or release-specific notes.
 - Any national totals are not included in the data.
+- Data is reported by fiscal year.
+- APT data is not available for 2020, 2021.
+- PER data is not available for [2016](https://www.fns.usda.gov/snap/qc/fy16-payment-error-rate), [2020, 2021](https://www.fns.usda.gov/snap/qc-error-rate-announcements-fy-2020-2021) and has [measurement issues in 2015](https://www.fns.usda.gov/snap/fy-2015-measurement-issues).
 
 ### Other Resources
 
