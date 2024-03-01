@@ -14,16 +14,21 @@ USDA Descriptions as follows:
 ### Updates
 
 - 2/20/24 Application Processing Timeliness CSV uploaded
+- 2/20/24 Payment Error Rates CSV uploaded
+- 3/1/24 Program Access Index CSV uploaded
 
-
-### Data Notes
+### General Notes
 
 - Any listed corrctions that were already made to the data when accessed are reflected within the CSVs.
 - View each years' summary to view any descriptions or release-specific notes.
 - Any national totals are not included in the data.
+- Blank values may reflect missing or unreported data for a variety of reasons, including suspended reporting requirements (COVID-19 pandemic, Hurricane Katrina), data quality issues (varies by state), or undiscussed issues. 
 - Data is reported by fiscal year.
 - APT data is not available for 2020, 2021.
 - PER data is not available for [2016](https://www.fns.usda.gov/snap/qc/fy16-payment-error-rate), [2020, 2021](https://www.fns.usda.gov/snap/qc-error-rate-announcements-fy-2020-2021) and has [measurement issues in 2015](https://www.fns.usda.gov/snap/fy-2015-measurement-issues).
+
+### Program Access Index
+- Additional calculation data (explaining their process and the intermediate numbers) from 2006 - 2016 are not included here. They stopped publishing in this format starting in the PAI 2017 release.
 
 ### Any issues?
 
