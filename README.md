@@ -26,6 +26,7 @@ USDA Descriptions as follows:
 - Data is reported by fiscal year.
 - APT data is not available for 2020, 2021.
 - PER data is not available for [2016](https://www.fns.usda.gov/snap/qc/fy16-payment-error-rate), [2020, 2021](https://www.fns.usda.gov/snap/qc-error-rate-announcements-fy-2020-2021) and has [measurement issues in 2015](https://www.fns.usda.gov/snap/fy-2015-measurement-issues).
+- PAI data is not available for 2020
 
 ### Program Access Index
 - Additional calculation data (explaining their process and the intermediate numbers) from 2006 - 2016 are not included here. They stopped publishing in this format starting in the PAI 2017 release.
