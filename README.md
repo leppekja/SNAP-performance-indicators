@@ -31,6 +31,9 @@ USDA Descriptions as follows:
 ### Program Access Index
 - Additional calculation data (explaining their process and the intermediate numbers) from 2006 - 2016 are not included here. They stopped publishing in this format starting in the PAI 2017 release.
 
+### Future Datasets
+- [Cost of Living Adjustment (COLA) Information](https://www.fns.usda.gov/snap/allotment/COLA)
+- [ABAWD Waivers FY 2020-2024](https://www.fns.usda.gov/snap/abawd-waivers-2020-2024) (some waivers back to 1997 are stored, all linked on that page).
 ### Any issues?
 
 If the data is incorrect in this repository, but ccorrect on the associated file, please open an issue. If the data may also be incorrect in the associated file, visit [this USDA Data Quality page](https://www.fns.usda.gov/information-quality).
