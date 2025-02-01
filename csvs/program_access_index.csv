@@ -1,1021 +1,1074 @@
-Fiscal Year,State,State_Abbr,FIPS,PAI,Source_Link
-2003,Alabama,AL,01,0.724,https://www.fns.usda.gov/snap/qc/pai
-2003,Alaska,AK,02,0.768,https://www.fns.usda.gov/snap/qc/pai
-2003,Arizona,AZ,04,0.677,https://www.fns.usda.gov/snap/qc/pai
-2003,Arkansas,AR,05,0.669,https://www.fns.usda.gov/snap/qc/pai
-2003,California,CA,06,0.39,https://www.fns.usda.gov/snap/qc/pai
-2003,Colorado,CO,08,0.501,https://www.fns.usda.gov/snap/qc/pai
-2003,Connecticut,CT,09,0.664,https://www.fns.usda.gov/snap/qc/pai
-2003,Delaware,DE,10,0.795,https://www.fns.usda.gov/snap/qc/pai
-2003,District of Columbia,DC,11,0.909,https://www.fns.usda.gov/snap/qc/pai
-2003,Florida,FL,12,0.495,https://www.fns.usda.gov/snap/qc/pai
-2003,Georgia,GA,13,0.777,https://www.fns.usda.gov/snap/qc/pai
-2003,Hawaii,HI,15,0.855,https://www.fns.usda.gov/snap/qc/pai
-2003,Idaho,ID,16,0.625,https://www.fns.usda.gov/snap/qc/pai
-2003,Illinois,IL,17,0.615,https://www.fns.usda.gov/snap/qc/pai
-2003,Indiana,IN,18,0.799,https://www.fns.usda.gov/snap/qc/pai
-2003,Iowa,IA,19,0.604,https://www.fns.usda.gov/snap/qc/pai
-2003,Kansas,KS,20,0.571,https://www.fns.usda.gov/snap/qc/pai
-2003,Kentucky,KY,21,0.875,https://www.fns.usda.gov/snap/qc/pai
-2003,Louisiana,LA,22,0.885,https://www.fns.usda.gov/snap/qc/pai
-2003,Maine,ME,23,0.916,https://www.fns.usda.gov/snap/qc/pai
-2003,Maryland,MD,24,0.525,https://www.fns.usda.gov/snap/qc/pai
-2003,Massachusetts,MA,25,0.472,https://www.fns.usda.gov/snap/qc/pai
-2003,Michigan,MI,26,0.744,https://www.fns.usda.gov/snap/qc/pai
-2003,Minnesota,MN,27,0.641,https://www.fns.usda.gov/snap/qc/pai
-2003,Mississippi,MS,28,0.799,https://www.fns.usda.gov/snap/qc/pai
-2003,Missouri,MO,29,1.035,https://www.fns.usda.gov/snap/qc/pai
-2003,Montana,MT,30,0.561,https://www.fns.usda.gov/snap/qc/pai
-2003,Nebraska,NE,31,0.623,https://www.fns.usda.gov/snap/qc/pai
-2003,Nevada,NV,32,0.478,https://www.fns.usda.gov/snap/qc/pai
-2003,New Hampshire,NH,33,0.623,https://www.fns.usda.gov/snap/qc/pai
-2003,New Jersey,NJ,34,0.468,https://www.fns.usda.gov/snap/qc/pai
-2003,New Mexico,NM,35,0.605,https://www.fns.usda.gov/snap/qc/pai
-2003,New York,NY,36,0.544,https://www.fns.usda.gov/snap/qc/pai
-2003,North Carolina,NC,37,0.523,https://www.fns.usda.gov/snap/qc/pai
-2003,North Dakota,ND,38,0.752,https://www.fns.usda.gov/snap/qc/pai
-2003,Ohio,OH,39,0.719,https://www.fns.usda.gov/snap/qc/pai
-2003,Oklahoma,OK,40,0.966,https://www.fns.usda.gov/snap/qc/pai
-2003,Oregon,OR,41,0.914,https://www.fns.usda.gov/snap/qc/pai
-2003,Pennsylvania,PA,42,0.671,https://www.fns.usda.gov/snap/qc/pai
-2003,Rhode Island,RI,44,0.622,https://www.fns.usda.gov/snap/qc/pai
-2003,South Carolina,SC,45,0.901,https://www.fns.usda.gov/snap/qc/pai
-2003,South Dakota,SD,46,0.673,https://www.fns.usda.gov/snap/qc/pai
-2003,Tennessee,TN,47,0.91,https://www.fns.usda.gov/snap/qc/pai
-2003,Texas,TX,48,0.535,https://www.fns.usda.gov/snap/qc/pai
-2003,Utah,UT,49,0.518,https://www.fns.usda.gov/snap/qc/pai
-2003,Vermont,VT,50,0.801,https://www.fns.usda.gov/snap/qc/pai
-2003,Virginia,VA,51,0.546,https://www.fns.usda.gov/snap/qc/pai
-2003,Washington,WA,53,0.551,https://www.fns.usda.gov/snap/qc/pai
-2003,West Virginia,WV,54,0.805,https://www.fns.usda.gov/snap/qc/pai
-2003,Wisconsin,WI,55,0.586,https://www.fns.usda.gov/snap/qc/pai
-2003,Wyoming,WY,56,0.553,https://www.fns.usda.gov/snap/qc/pai
-2004,Alabama,AL,01,0.654,https://www.fns.usda.gov/snap/qc/pai
-2004,Alaska,AK,02,0.9,https://www.fns.usda.gov/snap/qc/pai
-2004,Arizona,AZ,04,0.662,https://www.fns.usda.gov/snap/qc/pai
-2004,Arkansas,AR,05,0.866,https://www.fns.usda.gov/snap/qc/pai
-2004,California,CA,06,0.421,https://www.fns.usda.gov/snap/qc/pai
-2004,Colorado,CO,08,0.548,https://www.fns.usda.gov/snap/qc/pai
-2004,Connecticut,CT,09,0.571,https://www.fns.usda.gov/snap/qc/pai
-2004,Delaware,DE,10,0.773,https://www.fns.usda.gov/snap/qc/pai
-2004,District of Columbia,DC,11,0.956,https://www.fns.usda.gov/snap/qc/pai
-2004,Florida,FL,12,0.611,https://www.fns.usda.gov/snap/qc/pai
-2004,Georgia,GA,13,0.776,https://www.fns.usda.gov/snap/qc/pai
-2004,Hawaii,HI,15,0.924,https://www.fns.usda.gov/snap/qc/pai
-2004,Idaho,ID,16,0.694,https://www.fns.usda.gov/snap/qc/pai
-2004,Illinois,IL,17,0.715,https://www.fns.usda.gov/snap/qc/pai
-2004,Indiana,IN,18,0.752,https://www.fns.usda.gov/snap/qc/pai
-2004,Iowa,IA,19,0.6,https://www.fns.usda.gov/snap/qc/pai
-2004,Kansas,KS,20,0.567,https://www.fns.usda.gov/snap/qc/pai
-2004,Kentucky,KY,21,0.768,https://www.fns.usda.gov/snap/qc/pai
-2004,Louisiana,LA,22,0.972,https://www.fns.usda.gov/snap/qc/pai
-2004,Maine,ME,23,0.962,https://www.fns.usda.gov/snap/qc/pai
-2004,Maryland,MD,24,0.509,https://www.fns.usda.gov/snap/qc/pai
-2004,Massachusetts,MA,25,0.584,https://www.fns.usda.gov/snap/qc/pai
-2004,Michigan,MI,26,0.738,https://www.fns.usda.gov/snap/qc/pai
-2004,Minnesota,MN,27,0.71,https://www.fns.usda.gov/snap/qc/pai
-2004,Mississippi,MS,28,0.714,https://www.fns.usda.gov/snap/qc/pai
-2004,Missouri,MO,29,1.048,https://www.fns.usda.gov/snap/qc/pai
-2004,Montana,MT,30,0.644,https://www.fns.usda.gov/snap/qc/pai
-2004,Nebraska,NE,31,0.713,https://www.fns.usda.gov/snap/qc/pai
-2004,Nevada,NV,32,0.476,https://www.fns.usda.gov/snap/qc/pai
-2004,New Hampshire,NH,33,0.709,https://www.fns.usda.gov/snap/qc/pai
-2004,New Jersey,NJ,34,0.543,https://www.fns.usda.gov/snap/qc/pai
-2004,New Mexico,NM,35,0.747,https://www.fns.usda.gov/snap/qc/pai
-2004,New York,NY,36,0.579,https://www.fns.usda.gov/snap/qc/pai
-2004,North Carolina,NC,37,0.621,https://www.fns.usda.gov/snap/qc/pai
-2004,North Dakota,ND,38,0.767,https://www.fns.usda.gov/snap/qc/pai
-2004,Ohio,OH,39,0.735,https://www.fns.usda.gov/snap/qc/pai
-2004,Oklahoma,OK,40,1.206,https://www.fns.usda.gov/snap/qc/pai
-2004,Oregon,OR,41,1.012,https://www.fns.usda.gov/snap/qc/pai
-2004,Pennsylvania,PA,42,0.716,https://www.fns.usda.gov/snap/qc/pai
-2004,Rhode Island,RI,44,0.641,https://www.fns.usda.gov/snap/qc/pai
-2004,South Carolina,SC,45,0.821,https://www.fns.usda.gov/snap/qc/pai
-2004,South Dakota,SD,46,0.654,https://www.fns.usda.gov/snap/qc/pai
-2004,Tennessee,TN,47,0.883,https://www.fns.usda.gov/snap/qc/pai
-2004,Texas,TX,48,0.632,https://www.fns.usda.gov/snap/qc/pai
-2004,Utah,UT,49,0.538,https://www.fns.usda.gov/snap/qc/pai
-2004,Vermont,VT,50,0.908,https://www.fns.usda.gov/snap/qc/pai
-2004,Virginia,VA,51,0.677,https://www.fns.usda.gov/snap/qc/pai
-2004,Washington,WA,53,0.673,https://www.fns.usda.gov/snap/qc/pai
-2004,West Virginia,WV,54,1.014,https://www.fns.usda.gov/snap/qc/pai
-2004,Wisconsin,WI,55,0.495,https://www.fns.usda.gov/snap/qc/pai
-2004,Wyoming,WY,56,0.542,https://www.fns.usda.gov/snap/qc/pai
-2005,Alabama,AL,01,0.547,https://www.fns.usda.gov/snap/qc/pai
-2005,Alaska,AK,02,0.595,https://www.fns.usda.gov/snap/qc/pai
-2005,Arizona,AZ,04,0.492,https://www.fns.usda.gov/snap/qc/pai
-2005,Arkansas,AR,05,0.6,https://www.fns.usda.gov/snap/qc/pai
-2005,California,CA,06,0.328,https://www.fns.usda.gov/snap/qc/pai
-2005,Colorado,CO,08,0.347,https://www.fns.usda.gov/snap/qc/pai
-2005,Connecticut,CT,09,0.557,https://www.fns.usda.gov/snap/qc/pai
-2005,Delaware,DE,10,0.567,https://www.fns.usda.gov/snap/qc/pai
-2005,District of Columbia,DC,11,0.729,https://www.fns.usda.gov/snap/qc/pai
-2005,Florida,FL,12,0.408,https://www.fns.usda.gov/snap/qc/pai
-2005,Georgia,GA,13,0.564,https://www.fns.usda.gov/snap/qc/pai
-2005,Hawaii,HI,15,0.603,https://www.fns.usda.gov/snap/qc/pai
-2005,Idaho,ID,16,0.35,https://www.fns.usda.gov/snap/qc/pai
-2005,Illinois,IL,17,0.605,https://www.fns.usda.gov/snap/qc/pai
-2005,Indiana,IN,18,0.569,https://www.fns.usda.gov/snap/qc/pai
-2005,Iowa,IA,19,0.494,https://www.fns.usda.gov/snap/qc/pai
-2005,Kansas,KS,20,0.425,https://www.fns.usda.gov/snap/qc/pai
-2005,Kentucky,KY,21,0.646,https://www.fns.usda.gov/snap/qc/pai
-2005,Louisiana,LA,22,0.637,https://www.fns.usda.gov/snap/qc/pai
-2005,Maine,ME,23,0.723,https://www.fns.usda.gov/snap/qc/pai
-2005,Maryland,MD,24,0.492,https://www.fns.usda.gov/snap/qc/pai
-2005,Massachusetts,MA,25,0.473,https://www.fns.usda.gov/snap/qc/pai
-2005,Michigan,MI,26,0.64,https://www.fns.usda.gov/snap/qc/pai
-2005,Minnesota,MN,27,0.418,https://www.fns.usda.gov/snap/qc/pai
-2005,Mississippi,MS,28,0.473,https://www.fns.usda.gov/snap/qc/pai
-2005,Missouri,MO,29,0.774,https://www.fns.usda.gov/snap/qc/pai
-2005,Montana,MT,30,0.47,https://www.fns.usda.gov/snap/qc/pai
-2005,Nebraska,NE,31,0.454,https://www.fns.usda.gov/snap/qc/pai
-2005,Nevada,NV,32,0.334,https://www.fns.usda.gov/snap/qc/pai
-2005,New Hampshire,NH,33,0.42,https://www.fns.usda.gov/snap/qc/pai
-2005,New Jersey,NJ,34,0.399,https://www.fns.usda.gov/snap/qc/pai
-2005,New Mexico,NM,35,0.523,https://www.fns.usda.gov/snap/qc/pai
-2005,New York,NY,36,0.535,https://www.fns.usda.gov/snap/qc/pai
-2005,North Carolina,NC,37,0.484,https://www.fns.usda.gov/snap/qc/pai
-2005,North Dakota,ND,38,0.478,https://www.fns.usda.gov/snap/qc/pai
-2005,Ohio,OH,39,0.54,https://www.fns.usda.gov/snap/qc/pai
-2005,Oklahoma,OK,40,0.591,https://www.fns.usda.gov/snap/qc/pai
-2005,Oregon,OR,41,0.642,https://www.fns.usda.gov/snap/qc/pai
-2005,Pennsylvania,PA,42,0.562,https://www.fns.usda.gov/snap/qc/pai
-2005,Rhode Island,RI,44,0.469,https://www.fns.usda.gov/snap/qc/pai
-2005,South Carolina,SC,45,0.614,https://www.fns.usda.gov/snap/qc/pai
-2005,South Dakota,SD,46,0.47,https://www.fns.usda.gov/snap/qc/pai
-2005,Tennessee,TN,47,0.712,https://www.fns.usda.gov/snap/qc/pai
-2005,Texas,TX,48,0.477,https://www.fns.usda.gov/snap/qc/pai
-2005,Utah,UT,49,0.384,https://www.fns.usda.gov/snap/qc/pai
-2005,Vermont,VT,50,0.522,https://www.fns.usda.gov/snap/qc/pai
-2005,Virginia,VA,51,0.525,https://www.fns.usda.gov/snap/qc/pai
-2005,Washington,WA,53,0.535,https://www.fns.usda.gov/snap/qc/pai
-2005,West Virginia,WV,54,0.632,https://www.fns.usda.gov/snap/qc/pai
-2005,Wisconsin,WI,55,0.471,https://www.fns.usda.gov/snap/qc/pai
-2005,Wyoming,WY,56,0.391,https://www.fns.usda.gov/snap/qc/pai
-2006,Alabama,AL,01,0.556,https://www.fns.usda.gov/snap/qc/pai
-2006,Alaska,AK,02,0.614,https://www.fns.usda.gov/snap/qc/pai
-2006,Arizona,AZ,04,0.477,https://www.fns.usda.gov/snap/qc/pai
-2006,Arkansas,AR,05,0.607,https://www.fns.usda.gov/snap/qc/pai
-2006,California,CA,06,0.327,https://www.fns.usda.gov/snap/qc/pai
-2006,Colorado,CO,08,0.346,https://www.fns.usda.gov/snap/qc/pai
-2006,Connecticut,CT,09,0.57,https://www.fns.usda.gov/snap/qc/pai
-2006,Delaware,DE,10,0.574,https://www.fns.usda.gov/snap/qc/pai
-2006,District of Columbia,DC,11,0.696,https://www.fns.usda.gov/snap/qc/pai
-2006,Florida,FL,12,0.404,https://www.fns.usda.gov/snap/qc/pai
-2006,Georgia,GA,13,0.536,https://www.fns.usda.gov/snap/qc/pai
-2006,Hawaii,HI,15,0.561,https://www.fns.usda.gov/snap/qc/pai
-2006,Idaho,ID,16,0.357,https://www.fns.usda.gov/snap/qc/pai
-2006,Illinois,IL,17,0.606,https://www.fns.usda.gov/snap/qc/pai
-2006,Indiana,IN,18,0.567,https://www.fns.usda.gov/snap/qc/pai
-2006,Iowa,IA,19,0.529,https://www.fns.usda.gov/snap/qc/pai
-2006,Kansas,KS,20,0.409,https://www.fns.usda.gov/snap/qc/pai
-2006,Kentucky,KY,21,0.657,https://www.fns.usda.gov/snap/qc/pai
-2006,Louisiana,LA,22,0.645,https://www.fns.usda.gov/snap/qc/pai
-2006,Maine,ME,23,0.742,https://www.fns.usda.gov/snap/qc/pai
-2006,Maryland,MD,24,0.537,https://www.fns.usda.gov/snap/qc/pai
-2006,Massachusetts,MA,25,0.536,https://www.fns.usda.gov/snap/qc/pai
-2006,Michigan,MI,26,0.675,https://www.fns.usda.gov/snap/qc/pai
-2006,Minnesota,MN,27,0.409,https://www.fns.usda.gov/snap/qc/pai
-2006,Mississippi,MS,28,0.525,https://www.fns.usda.gov/snap/qc/pai
-2006,Missouri,MO,29,0.71,https://www.fns.usda.gov/snap/qc/pai
-2006,Montana,MT,30,0.488,https://www.fns.usda.gov/snap/qc/pai
-2006,Nebraska,NE,31,0.443,https://www.fns.usda.gov/snap/qc/pai
-2006,Nevada,NV,32,0.337,https://www.fns.usda.gov/snap/qc/pai
-2006,New Hampshire,NH,33,0.425,https://www.fns.usda.gov/snap/qc/pai
-2006,New Jersey,NJ,34,0.41,https://www.fns.usda.gov/snap/qc/pai
-2006,New Mexico,NM,35,0.528,https://www.fns.usda.gov/snap/qc/pai
-2006,New York,NY,36,0.526,https://www.fns.usda.gov/snap/qc/pai
-2006,North Carolina,NC,37,0.513,https://www.fns.usda.gov/snap/qc/pai
-2006,North Dakota,ND,38,0.473,https://www.fns.usda.gov/snap/qc/pai
-2006,Ohio,OH,39,0.557,https://www.fns.usda.gov/snap/qc/pai
-2006,Oklahoma,OK,40,0.571,https://www.fns.usda.gov/snap/qc/pai
-2006,Oregon,OR,41,0.679,https://www.fns.usda.gov/snap/qc/pai
-2006,Pennsylvania,PA,42,0.574,https://www.fns.usda.gov/snap/qc/pai
-2006,Rhode Island,RI,44,0.472,https://www.fns.usda.gov/snap/qc/pai
-2006,South Carolina,SC,45,0.617,https://www.fns.usda.gov/snap/qc/pai
-2006,South Dakota,SD,46,0.497,https://www.fns.usda.gov/snap/qc/pai
-2006,Tennessee,TN,47,0.693,https://www.fns.usda.gov/snap/qc/pai
-2006,Texas,TX,48,0.491,https://www.fns.usda.gov/snap/qc/pai
-2006,Utah,UT,49,0.351,https://www.fns.usda.gov/snap/qc/pai
-2006,Vermont,VT,50,0.57,https://www.fns.usda.gov/snap/qc/pai
-2006,Virginia,VA,51,0.533,https://www.fns.usda.gov/snap/qc/pai
-2006,Washington,WA,53,0.556,https://www.fns.usda.gov/snap/qc/pai
-2006,West Virginia,WV,54,0.646,https://www.fns.usda.gov/snap/qc/pai
-2006,Wisconsin,WI,55,0.474,https://www.fns.usda.gov/snap/qc/pai
-2006,Wyoming,WY,56,0.343,https://www.fns.usda.gov/snap/qc/pai
-2007,Alabama,AL,01,0.553,https://www.fns.usda.gov/snap/qc/pai
-2007,Alaska,AK,02,0.632,https://www.fns.usda.gov/snap/qc/pai
-2007,Arizona,AZ,04,0.479,https://www.fns.usda.gov/snap/qc/pai
-2007,Arkansas,AR,05,0.583,https://www.fns.usda.gov/snap/qc/pai
-2007,California,CA,06,0.355,https://www.fns.usda.gov/snap/qc/pai
-2007,Colorado,CO,08,0.334,https://www.fns.usda.gov/snap/qc/pai
-2007,Connecticut,CT,09,0.595,https://www.fns.usda.gov/snap/qc/pai
-2007,Delaware,DE,10,0.571,https://www.fns.usda.gov/snap/qc/pai
-2007,District of Columbia,DC,11,0.749,https://www.fns.usda.gov/snap/qc/pai
-2007,Florida,FL,12,0.424,https://www.fns.usda.gov/snap/qc/pai
-2007,Georgia,GA,13,0.547,https://www.fns.usda.gov/snap/qc/pai
-2007,Hawaii,HI,15,0.684,https://www.fns.usda.gov/snap/qc/pai
-2007,Idaho,ID,16,0.356,https://www.fns.usda.gov/snap/qc/pai
-2007,Illinois,IL,17,0.635,https://www.fns.usda.gov/snap/qc/pai
-2007,Indiana,IN,18,0.587,https://www.fns.usda.gov/snap/qc/pai
-2007,Iowa,IA,19,0.57,https://www.fns.usda.gov/snap/qc/pai
-2007,Kansas,KS,20,0.447,https://www.fns.usda.gov/snap/qc/pai
-2007,Kentucky,KY,21,0.67,https://www.fns.usda.gov/snap/qc/pai
-2007,Louisiana,LA,22,0.653,https://www.fns.usda.gov/snap/qc/pai
-2007,Maine,ME,23,0.782,https://www.fns.usda.gov/snap/qc/pai
-2007,Maryland,MD,24,0.539,https://www.fns.usda.gov/snap/qc/pai
-2007,Massachusetts,MA,25,0.585,https://www.fns.usda.gov/snap/qc/pai
-2007,Michigan,MI,26,0.68,https://www.fns.usda.gov/snap/qc/pai
-2007,Minnesota,MN,27,0.439,https://www.fns.usda.gov/snap/qc/pai
-2007,Mississippi,MS,28,0.565,https://www.fns.usda.gov/snap/qc/pai
-2007,Missouri,MO,29,0.832,https://www.fns.usda.gov/snap/qc/pai
-2007,Montana,MT,30,0.456,https://www.fns.usda.gov/snap/qc/pai
-2007,Nebraska,NE,31,0.449,https://www.fns.usda.gov/snap/qc/pai
-2007,Nevada,NV,32,0.354,https://www.fns.usda.gov/snap/qc/pai
-2007,New Hampshire,NH,33,0.479,https://www.fns.usda.gov/snap/qc/pai
-2007,New Jersey,NJ,34,0.433,https://www.fns.usda.gov/snap/qc/pai
-2007,New Mexico,NM,35,0.516,https://www.fns.usda.gov/snap/qc/pai
-2007,New York,NY,36,0.545,https://www.fns.usda.gov/snap/qc/pai
-2007,North Carolina,NC,37,0.525,https://www.fns.usda.gov/snap/qc/pai
-2007,North Dakota,ND,38,0.508,https://www.fns.usda.gov/snap/qc/pai
-2007,Ohio,OH,39,0.565,https://www.fns.usda.gov/snap/qc/pai
-2007,Oklahoma,OK,40,0.579,https://www.fns.usda.gov/snap/qc/pai
-2007,Oregon,OR,41,0.687,https://www.fns.usda.gov/snap/qc/pai
-2007,Pennsylvania,PA,42,0.616,https://www.fns.usda.gov/snap/qc/pai
-2007,Rhode Island,RI,44,0.493,https://www.fns.usda.gov/snap/qc/pai
-2007,South Carolina,SC,45,0.641,https://www.fns.usda.gov/snap/qc/pai
-2007,South Dakota,SD,46,0.483,https://www.fns.usda.gov/snap/qc/pai
-2007,Tennessee,TN,47,0.7,https://www.fns.usda.gov/snap/qc/pai
-2007,Texas,TX,48,0.478,https://www.fns.usda.gov/snap/qc/pai
-2007,Utah,UT,49,0.349,https://www.fns.usda.gov/snap/qc/pai
-2007,Vermont,VT,50,0.625,https://www.fns.usda.gov/snap/qc/pai
-2007,Virginia,VA,51,0.533,https://www.fns.usda.gov/snap/qc/pai
-2007,Washington,WA,53,0.566,https://www.fns.usda.gov/snap/qc/pai
-2007,West Virginia,WV,54,0.678,https://www.fns.usda.gov/snap/qc/pai
-2007,Wisconsin,WI,55,0.488,https://www.fns.usda.gov/snap/qc/pai
-2007,Wyoming,WY,56,0.376,https://www.fns.usda.gov/snap/qc/pai
-2008,Alabama,AL,01,0.616,https://www.fns.usda.gov/snap/qc/pai
-2008,Alaska,AK,02,0.729,https://www.fns.usda.gov/snap/qc/pai
-2008,Arizona,AZ,04,0.537,https://www.fns.usda.gov/snap/qc/pai
-2008,Arkansas,AR,05,0.581,https://www.fns.usda.gov/snap/qc/pai
-2008,California,CA,06,0.371,https://www.fns.usda.gov/snap/qc/pai
-2008,Colorado,CO,08,0.351,https://www.fns.usda.gov/snap/qc/pai
-2008,Connecticut,CT,09,0.569,https://www.fns.usda.gov/snap/qc/pai
-2008,Delaware,DE,10,0.67,https://www.fns.usda.gov/snap/qc/pai
-2008,District of Columbia,DC,11,0.796,https://www.fns.usda.gov/snap/qc/pai
-2008,Florida,FL,12,0.482,https://www.fns.usda.gov/snap/qc/pai
-2008,Georgia,GA,13,0.584,https://www.fns.usda.gov/snap/qc/pai
-2008,Hawaii,HI,15,0.655,https://www.fns.usda.gov/snap/qc/pai
-2008,Idaho,ID,16,0.403,https://www.fns.usda.gov/snap/qc/pai
-2008,Illinois,IL,17,0.655,https://www.fns.usda.gov/snap/qc/pai
-2008,Indiana,IN,18,0.585,https://www.fns.usda.gov/snap/qc/pai
-2008,Iowa,IA,19,0.584,https://www.fns.usda.gov/snap/qc/pai
-2008,Kansas,KS,20,0.442,https://www.fns.usda.gov/snap/qc/pai
-2008,Kentucky,KY,21,0.694,https://www.fns.usda.gov/snap/qc/pai
-2008,Louisiana,LA,22,0.712,https://www.fns.usda.gov/snap/qc/pai
-2008,Maine,ME,23,0.833,https://www.fns.usda.gov/snap/qc/pai
-2008,Maryland,MD,24,0.639,https://www.fns.usda.gov/snap/qc/pai
-2008,Massachusetts,MA,25,0.654,https://www.fns.usda.gov/snap/qc/pai
-2008,Michigan,MI,26,0.71,https://www.fns.usda.gov/snap/qc/pai
-2008,Minnesota,MN,27,0.45,https://www.fns.usda.gov/snap/qc/pai
-2008,Mississippi,MS,28,0.58,https://www.fns.usda.gov/snap/qc/pai
-2008,Missouri,MO,29,0.9,https://www.fns.usda.gov/snap/qc/pai
-2008,Montana,MT,30,0.467,https://www.fns.usda.gov/snap/qc/pai
-2008,Nebraska,NE,31,0.468,https://www.fns.usda.gov/snap/qc/pai
-2008,Nevada,NV,32,0.39,https://www.fns.usda.gov/snap/qc/pai
-2008,New Hampshire,NH,33,0.508,https://www.fns.usda.gov/snap/qc/pai
-2008,New Jersey,NJ,34,0.457,https://www.fns.usda.gov/snap/qc/pai
-2008,New Mexico,NM,35,0.557,https://www.fns.usda.gov/snap/qc/pai
-2008,New York,NY,36,0.609,https://www.fns.usda.gov/snap/qc/pai
-2008,North Carolina,NC,37,0.562,https://www.fns.usda.gov/snap/qc/pai
-2008,North Dakota,ND,38,0.51,https://www.fns.usda.gov/snap/qc/pai
-2008,Ohio,OH,39,0.609,https://www.fns.usda.gov/snap/qc/pai
-2008,Oklahoma,OK,40,0.595,https://www.fns.usda.gov/snap/qc/pai
-2008,Oregon,OR,41,0.735,https://www.fns.usda.gov/snap/qc/pai
-2008,Pennsylvania,PA,42,0.63,https://www.fns.usda.gov/snap/qc/pai
-2008,Rhode Island,RI,44,0.586,https://www.fns.usda.gov/snap/qc/pai
-2008,South Carolina,SC,45,0.672,https://www.fns.usda.gov/snap/qc/pai
-2008,South Dakota,SD,46,0.551,https://www.fns.usda.gov/snap/qc/pai
-2008,Tennessee,TN,47,0.747,https://www.fns.usda.gov/snap/qc/pai
-2008,Texas,TX,48,0.526,https://www.fns.usda.gov/snap/qc/pai
-2008,Utah,UT,49,0.389,https://www.fns.usda.gov/snap/qc/pai
-2008,Vermont,VT,50,0.679,https://www.fns.usda.gov/snap/qc/pai
-2008,Virginia,VA,51,0.556,https://www.fns.usda.gov/snap/qc/pai
-2008,Washington,WA,53,0.628,https://www.fns.usda.gov/snap/qc/pai
-2008,West Virginia,WV,54,0.718,https://www.fns.usda.gov/snap/qc/pai
-2008,Wisconsin,WI,55,0.586,https://www.fns.usda.gov/snap/qc/pai
-2008,Wyoming,WY,56,0.363,https://www.fns.usda.gov/snap/qc/pai
-2009,Alabama,AL,01,0.681,https://www.fns.usda.gov/snap/qc/pai
-2009,Alaska,AK,02,0.809,https://www.fns.usda.gov/snap/qc/pai
-2009,Arizona,AZ,04,0.639,https://www.fns.usda.gov/snap/qc/pai
-2009,Arkansas,AR,05,0.615,https://www.fns.usda.gov/snap/qc/pai
-2009,California,CA,06,0.428,https://www.fns.usda.gov/snap/qc/pai
-2009,Colorado,CO,08,0.418,https://www.fns.usda.gov/snap/qc/pai
-2009,Connecticut,CT,09,0.681,https://www.fns.usda.gov/snap/qc/pai
-2009,Delaware,DE,10,0.766,https://www.fns.usda.gov/snap/qc/pai
-2009,District of Columbia,DC,11,0.87,https://www.fns.usda.gov/snap/qc/pai
-2009,Florida,FL,12,0.587,https://www.fns.usda.gov/snap/qc/pai
-2009,Georgia,GA,13,0.665,https://www.fns.usda.gov/snap/qc/pai
-2009,Hawaii,HI,15,0.702,https://www.fns.usda.gov/snap/qc/pai
-2009,Idaho,ID,16,0.501,https://www.fns.usda.gov/snap/qc/pai
-2009,Illinois,IL,17,0.688,https://www.fns.usda.gov/snap/qc/pai
-2009,Indiana,IN,18,0.628,https://www.fns.usda.gov/snap/qc/pai
-2009,Iowa,IA,19,0.662,https://www.fns.usda.gov/snap/qc/pai
-2009,Kansas,KS,20,0.478,https://www.fns.usda.gov/snap/qc/pai
-2009,Kentucky,KY,21,0.732,https://www.fns.usda.gov/snap/qc/pai
-2009,Louisiana,LA,22,0.754,https://www.fns.usda.gov/snap/qc/pai
-2009,Maine,ME,23,0.963,https://www.fns.usda.gov/snap/qc/pai
-2009,Maryland,MD,24,0.723,https://www.fns.usda.gov/snap/qc/pai
-2009,Massachusetts,MA,25,0.776,https://www.fns.usda.gov/snap/qc/pai
-2009,Michigan,MI,26,0.764,https://www.fns.usda.gov/snap/qc/pai
-2009,Minnesota,MN,27,0.496,https://www.fns.usda.gov/snap/qc/pai
-2009,Mississippi,MS,28,0.659,https://www.fns.usda.gov/snap/qc/pai
-2009,Missouri,MO,29,0.746,https://www.fns.usda.gov/snap/qc/pai
-2009,Montana,MT,30,0.522,https://www.fns.usda.gov/snap/qc/pai
-2009,Nebraska,NE,31,0.475,https://www.fns.usda.gov/snap/qc/pai
-2009,Nevada,NV,32,0.502,https://www.fns.usda.gov/snap/qc/pai
-2009,New Hampshire,NH,33,0.614,https://www.fns.usda.gov/snap/qc/pai
-2009,New Jersey,NJ,34,0.494,https://www.fns.usda.gov/snap/qc/pai
-2009,New Mexico,NM,35,0.674,https://www.fns.usda.gov/snap/qc/pai
-2009,New York,NY,36,0.706,https://www.fns.usda.gov/snap/qc/pai
-2009,North Carolina,NC,37,0.62,https://www.fns.usda.gov/snap/qc/pai
-2009,North Dakota,ND,38,0.611,https://www.fns.usda.gov/snap/qc/pai
-2009,Ohio,OH,39,0.653,https://www.fns.usda.gov/snap/qc/pai
-2009,Oklahoma,OK,40,0.678,https://www.fns.usda.gov/snap/qc/pai
-2009,Oregon,OR,41,0.873,https://www.fns.usda.gov/snap/qc/pai
-2009,Pennsylvania,PA,42,0.702,https://www.fns.usda.gov/snap/qc/pai
-2009,Rhode Island,RI,44,0.717,https://www.fns.usda.gov/snap/qc/pai
-2009,South Carolina,SC,45,0.727,https://www.fns.usda.gov/snap/qc/pai
-2009,South Dakota,SD,46,0.578,https://www.fns.usda.gov/snap/qc/pai
-2009,Tennessee,TN,47,0.82,https://www.fns.usda.gov/snap/qc/pai
-2009,Texas,TX,48,0.555,https://www.fns.usda.gov/snap/qc/pai
-2009,Utah,UT,49,0.461,https://www.fns.usda.gov/snap/qc/pai
-2009,Vermont,VT,50,0.861,https://www.fns.usda.gov/snap/qc/pai
-2009,Virginia,VA,51,0.649,https://www.fns.usda.gov/snap/qc/pai
-2009,Washington,WA,53,0.782,https://www.fns.usda.gov/snap/qc/pai
-2009,West Virginia,WV,54,0.774,https://www.fns.usda.gov/snap/qc/pai
-2009,Wisconsin,WI,55,0.66,https://www.fns.usda.gov/snap/qc/pai
-2009,Wyoming,WY,56,0.398,https://www.fns.usda.gov/snap/qc/pai
-2010,Alabama,AL,01,0.714,https://www.fns.usda.gov/snap/qc/pai
-2010,Alaska,AK,02,0.803,https://www.fns.usda.gov/snap/qc/pai
-2010,Arizona,AZ,04,0.706,https://www.fns.usda.gov/snap/qc/pai
-2010,Arkansas,AR,05,0.669,https://www.fns.usda.gov/snap/qc/pai
-2010,California,CA,06,0.458,https://www.fns.usda.gov/snap/qc/pai
-2010,Colorado,CO,08,0.476,https://www.fns.usda.gov/snap/qc/pai
-2010,Connecticut,CT,09,0.769,https://www.fns.usda.gov/snap/qc/pai
-2010,Delaware,DE,10,0.926,https://www.fns.usda.gov/snap/qc/pai
-2010,District of Columbia,DC,11,0.959,https://www.fns.usda.gov/snap/qc/pai
-2010,Florida,FL,12,0.681,https://www.fns.usda.gov/snap/qc/pai
-2010,Georgia,GA,13,0.749,https://www.fns.usda.gov/snap/qc/pai
-2010,Hawaii,HI,15,0.777,https://www.fns.usda.gov/snap/qc/pai
-2010,Idaho,ID,16,0.622,https://www.fns.usda.gov/snap/qc/pai
-2010,Illinois,IL,17,0.74,https://www.fns.usda.gov/snap/qc/pai
-2010,Indiana,IN,18,0.661,https://www.fns.usda.gov/snap/qc/pai
-2010,Iowa,IA,19,0.693,https://www.fns.usda.gov/snap/qc/pai
-2010,Kansas,KS,20,0.538,https://www.fns.usda.gov/snap/qc/pai
-2010,Kentucky,KY,21,0.762,https://www.fns.usda.gov/snap/qc/pai
-2010,Louisiana,LA,22,0.79,https://www.fns.usda.gov/snap/qc/pai
-2010,Maine,ME,23,1.017,https://www.fns.usda.gov/snap/qc/pai
-2010,Maryland,MD,24,0.817,https://www.fns.usda.gov/snap/qc/pai
-2010,Massachusetts,MA,25,0.81,https://www.fns.usda.gov/snap/qc/pai
-2010,Michigan,MI,26,0.887,https://www.fns.usda.gov/snap/qc/pai
-2010,Minnesota,MN,27,0.555,https://www.fns.usda.gov/snap/qc/pai
-2010,Mississippi,MS,28,0.707,https://www.fns.usda.gov/snap/qc/pai
-2010,Missouri,MO,29,0.785,https://www.fns.usda.gov/snap/qc/pai
-2010,Montana,MT,30,0.61,https://www.fns.usda.gov/snap/qc/pai
-2010,Nebraska,NE,31,0.541,https://www.fns.usda.gov/snap/qc/pai
-2010,Nevada,NV,32,0.571,https://www.fns.usda.gov/snap/qc/pai
-2010,New Hampshire,NH,33,0.756,https://www.fns.usda.gov/snap/qc/pai
-2010,New Jersey,NJ,34,0.561,https://www.fns.usda.gov/snap/qc/pai
-2010,New Mexico,NM,35,0.701,https://www.fns.usda.gov/snap/qc/pai
-2010,New York,NY,36,0.781,https://www.fns.usda.gov/snap/qc/pai
-2010,North Carolina,NC,37,0.661,https://www.fns.usda.gov/snap/qc/pai
-2010,North Dakota,ND,38,0.554,https://www.fns.usda.gov/snap/qc/pai
-2010,Ohio,OH,39,0.726,https://www.fns.usda.gov/snap/qc/pai
-2010,Oklahoma,OK,40,0.752,https://www.fns.usda.gov/snap/qc/pai
-2010,Oregon,OR,41,0.917,https://www.fns.usda.gov/snap/qc/pai
-2010,Pennsylvania,PA,42,0.748,https://www.fns.usda.gov/snap/qc/pai
-2010,Rhode Island,RI,44,0.784,https://www.fns.usda.gov/snap/qc/pai
-2010,South Carolina,SC,45,0.772,https://www.fns.usda.gov/snap/qc/pai
-2010,South Dakota,SD,46,0.67,https://www.fns.usda.gov/snap/qc/pai
-2010,Tennessee,TN,47,0.865,https://www.fns.usda.gov/snap/qc/pai
-2010,Texas,TX,48,0.639,https://www.fns.usda.gov/snap/qc/pai
-2010,Utah,UT,49,0.56,https://www.fns.usda.gov/snap/qc/pai
-2010,Vermont,VT,50,0.869,https://www.fns.usda.gov/snap/qc/pai
-2010,Virginia,VA,51,0.704,https://www.fns.usda.gov/snap/qc/pai
-2010,Washington,WA,53,0.858,https://www.fns.usda.gov/snap/qc/pai
-2010,West Virginia,WV,54,0.801,https://www.fns.usda.gov/snap/qc/pai
-2010,Wisconsin,WI,55,0.781,https://www.fns.usda.gov/snap/qc/pai
-2010,Wyoming,WY,56,0.428,https://www.fns.usda.gov/snap/qc/pai
-2011,Alabama,AL,01,0.759,https://www.fns.usda.gov/snap/qc/pai
-2011,Alaska,AK,02,0.862,https://www.fns.usda.gov/snap/qc/pai
-2011,Arizona,AZ,04,0.711,https://www.fns.usda.gov/snap/qc/pai
-2011,Arkansas,AR,05,0.677,https://www.fns.usda.gov/snap/qc/pai
-2011,California,CA,06,0.49,https://www.fns.usda.gov/snap/qc/pai
-2011,Colorado,CO,08,0.514,https://www.fns.usda.gov/snap/qc/pai
-2011,Connecticut,CT,09,0.777,https://www.fns.usda.gov/snap/qc/pai
-2011,Delaware,DE,10,0.989,https://www.fns.usda.gov/snap/qc/pai
-2011,District of Columbia,DC,11,1.07,https://www.fns.usda.gov/snap/qc/pai
-2011,Florida,FL,12,0.746,https://www.fns.usda.gov/snap/qc/pai
-2011,Georgia,GA,13,0.777,https://www.fns.usda.gov/snap/qc/pai
-2011,Hawaii,HI,15,0.794,https://www.fns.usda.gov/snap/qc/pai
-2011,Idaho,ID,16,0.693,https://www.fns.usda.gov/snap/qc/pai
-2011,Illinois,IL,17,0.738,https://www.fns.usda.gov/snap/qc/pai
-2011,Indiana,IN,18,0.677,https://www.fns.usda.gov/snap/qc/pai
-2011,Iowa,IA,19,0.766,https://www.fns.usda.gov/snap/qc/pai
-2011,Kansas,KS,20,0.589,https://www.fns.usda.gov/snap/qc/pai
-2011,Kentucky,KY,21,0.797,https://www.fns.usda.gov/snap/qc/pai
-2011,Louisiana,LA,22,0.779,https://www.fns.usda.gov/snap/qc/pai
-2011,Maine,ME,23,1.002,https://www.fns.usda.gov/snap/qc/pai
-2011,Maryland,MD,24,0.924,https://www.fns.usda.gov/snap/qc/pai
-2011,Massachusetts,MA,25,0.851,https://www.fns.usda.gov/snap/qc/pai
-2011,Michigan,MI,26,0.889,https://www.fns.usda.gov/snap/qc/pai
-2011,Minnesota,MN,27,0.637,https://www.fns.usda.gov/snap/qc/pai
-2011,Mississippi,MS,28,0.752,https://www.fns.usda.gov/snap/qc/pai
-2011,Missouri,MO,29,0.783,https://www.fns.usda.gov/snap/qc/pai
-2011,Montana,MT,30,0.639,https://www.fns.usda.gov/snap/qc/pai
-2011,Nebraska,NE,31,0.551,https://www.fns.usda.gov/snap/qc/pai
-2011,Nevada,NV,32,0.608,https://www.fns.usda.gov/snap/qc/pai
-2011,New Hampshire,NH,33,0.745,https://www.fns.usda.gov/snap/qc/pai
-2011,New Jersey,NJ,34,0.65,https://www.fns.usda.gov/snap/qc/pai
-2011,New Mexico,NM,35,0.755,https://www.fns.usda.gov/snap/qc/pai
-2011,New York,NY,36,0.779,https://www.fns.usda.gov/snap/qc/pai
-2011,North Carolina,NC,37,0.732,https://www.fns.usda.gov/snap/qc/pai
-2011,North Dakota,ND,38,0.599,https://www.fns.usda.gov/snap/qc/pai
-2011,Ohio,OH,39,0.757,https://www.fns.usda.gov/snap/qc/pai
-2011,Oklahoma,OK,40,0.759,https://www.fns.usda.gov/snap/qc/pai
-2011,Oregon,OR,41,0.925,https://www.fns.usda.gov/snap/qc/pai
-2011,Pennsylvania,PA,42,0.788,https://www.fns.usda.gov/snap/qc/pai
-2011,Rhode Island,RI,44,0.872,https://www.fns.usda.gov/snap/qc/pai
-2011,South Carolina,SC,45,0.76,https://www.fns.usda.gov/snap/qc/pai
-2011,South Dakota,SD,46,0.728,https://www.fns.usda.gov/snap/qc/pai
-2011,Tennessee,TN,47,0.859,https://www.fns.usda.gov/snap/qc/pai
-2011,Texas,TX,48,0.668,https://www.fns.usda.gov/snap/qc/pai
-2011,Utah,UT,49,0.583,https://www.fns.usda.gov/snap/qc/pai
-2011,Vermont,VT,50,0.969,https://www.fns.usda.gov/snap/qc/pai
-2011,Virginia,VA,51,0.72,https://www.fns.usda.gov/snap/qc/pai
-2011,Washington,WA,53,0.886,https://www.fns.usda.gov/snap/qc/pai
-2011,West Virginia,WV,54,0.794,https://www.fns.usda.gov/snap/qc/pai
-2011,Wisconsin,WI,55,0.839,https://www.fns.usda.gov/snap/qc/pai
-2011,Wyoming,WY,56,0.433,https://www.fns.usda.gov/snap/qc/pai
-2012,Alabama,AL,01,0.78733,https://www.fns.usda.gov/snap/qc/pai
-2012,Alaska,AK,02,0.87019,https://www.fns.usda.gov/snap/qc/pai
-2012,Arizona,AZ,04,0.73279,https://www.fns.usda.gov/snap/qc/pai
-2012,Arkansas,AR,05,0.68208,https://www.fns.usda.gov/snap/qc/pai
-2012,California,CA,06,0.50999,https://www.fns.usda.gov/snap/qc/pai
-2012,Colorado,CO,08,0.55241,https://www.fns.usda.gov/snap/qc/pai
-2012,Connecticut,CT,09,0.84387,https://www.fns.usda.gov/snap/qc/pai
-2012,Delaware,DE,10,1.08182,https://www.fns.usda.gov/snap/qc/pai
-2012,District of Columbia,DC,11,1.06447,https://www.fns.usda.gov/snap/qc/pai
-2012,Florida,FL,12,0.79825,https://www.fns.usda.gov/snap/qc/pai
-2012,Georgia,GA,13,0.8148,https://www.fns.usda.gov/snap/qc/pai
-2012,Hawaii,HI,15,0.88439,https://www.fns.usda.gov/snap/qc/pai
-2012,Idaho,ID,16,0.69459,https://www.fns.usda.gov/snap/qc/pai
-2012,Illinois,IL,17,0.79969,https://www.fns.usda.gov/snap/qc/pai
-2012,Indiana,IN,18,0.70882,https://www.fns.usda.gov/snap/qc/pai
-2012,Iowa,IA,19,0.8375,https://www.fns.usda.gov/snap/qc/pai
-2012,Kansas,KS,20,0.59309,https://www.fns.usda.gov/snap/qc/pai
-2012,Kentucky,KY,21,0.81245,https://www.fns.usda.gov/snap/qc/pai
-2012,Louisiana,LA,22,0.79858,https://www.fns.usda.gov/snap/qc/pai
-2012,Maine,ME,23,0.99529,https://www.fns.usda.gov/snap/qc/pai
-2012,Maryland,MD,24,0.95124,https://www.fns.usda.gov/snap/qc/pai
-2012,Massachusetts,MA,25,0.89534,https://www.fns.usda.gov/snap/qc/pai
-2012,Michigan,MI,26,0.85328,https://www.fns.usda.gov/snap/qc/pai
-2012,Minnesota,MN,27,0.68344,https://www.fns.usda.gov/snap/qc/pai
-2012,Mississippi,MS,28,0.74509,https://www.fns.usda.gov/snap/qc/pai
-2012,Missouri,MO,29,0.76726,https://www.fns.usda.gov/snap/qc/pai
-2012,Montana,MT,30,0.62541,https://www.fns.usda.gov/snap/qc/pai
-2012,Nebraska,NE,31,0.55454,https://www.fns.usda.gov/snap/qc/pai
-2012,Nevada,NV,32,0.59972,https://www.fns.usda.gov/snap/qc/pai
-2012,New Hampshire,NH,33,0.7071,https://www.fns.usda.gov/snap/qc/pai
-2012,New Jersey,NJ,34,0.68362,https://www.fns.usda.gov/snap/qc/pai
-2012,New Mexico,NM,35,0.80924,https://www.fns.usda.gov/snap/qc/pai
-2012,New York,NY,36,0.80195,https://www.fns.usda.gov/snap/qc/pai
-2012,North Carolina,NC,37,0.74581,https://www.fns.usda.gov/snap/qc/pai
-2012,North Dakota,ND,38,0.60331,https://www.fns.usda.gov/snap/qc/pai
-2012,Ohio,OH,39,0.77139,https://www.fns.usda.gov/snap/qc/pai
-2012,Oklahoma,OK,40,0.74868,https://www.fns.usda.gov/snap/qc/pai
-2012,Oregon,OR,41,0.96415,https://www.fns.usda.gov/snap/qc/pai
-2012,Pennsylvania,PA,42,0.81183,https://www.fns.usda.gov/snap/qc/pai
-2012,Rhode Island,RI,44,0.95549,https://www.fns.usda.gov/snap/qc/pai
-2012,South Carolina,SC,45,0.79514,https://www.fns.usda.gov/snap/qc/pai
-2012,South Dakota,SD,46,0.7596,https://www.fns.usda.gov/snap/qc/pai
-2012,Tennessee,TN,47,0.90703,https://www.fns.usda.gov/snap/qc/pai
-2012,Texas,TX,48,0.67058,https://www.fns.usda.gov/snap/qc/pai
-2012,Utah,UT,49,0.54421,https://www.fns.usda.gov/snap/qc/pai
-2012,Vermont,VT,50,1.03502,https://www.fns.usda.gov/snap/qc/pai
-2012,Virginia,VA,51,0.74711,https://www.fns.usda.gov/snap/qc/pai
-2012,Washington,WA,53,0.94112,https://www.fns.usda.gov/snap/qc/pai
-2012,West Virginia,WV,54,0.82554,https://www.fns.usda.gov/snap/qc/pai
-2012,Wisconsin,WI,55,0.87023,https://www.fns.usda.gov/snap/qc/pai
-2012,Wyoming,WY,56,0.39759,https://www.fns.usda.gov/snap/qc/pai
-2013,Alabama,AL,01,0.791,https://www.fns.usda.gov/snap/qc/pai
-2013,Alaska,AK,02,0.969,https://www.fns.usda.gov/snap/qc/pai
-2013,Arizona,AZ,04,0.714,https://www.fns.usda.gov/snap/qc/pai
-2013,Arkansas,AR,05,0.674,https://www.fns.usda.gov/snap/qc/pai
-2013,California,CA,06,0.532,https://www.fns.usda.gov/snap/qc/pai
-2013,Colorado,CO,08,0.568,https://www.fns.usda.gov/snap/qc/pai
-2013,Connecticut,CT,09,0.885,https://www.fns.usda.gov/snap/qc/pai
-2013,Delaware,DE,10,0.998,https://www.fns.usda.gov/snap/qc/pai
-2013,District of Columbia,DC,11,1.031,https://www.fns.usda.gov/snap/qc/pai
-2013,Florida,FL,12,0.836,https://www.fns.usda.gov/snap/qc/pai
-2013,Georgia,GA,13,0.809,https://www.fns.usda.gov/snap/qc/pai
-2013,Hawaii,HI,15,0.961,https://www.fns.usda.gov/snap/qc/pai
-2013,Idaho,ID,16,0.674,https://www.fns.usda.gov/snap/qc/pai
-2013,Illinois,IL,17,0.852,https://www.fns.usda.gov/snap/qc/pai
-2013,Indiana,IN,18,0.699,https://www.fns.usda.gov/snap/qc/pai
-2013,Iowa,IA,19,0.842,https://www.fns.usda.gov/snap/qc/pai
-2013,Kansas,KS,20,0.618,https://www.fns.usda.gov/snap/qc/pai
-2013,Kentucky,KY,21,0.841,https://www.fns.usda.gov/snap/qc/pai
-2013,Louisiana,LA,22,0.811,https://www.fns.usda.gov/snap/qc/pai
-2013,Maine,ME,23,0.981,https://www.fns.usda.gov/snap/qc/pai
-2013,Maryland,MD,24,1.014,https://www.fns.usda.gov/snap/qc/pai
-2013,Massachusetts,MA,25,0.898,https://www.fns.usda.gov/snap/qc/pai
-2013,Michigan,MI,26,0.847,https://www.fns.usda.gov/snap/qc/pai
-2013,Minnesota,MN,27,0.708,https://www.fns.usda.gov/snap/qc/pai
-2013,Mississippi,MS,28,0.763,https://www.fns.usda.gov/snap/qc/pai
-2013,Missouri,MO,29,0.756,https://www.fns.usda.gov/snap/qc/pai
-2013,Montana,MT,30,0.601,https://www.fns.usda.gov/snap/qc/pai
-2013,Nebraska,NE,31,0.553,https://www.fns.usda.gov/snap/qc/pai
-2013,Nevada,NV,32,0.625,https://www.fns.usda.gov/snap/qc/pai
-2013,New Hampshire,NH,33,0.762,https://www.fns.usda.gov/snap/qc/pai
-2013,New Jersey,NJ,34,0.677,https://www.fns.usda.gov/snap/qc/pai
-2013,New Mexico,NM,35,0.757,https://www.fns.usda.gov/snap/qc/pai
-2013,New York,NY,36,0.82,https://www.fns.usda.gov/snap/qc/pai
-2013,North Carolina,NC,37,0.747,https://www.fns.usda.gov/snap/qc/pai
-2013,North Dakota,ND,38,0.511,https://www.fns.usda.gov/snap/qc/pai
-2013,Ohio,OH,39,0.785,https://www.fns.usda.gov/snap/qc/pai
-2013,Oklahoma,OK,40,0.771,https://www.fns.usda.gov/snap/qc/pai
-2013,Oregon,OR,41,0.963,https://www.fns.usda.gov/snap/qc/pai
-2013,Pennsylvania,PA,42,0.817,https://www.fns.usda.gov/snap/qc/pai
-2013,Rhode Island,RI,44,0.946,https://www.fns.usda.gov/snap/qc/pai
-2013,South Carolina,SC,45,0.795,https://www.fns.usda.gov/snap/qc/pai
-2013,South Dakota,SD,46,0.685,https://www.fns.usda.gov/snap/qc/pai
-2013,Tennessee,TN,47,0.91,https://www.fns.usda.gov/snap/qc/pai
-2013,Texas,TX,48,0.673,https://www.fns.usda.gov/snap/qc/pai
-2013,Utah,UT,49,0.507,https://www.fns.usda.gov/snap/qc/pai
-2013,Vermont,VT,50,0.984,https://www.fns.usda.gov/snap/qc/pai
-2013,Virginia,VA,51,0.754,https://www.fns.usda.gov/snap/qc/pai
-2013,Washington,WA,53,0.89,https://www.fns.usda.gov/snap/qc/pai
-2013,West Virginia,WV,54,0.821,https://www.fns.usda.gov/snap/qc/pai
-2013,Wisconsin,WI,55,0.863,https://www.fns.usda.gov/snap/qc/pai
-2013,Wyoming,WY,56,0.45,https://www.fns.usda.gov/snap/qc/pai
-2014,Alabama,AL,01,0.761,https://www.fns.usda.gov/snap/qc/pai
-2014,Alaska,AK,02,0.788,https://www.fns.usda.gov/snap/qc/pai
-2014,Arizona,AZ,04,0.666,https://www.fns.usda.gov/snap/qc/pai
-2014,Arkansas,AR,05,0.675,https://www.fns.usda.gov/snap/qc/pai
-2014,California,CA,06,0.565,https://www.fns.usda.gov/snap/qc/pai
-2014,Colorado,CO,08,0.591,https://www.fns.usda.gov/snap/qc/pai
-2014,Connecticut,CT,09,0.912,https://www.fns.usda.gov/snap/qc/pai
-2014,Delaware,DE,10,1.042,https://www.fns.usda.gov/snap/qc/pai
-2014,District of Columbia,DC,11,1.093,https://www.fns.usda.gov/snap/qc/pai
-2014,Florida,FL,12,0.836,https://www.fns.usda.gov/snap/qc/pai
-2014,Georgia,GA,13,0.795,https://www.fns.usda.gov/snap/qc/pai
-2014,Hawaii,HI,15,0.929,https://www.fns.usda.gov/snap/qc/pai
-2014,Idaho,ID,16,0.616,https://www.fns.usda.gov/snap/qc/pai
-2014,Illinois,IL,17,0.86,https://www.fns.usda.gov/snap/qc/pai
-2014,Indiana,IN,18,0.684,https://www.fns.usda.gov/snap/qc/pai
-2014,Iowa,IA,19,0.805,https://www.fns.usda.gov/snap/qc/pai
-2014,Kansas,KS,20,0.566,https://www.fns.usda.gov/snap/qc/pai
-2014,Kentucky,KY,21,0.774,https://www.fns.usda.gov/snap/qc/pai
-2014,Louisiana,LA,22,0.76,https://www.fns.usda.gov/snap/qc/pai
-2014,Maine,ME,23,0.928,https://www.fns.usda.gov/snap/qc/pai
-2014,Maryland,MD,24,1.005,https://www.fns.usda.gov/snap/qc/pai
-2014,Massachusetts,MA,25,0.863,https://www.fns.usda.gov/snap/qc/pai
-2014,Michigan,MI,26,0.813,https://www.fns.usda.gov/snap/qc/pai
-2014,Minnesota,MN,27,0.664,https://www.fns.usda.gov/snap/qc/pai
-2014,Mississippi,MS,28,0.803,https://www.fns.usda.gov/snap/qc/pai
-2014,Missouri,MO,29,0.709,https://www.fns.usda.gov/snap/qc/pai
-2014,Montana,MT,30,0.605,https://www.fns.usda.gov/snap/qc/pai
-2014,Nebraska,NE,31,0.557,https://www.fns.usda.gov/snap/qc/pai
-2014,Nevada,NV,32,0.683,https://www.fns.usda.gov/snap/qc/pai
-2014,New Hampshire,NH,33,0.701,https://www.fns.usda.gov/snap/qc/pai
-2014,New Jersey,NJ,34,0.704,https://www.fns.usda.gov/snap/qc/pai
-2014,New Mexico,NM,35,0.779,https://www.fns.usda.gov/snap/qc/pai
-2014,New York,NY,36,0.791,https://www.fns.usda.gov/snap/qc/pai
-2014,North Carolina,NC,37,0.722,https://www.fns.usda.gov/snap/qc/pai
-2014,North Dakota,ND,38,0.52,https://www.fns.usda.gov/snap/qc/pai
-2014,Ohio,OH,39,0.758,https://www.fns.usda.gov/snap/qc/pai
-2014,Oklahoma,OK,40,0.756,https://www.fns.usda.gov/snap/qc/pai
-2014,Oregon,OR,41,0.942,https://www.fns.usda.gov/snap/qc/pai
-2014,Pennsylvania,PA,42,0.819,https://www.fns.usda.gov/snap/qc/pai
-2014,Rhode Island,RI,44,0.942,https://www.fns.usda.gov/snap/qc/pai
-2014,South Carolina,SC,45,0.743,https://www.fns.usda.gov/snap/qc/pai
-2014,South Dakota,SD,46,0.713,https://www.fns.usda.gov/snap/qc/pai
-2014,Tennessee,TN,47,0.849,https://www.fns.usda.gov/snap/qc/pai
-2014,Texas,TX,48,0.642,https://www.fns.usda.gov/snap/qc/pai
-2014,Utah,UT,49,0.494,https://www.fns.usda.gov/snap/qc/pai
-2014,Vermont,VT,50,0.93,https://www.fns.usda.gov/snap/qc/pai
-2014,Virginia,VA,51,0.723,https://www.fns.usda.gov/snap/qc/pai
-2014,Washington,WA,53,0.921,https://www.fns.usda.gov/snap/qc/pai
-2014,West Virginia,WV,54,0.861,https://www.fns.usda.gov/snap/qc/pai
-2014,Wisconsin,WI,55,0.876,https://www.fns.usda.gov/snap/qc/pai
-2014,Wyoming,WY,56,0.385,https://www.fns.usda.gov/snap/qc/pai
-2015,Alabama,AL,01,0.783,https://www.fns.usda.gov/snap/qc/pai
-2015,Alaska,AK,02,0.815,https://www.fns.usda.gov/snap/qc/pai
-2015,Arizona,AZ,04,0.668,https://www.fns.usda.gov/snap/qc/pai
-2015,Arkansas,AR,05,0.633,https://www.fns.usda.gov/snap/qc/pai
-2015,California,CA,06,0.602,https://www.fns.usda.gov/snap/qc/pai
-2015,Colorado,CO,08,0.603,https://www.fns.usda.gov/snap/qc/pai
-2015,Connecticut,CT,09,0.92,https://www.fns.usda.gov/snap/qc/pai
-2015,Delaware,DE,10,1.015,https://www.fns.usda.gov/snap/qc/pai
-2015,District of Columbia,DC,11,1.031,https://www.fns.usda.gov/snap/qc/pai
-2015,Florida,FL,12,0.872,https://www.fns.usda.gov/snap/qc/pai
-2015,Georgia,GA,13,0.81,https://www.fns.usda.gov/snap/qc/pai
-2015,Hawaii,HI,15,1.003,https://www.fns.usda.gov/snap/qc/pai
-2015,Idaho,ID,16,0.606,https://www.fns.usda.gov/snap/qc/pai
-2015,Illinois,IL,17,0.907,https://www.fns.usda.gov/snap/qc/pai
-2015,Indiana,IN,18,0.664,https://www.fns.usda.gov/snap/qc/pai
-2015,Iowa,IA,19,0.786,https://www.fns.usda.gov/snap/qc/pai
-2015,Kansas,KS,20,0.549,https://www.fns.usda.gov/snap/qc/pai
-2015,Kentucky,KY,21,0.746,https://www.fns.usda.gov/snap/qc/pai
-2015,Louisiana,LA,22,0.764,https://www.fns.usda.gov/snap/qc/pai
-2015,Maine,ME,23,0.858,https://www.fns.usda.gov/snap/qc/pai
-2015,Maryland,MD,24,1.041,https://www.fns.usda.gov/snap/qc/pai
-2015,Massachusetts,MA,25,0.801,https://www.fns.usda.gov/snap/qc/pai
-2015,Michigan,MI,26,0.789,https://www.fns.usda.gov/snap/qc/pai
-2015,Minnesota,MN,27,0.656,https://www.fns.usda.gov/snap/qc/pai
-2015,Mississippi,MS,28,0.77,https://www.fns.usda.gov/snap/qc/pai
-2015,Missouri,MO,29,0.74,https://www.fns.usda.gov/snap/qc/pai
-2015,Montana,MT,30,0.617,https://www.fns.usda.gov/snap/qc/pai
-2015,Nebraska,NE,31,0.575,https://www.fns.usda.gov/snap/qc/pai
-2015,Nevada,NV,32,0.766,https://www.fns.usda.gov/snap/qc/pai
-2015,New Hampshire,NH,33,0.758,https://www.fns.usda.gov/snap/qc/pai
-2015,New Jersey,NJ,34,0.717,https://www.fns.usda.gov/snap/qc/pai
-2015,New Mexico,NM,35,,https://www.fns.usda.gov/snap/qc/pai
-2015,New York,NY,36,0.791,https://www.fns.usda.gov/snap/qc/pai
-2015,North Carolina,NC,37,0.767,https://www.fns.usda.gov/snap/qc/pai
-2015,North Dakota,ND,38,0.534,https://www.fns.usda.gov/snap/qc/pai
-2015,Ohio,OH,39,0.761,https://www.fns.usda.gov/snap/qc/pai
-2015,Oklahoma,OK,40,0.767,https://www.fns.usda.gov/snap/qc/pai
-2015,Oregon,OR,41,0.98,https://www.fns.usda.gov/snap/qc/pai
-2015,Pennsylvania,PA,42,0.873,https://www.fns.usda.gov/snap/qc/pai
-2015,Rhode Island,RI,44,0.95,https://www.fns.usda.gov/snap/qc/pai
-2015,South Carolina,SC,45,0.808,https://www.fns.usda.gov/snap/qc/pai
-2015,South Dakota,SD,46,0.68,https://www.fns.usda.gov/snap/qc/pai
-2015,Tennessee,TN,47,0.842,https://www.fns.usda.gov/snap/qc/pai
-2015,Texas,TX,48,0.656,https://www.fns.usda.gov/snap/qc/pai
-2015,Utah,UT,49,0.503,https://www.fns.usda.gov/snap/qc/pai
-2015,Vermont,VT,50,0.926,https://www.fns.usda.gov/snap/qc/pai
-2015,Virginia,VA,51,0.708,https://www.fns.usda.gov/snap/qc/pai
-2015,Washington,WA,53,0.947,https://www.fns.usda.gov/snap/qc/pai
-2015,West Virginia,WV,54,0.881,https://www.fns.usda.gov/snap/qc/pai
-2015,Wisconsin,WI,55,0.871,https://www.fns.usda.gov/snap/qc/pai
-2015,Wyoming,WY,56,0.385,https://www.fns.usda.gov/snap/qc/pai
-2016,Alabama,AL,01,0.791,https://www.fns.usda.gov/snap/qc/pai
-2016,Alaska,AK,02,0.871,https://www.fns.usda.gov/snap/qc/pai
-2016,Arizona,AZ,04,0.659,https://www.fns.usda.gov/snap/qc/pai
-2016,Arkansas,AR,05,0.612,https://www.fns.usda.gov/snap/qc/pai
-2016,California,CA,06,0.617,https://www.fns.usda.gov/snap/qc/pai
-2016,Colorado,CO,08,0.582,https://www.fns.usda.gov/snap/qc/pai
-2016,Connecticut,CT,09,0.956,https://www.fns.usda.gov/snap/qc/pai
-2016,Delaware,DE,10,1.066,https://www.fns.usda.gov/snap/qc/pai
-2016,District of Columbia,DC,11,0.916,https://www.fns.usda.gov/snap/qc/pai
-2016,Florida,FL,12,0.828,https://www.fns.usda.gov/snap/qc/pai
-2016,Georgia,GA,13,0.821,https://www.fns.usda.gov/snap/qc/pai
-2016,Hawaii,HI,15,1.016,https://www.fns.usda.gov/snap/qc/pai
-2016,Idaho,ID,16,0.571,https://www.fns.usda.gov/snap/qc/pai
-2016,Illinois,IL,17,0.888,https://www.fns.usda.gov/snap/qc/pai
-2016,Indiana,IN,18,0.608,https://www.fns.usda.gov/snap/qc/pai
-2016,Iowa,IA,19,0.794,https://www.fns.usda.gov/snap/qc/pai
-2016,Kansas,KS,20,0.531,https://www.fns.usda.gov/snap/qc/pai
-2016,Kentucky,KY,21,0.652,https://www.fns.usda.gov/snap/qc/pai
-2016,Louisiana,LA,22,0.78,https://www.fns.usda.gov/snap/qc/pai
-2016,Maine,ME,23,0.863,https://www.fns.usda.gov/snap/qc/pai
-2016,Maryland,MD,24,0.994,https://www.fns.usda.gov/snap/qc/pai
-2016,Massachusetts,MA,25,0.883,https://www.fns.usda.gov/snap/qc/pai
-2016,Michigan,MI,26,0.767,https://www.fns.usda.gov/snap/qc/pai
-2016,Minnesota,MN,27,0.643,https://www.fns.usda.gov/snap/qc/pai
-2016,Mississippi,MS,28,0.732,https://www.fns.usda.gov/snap/qc/pai
-2016,Missouri,MO,29,0.718,https://www.fns.usda.gov/snap/qc/pai
-2016,Montana,MT,30,0.639,https://www.fns.usda.gov/snap/qc/pai
-2016,Nebraska,NE,31,0.612,https://www.fns.usda.gov/snap/qc/pai
-2016,Nevada,NV,32,0.808,https://www.fns.usda.gov/snap/qc/pai
-2016,New Hampshire,NH,33,0.751,https://www.fns.usda.gov/snap/qc/pai
-2016,New Jersey,NJ,34,0.714,https://www.fns.usda.gov/snap/qc/pai
-2016,New Mexico,NM,35,,https://www.fns.usda.gov/snap/qc/pai
-2016,New York,NY,36,0.816,https://www.fns.usda.gov/snap/qc/pai
-2016,North Carolina,NC,37,0.751,https://www.fns.usda.gov/snap/qc/pai
-2016,North Dakota,ND,38,0.544,https://www.fns.usda.gov/snap/qc/pai
-2016,Ohio,OH,39,0.741,https://www.fns.usda.gov/snap/qc/pai
-2016,Oklahoma,OK,40,0.764,https://www.fns.usda.gov/snap/qc/pai
-2016,Oregon,OR,41,1,https://www.fns.usda.gov/snap/qc/pai
-2016,Pennsylvania,PA,42,0.894,https://www.fns.usda.gov/snap/qc/pai
-2016,Rhode Island,RI,44,0.999,https://www.fns.usda.gov/snap/qc/pai
-2016,South Carolina,SC,45,0.777,https://www.fns.usda.gov/snap/qc/pai
-2016,South Dakota,SD,46,0.709,https://www.fns.usda.gov/snap/qc/pai
-2016,Tennessee,TN,47,0.809,https://www.fns.usda.gov/snap/qc/pai
-2016,Texas,TX,48,0.673,https://www.fns.usda.gov/snap/qc/pai
-2016,Utah,UT,49,0.496,https://www.fns.usda.gov/snap/qc/pai
-2016,Vermont,VT,50,0.826,https://www.fns.usda.gov/snap/qc/pai
-2016,Virginia,VA,51,0.687,https://www.fns.usda.gov/snap/qc/pai
-2016,Washington,WA,53,0.928,https://www.fns.usda.gov/snap/qc/pai
-2016,West Virginia,WV,54,0.838,https://www.fns.usda.gov/snap/qc/pai
-2016,Wisconsin,WI,55,0.815,https://www.fns.usda.gov/snap/qc/pai
-2016,Wyoming,WY,56,0.408,https://www.fns.usda.gov/snap/qc/pai
-2017,Alabama,AL,01,0.746,https://www.fns.usda.gov/snap/qc/pai
-2017,Alaska,AK,02,0.903,https://www.fns.usda.gov/snap/qc/pai
-2017,Arizona,AZ,04,0.669,https://www.fns.usda.gov/snap/qc/pai
-2017,Arkansas,AR,05,0.595,https://www.fns.usda.gov/snap/qc/pai
-2017,California,CA,06,0.623,https://www.fns.usda.gov/snap/qc/pai
-2017,Colorado,CO,08,0.599,https://www.fns.usda.gov/snap/qc/pai
-2017,Connecticut,CT,09,0.921,https://www.fns.usda.gov/snap/qc/pai
-2017,Delaware,DE,10,0.872,https://www.fns.usda.gov/snap/qc/pai
-2017,District of Columbia,DC,11,0.906,https://www.fns.usda.gov/snap/qc/pai
-2017,Florida,FL,12,0.809,https://www.fns.usda.gov/snap/qc/pai
-2017,Georgia,GA,13,0.788,https://www.fns.usda.gov/snap/qc/pai
-2017,Hawaii,HI,15,1.02,https://www.fns.usda.gov/snap/qc/pai
-2017,Idaho,ID,16,0.567,https://www.fns.usda.gov/snap/qc/pai
-2017,Illinois,IL,17,0.892,https://www.fns.usda.gov/snap/qc/pai
-2017,Indiana,IN,18,0.567,https://www.fns.usda.gov/snap/qc/pai
-2017,Iowa,IA,19,0.803,https://www.fns.usda.gov/snap/qc/pai
-2017,Kansas,KS,20,0.498,https://www.fns.usda.gov/snap/qc/pai
-2017,Kentucky,KY,21,0.673,https://www.fns.usda.gov/snap/qc/pai
-2017,Louisiana,LA,22,0.768,https://www.fns.usda.gov/snap/qc/pai
-2017,Maine,ME,23,0.876,https://www.fns.usda.gov/snap/qc/pai
-2017,Maryland,MD,24,0.937,https://www.fns.usda.gov/snap/qc/pai
-2017,Massachusetts,MA,25,0.856,https://www.fns.usda.gov/snap/qc/pai
-2017,Michigan,MI,26,0.749,https://www.fns.usda.gov/snap/qc/pai
-2017,Minnesota,MN,27,0.638,https://www.fns.usda.gov/snap/qc/pai
-2017,Mississippi,MS,28,0.712,https://www.fns.usda.gov/snap/qc/pai
-2017,Missouri,MO,29,0.699,https://www.fns.usda.gov/snap/qc/pai
-2017,Montana,MT,30,0.675,https://www.fns.usda.gov/snap/qc/pai
-2017,Nebraska,NE,31,0.626,https://www.fns.usda.gov/snap/qc/pai
-2017,Nevada,NV,32,0.851,https://www.fns.usda.gov/snap/qc/pai
-2017,New Hampshire,NH,33,0.662,https://www.fns.usda.gov/snap/qc/pai
-2017,New Jersey,NJ,34,0.687,https://www.fns.usda.gov/snap/qc/pai
-2017,New Mexico,NM,35,0.895,https://www.fns.usda.gov/snap/qc/pai
-2017,New York,NY,36,0.811,https://www.fns.usda.gov/snap/qc/pai
-2017,North Carolina,NC,37,0.637,https://www.fns.usda.gov/snap/qc/pai
-2017,North Dakota,ND,38,0.551,https://www.fns.usda.gov/snap/qc/pai
-2017,Ohio,OH,39,0.719,https://www.fns.usda.gov/snap/qc/pai
-2017,Oklahoma,OK,40,0.773,https://www.fns.usda.gov/snap/qc/pai
-2017,Oregon,OR,41,0.931,https://www.fns.usda.gov/snap/qc/pai
-2017,Pennsylvania,PA,42,0.908,https://www.fns.usda.gov/snap/qc/pai
-2017,Rhode Island,RI,44,0.082,https://www.fns.usda.gov/snap/qc/pai
-2017,South Carolina,SC,45,0.695,https://www.fns.usda.gov/snap/qc/pai
-2017,South Dakota,SD,46,0.693,https://www.fns.usda.gov/snap/qc/pai
-2017,Tennessee,TN,47,0.782,https://www.fns.usda.gov/snap/qc/pai
-2017,Texas,TX,48,0.716,https://www.fns.usda.gov/snap/qc/pai
-2017,Utah,UT,49,0.494,https://www.fns.usda.gov/snap/qc/pai
-2017,Vermont,VT,50,0.818,https://www.fns.usda.gov/snap/qc/pai
-2017,Virginia,VA,51,0.65,https://www.fns.usda.gov/snap/qc/pai
-2017,Washington,WA,53,0.873,https://www.fns.usda.gov/snap/qc/pai
-2017,West Virginia,WV,54,0.784,https://www.fns.usda.gov/snap/qc/pai
-2017,Wisconsin,WI,55,0.796,https://www.fns.usda.gov/snap/qc/pai
-2017,Wyoming,WY,56,0.391,https://www.fns.usda.gov/snap/qc/pai
-2018,Alabama,AL,01,0.712,https://www.fns.usda.gov/snap/qc/pai
-2018,Alaska,AK,02,0.851,https://www.fns.usda.gov/snap/qc/pai
-2018,Arizona,AZ,04,0.634,https://www.fns.usda.gov/snap/qc/pai
-2018,Arkansas,AR,05,0.547,https://www.fns.usda.gov/snap/qc/pai
-2018,California,CA,06,0.612,https://www.fns.usda.gov/snap/qc/pai
-2018,Colorado,CO,08,0.616,https://www.fns.usda.gov/snap/qc/pai
-2018,Connecticut,CT,09,0.813,https://www.fns.usda.gov/snap/qc/pai
-2018,Delaware,DE,10,0.878,https://www.fns.usda.gov/snap/qc/pai
-2018,District of Columbia,DC,11,0.847,https://www.fns.usda.gov/snap/qc/pai
-2018,Florida,FL,12,0.773,https://www.fns.usda.gov/snap/qc/pai
-2018,Georgia,GA,13,0.771,https://www.fns.usda.gov/snap/qc/pai
-2018,Hawaii,HI,15,1.054,https://www.fns.usda.gov/snap/qc/pai
-2018,Idaho,ID,16,0.548,https://www.fns.usda.gov/snap/qc/pai
-2018,Illinois,IL,17,0.89,https://www.fns.usda.gov/snap/qc/pai
-2018,Indiana,IN,18,0.532,https://www.fns.usda.gov/snap/qc/pai
-2018,Iowa,IA,19,0.726,https://www.fns.usda.gov/snap/qc/pai
-2018,Kansas,KS,20,0.463,https://www.fns.usda.gov/snap/qc/pai
-2018,Kentucky,KY,21,0.628,https://www.fns.usda.gov/snap/qc/pai
-2018,Louisiana,LA,22,0.77,https://www.fns.usda.gov/snap/qc/pai
-2018,Maine,ME,23,0.78,https://www.fns.usda.gov/snap/qc/pai
-2018,Maryland,MD,24,0.917,https://www.fns.usda.gov/snap/qc/pai
-2018,Massachusetts,MA,25,0.887,https://www.fns.usda.gov/snap/qc/pai
-2018,Michigan,MI,26,0.697,https://www.fns.usda.gov/snap/qc/pai
-2018,Minnesota,MN,27,0.592,https://www.fns.usda.gov/snap/qc/pai
-2018,Mississippi,MS,28,0.664,https://www.fns.usda.gov/snap/qc/pai
-2018,Missouri,MO,29,0.676,https://www.fns.usda.gov/snap/qc/pai
-2018,Montana,MT,30,0.611,https://www.fns.usda.gov/snap/qc/pai
-2018,Nebraska,NE,31,0.589,https://www.fns.usda.gov/snap/qc/pai
-2018,Nevada,NV,32,0.838,https://www.fns.usda.gov/snap/qc/pai
-2018,New Hampshire,NH,33,0.61,https://www.fns.usda.gov/snap/qc/pai
-2018,New Jersey,NJ,34,0.669,https://www.fns.usda.gov/snap/qc/pai
-2018,New Mexico,NM,35,0.891,https://www.fns.usda.gov/snap/qc/pai
-2018,New York,NY,36,0.808,https://www.fns.usda.gov/snap/qc/pai
-2018,North Carolina,NC,37,,https://www.fns.usda.gov/snap/qc/pai
-2018,North Dakota,ND,38,0.514,https://www.fns.usda.gov/snap/qc/pai
-2018,Ohio,OH,39,0.686,https://www.fns.usda.gov/snap/qc/pai
-2018,Oklahoma,OK,40,0.754,https://www.fns.usda.gov/snap/qc/pai
-2018,Oregon,OR,41,0.897,https://www.fns.usda.gov/snap/qc/pai
-2018,Pennsylvania,PA,42,0.905,https://www.fns.usda.gov/snap/qc/pai
-2018,Rhode Island,RI,44,0.928,https://www.fns.usda.gov/snap/qc/pai
-2018,South Carolina,SC,45,0.628,https://www.fns.usda.gov/snap/qc/pai
-2018,South Dakota,SD,46,0.631,https://www.fns.usda.gov/snap/qc/pai
-2018,Tennessee,TN,47,0.702,https://www.fns.usda.gov/snap/qc/pai
-2018,Texas,TX,48,0.646,https://www.fns.usda.gov/snap/qc/pai
-2018,Utah,UT,49,0.468,https://www.fns.usda.gov/snap/qc/pai
-2018,Vermont,VT,50,0.795,https://www.fns.usda.gov/snap/qc/pai
-2018,Virginia,VA,51,0.615,https://www.fns.usda.gov/snap/qc/pai
-2018,Washington,WA,53,0.86,https://www.fns.usda.gov/snap/qc/pai
-2018,West Virginia,WV,54,0.784,https://www.fns.usda.gov/snap/qc/pai
-2018,Wisconsin,WI,55,0.764,https://www.fns.usda.gov/snap/qc/pai
-2018,Wyoming,WY,56,0.357,https://www.fns.usda.gov/snap/qc/pai
-2019,Alabama,AL,01,0.672,https://www.fns.usda.gov/snap/qc/pai
-2019,Alaska,AK,02,0.803,https://www.fns.usda.gov/snap/qc/pai
-2019,Arizona,AZ,04,0.587,https://www.fns.usda.gov/snap/qc/pai
-2019,Arkansas,AR,05,0.552,https://www.fns.usda.gov/snap/qc/pai
-2019,California,CA,06,0.629,https://www.fns.usda.gov/snap/qc/pai
-2019,Colorado,CO,08,0.586,https://www.fns.usda.gov/snap/qc/pai
-2019,Connecticut,CT,09,0.75,https://www.fns.usda.gov/snap/qc/pai
-2019,Delaware,DE,10,0.875,https://www.fns.usda.gov/snap/qc/pai
-2019,District of Columbia,DC,11,0.911,https://www.fns.usda.gov/snap/qc/pai
-2019,Florida,FL,12,0.722,https://www.fns.usda.gov/snap/qc/pai
-2019,Georgia,GA,13,0.713,https://www.fns.usda.gov/snap/qc/pai
-2019,Hawaii,HI,15,0.89,https://www.fns.usda.gov/snap/qc/pai
-2019,Idaho,ID,16,0.493,https://www.fns.usda.gov/snap/qc/pai
-2019,Illinois,IL,17,0.884,https://www.fns.usda.gov/snap/qc/pai
-2019,Indiana,IN,18,0.499,https://www.fns.usda.gov/snap/qc/pai
-2019,Iowa,IA,19,0.63,https://www.fns.usda.gov/snap/qc/pai
-2019,Kansas,KS,20,0.422,https://www.fns.usda.gov/snap/qc/pai
-2019,Kentucky,KY,21,0.529,https://www.fns.usda.gov/snap/qc/pai
-2019,Louisiana,LA,22,0.687,https://www.fns.usda.gov/snap/qc/pai
-2019,Maine,ME,23,0.757,https://www.fns.usda.gov/snap/qc/pai
-2019,Maryland,MD,24,0.813,https://www.fns.usda.gov/snap/qc/pai
-2019,Massachusetts,MA,25,0.869,https://www.fns.usda.gov/snap/qc/pai
-2019,Michigan,MI,26,0.708,https://www.fns.usda.gov/snap/qc/pai
-2019,Minnesota,MN,27,0.56,https://www.fns.usda.gov/snap/qc/pai
-2019,Mississippi,MS,28,0.562,https://www.fns.usda.gov/snap/qc/pai
-2019,Missouri,MO,29,0.622,https://www.fns.usda.gov/snap/qc/pai
-2019,Montana,MT,30,0.566,https://www.fns.usda.gov/snap/qc/pai
-2019,Nebraska,NE,31,0.561,https://www.fns.usda.gov/snap/qc/pai
-2019,Nevada,NV,32,0.787,https://www.fns.usda.gov/snap/qc/pai
-2019,New Hampshire,NH,33,0.528,https://www.fns.usda.gov/snap/qc/pai
-2019,New Jersey,NJ,34,0.599,https://www.fns.usda.gov/snap/qc/pai
-2019,New Mexico,NM,35,0.864,https://www.fns.usda.gov/snap/qc/pai
-2019,New York,NY,36,0.837,https://www.fns.usda.gov/snap/qc/pai
-2019,North Carolina,NC,37,,https://www.fns.usda.gov/snap/qc/pai
-2019,North Dakota,ND,38,0.449,https://www.fns.usda.gov/snap/qc/pai
-2019,Ohio,OH,39,0.655,https://www.fns.usda.gov/snap/qc/pai
-2019,Oklahoma,OK,40,0.725,https://www.fns.usda.gov/snap/qc/pai
-2019,Oregon,OR,41,0.881,https://www.fns.usda.gov/snap/qc/pai
-2019,Pennsylvania,PA,42,0.838,https://www.fns.usda.gov/snap/qc/pai
-2019,Rhode Island,RI,44,0.962,https://www.fns.usda.gov/snap/qc/pai
-2019,South Carolina,SC,45,0.586,https://www.fns.usda.gov/snap/qc/pai
-2019,South Dakota,SD,46,0.577,https://www.fns.usda.gov/snap/qc/pai
-2019,Tennessee,TN,47,0.67,https://www.fns.usda.gov/snap/qc/pai
-2019,Texas,TX,48,0.601,https://www.fns.usda.gov/snap/qc/pai
-2019,Utah,UT,49,0.42,https://www.fns.usda.gov/snap/qc/pai
-2019,Vermont,VT,50,0.837,https://www.fns.usda.gov/snap/qc/pai
-2019,Virginia,VA,51,0.599,https://www.fns.usda.gov/snap/qc/pai
-2019,Washington,WA,53,0.854,https://www.fns.usda.gov/snap/qc/pai
-2019,West Virginia,WV,54,0.763,https://www.fns.usda.gov/snap/qc/pai
-2019,Wisconsin,WI,55,0.717,https://www.fns.usda.gov/snap/qc/pai
-2019,Wyoming,WY,56,0.326,https://www.fns.usda.gov/snap/qc/pai
-2020,Alabama,AL,01,,https://www.fns.usda.gov/snap/qc/pai
-2020,Alaska,AK,02,,https://www.fns.usda.gov/snap/qc/pai
-2020,Arizona,AZ,04,,https://www.fns.usda.gov/snap/qc/pai
-2020,Arkansas,AR,05,,https://www.fns.usda.gov/snap/qc/pai
-2020,California,CA,06,,https://www.fns.usda.gov/snap/qc/pai
-2020,Colorado,CO,08,,https://www.fns.usda.gov/snap/qc/pai
-2020,Connecticut,CT,09,,https://www.fns.usda.gov/snap/qc/pai
-2020,Delaware,DE,10,,https://www.fns.usda.gov/snap/qc/pai
-2020,District of Columbia,DC,11,,https://www.fns.usda.gov/snap/qc/pai
-2020,Florida,FL,12,,https://www.fns.usda.gov/snap/qc/pai
-2020,Georgia,GA,13,,https://www.fns.usda.gov/snap/qc/pai
-2020,Hawaii,HI,15,,https://www.fns.usda.gov/snap/qc/pai
-2020,Idaho,ID,16,,https://www.fns.usda.gov/snap/qc/pai
-2020,Illinois,IL,17,,https://www.fns.usda.gov/snap/qc/pai
-2020,Indiana,IN,18,,https://www.fns.usda.gov/snap/qc/pai
-2020,Iowa,IA,19,,https://www.fns.usda.gov/snap/qc/pai
-2020,Kansas,KS,20,,https://www.fns.usda.gov/snap/qc/pai
-2020,Kentucky,KY,21,,https://www.fns.usda.gov/snap/qc/pai
-2020,Louisiana,LA,22,,https://www.fns.usda.gov/snap/qc/pai
-2020,Maine,ME,23,,https://www.fns.usda.gov/snap/qc/pai
-2020,Maryland,MD,24,,https://www.fns.usda.gov/snap/qc/pai
-2020,Massachusetts,MA,25,,https://www.fns.usda.gov/snap/qc/pai
-2020,Michigan,MI,26,,https://www.fns.usda.gov/snap/qc/pai
-2020,Minnesota,MN,27,,https://www.fns.usda.gov/snap/qc/pai
-2020,Mississippi,MS,28,,https://www.fns.usda.gov/snap/qc/pai
-2020,Missouri,MO,29,,https://www.fns.usda.gov/snap/qc/pai
-2020,Montana,MT,30,,https://www.fns.usda.gov/snap/qc/pai
-2020,Nebraska,NE,31,,https://www.fns.usda.gov/snap/qc/pai
-2020,Nevada,NV,32,,https://www.fns.usda.gov/snap/qc/pai
-2020,New Hampshire,NH,33,,https://www.fns.usda.gov/snap/qc/pai
-2020,New Jersey,NJ,34,,https://www.fns.usda.gov/snap/qc/pai
-2020,New Mexico,NM,35,,https://www.fns.usda.gov/snap/qc/pai
-2020,New York,NY,36,,https://www.fns.usda.gov/snap/qc/pai
-2020,North Carolina,NC,37,,https://www.fns.usda.gov/snap/qc/pai
-2020,North Dakota,ND,38,,https://www.fns.usda.gov/snap/qc/pai
-2020,Ohio,OH,39,,https://www.fns.usda.gov/snap/qc/pai
-2020,Oklahoma,OK,40,,https://www.fns.usda.gov/snap/qc/pai
-2020,Oregon,OR,41,,https://www.fns.usda.gov/snap/qc/pai
-2020,Pennsylvania,PA,42,,https://www.fns.usda.gov/snap/qc/pai
-2020,Rhode Island,RI,44,,https://www.fns.usda.gov/snap/qc/pai
-2020,South Carolina,SC,45,,https://www.fns.usda.gov/snap/qc/pai
-2020,South Dakota,SD,46,,https://www.fns.usda.gov/snap/qc/pai
-2020,Tennessee,TN,47,,https://www.fns.usda.gov/snap/qc/pai
-2020,Texas,TX,48,,https://www.fns.usda.gov/snap/qc/pai
-2020,Utah,UT,49,,https://www.fns.usda.gov/snap/qc/pai
-2020,Vermont,VT,50,,https://www.fns.usda.gov/snap/qc/pai
-2020,Virginia,VA,51,,https://www.fns.usda.gov/snap/qc/pai
-2020,Washington,WA,53,,https://www.fns.usda.gov/snap/qc/pai
-2020,West Virginia,WV,54,,https://www.fns.usda.gov/snap/qc/pai
-2020,Wisconsin,WI,55,,https://www.fns.usda.gov/snap/qc/pai
-2020,Wyoming,WY,56,,https://www.fns.usda.gov/snap/qc/pai
-2021,Alabama,AL,01,0.728,https://www.fns.usda.gov/snap/qc/pai
-2021,Alaska,AK,02,0.896,https://www.fns.usda.gov/snap/qc/pai
-2021,Arizona,AZ,04,0.726,https://www.fns.usda.gov/snap/qc/pai
-2021,Arkansas,AR,05,0.529,https://www.fns.usda.gov/snap/qc/pai
-2021,California,CA,06,0.709,https://www.fns.usda.gov/snap/qc/pai
-2021,Colorado,CO,08,0.73,https://www.fns.usda.gov/snap/qc/pai
-2021,Connecticut,CT,09,0.835,https://www.fns.usda.gov/snap/qc/pai
-2021,Delaware,DE,10,0.775,https://www.fns.usda.gov/snap/qc/pai
-2021,District of Columbia,DC,11,1.216,https://www.fns.usda.gov/snap/qc/pai
-2021,Florida,FL,12,0.866,https://www.fns.usda.gov/snap/qc/pai
-2021,Georgia,GA,13,0.849,https://www.fns.usda.gov/snap/qc/pai
-2021,Hawaii,HI,15,0.992,https://www.fns.usda.gov/snap/qc/pai
-2021,Idaho,ID,16,0.466,https://www.fns.usda.gov/snap/qc/pai
-2021,Illinois,IL,17,1.03,https://www.fns.usda.gov/snap/qc/pai
-2021,Indiana,IN,18,0.597,https://www.fns.usda.gov/snap/qc/pai
-2021,Iowa,IA,19,0.621,https://www.fns.usda.gov/snap/qc/pai
-2021,Kansas,KS,20,0.462,https://www.fns.usda.gov/snap/qc/pai
-2021,Kentucky,KY,21,0.618,https://www.fns.usda.gov/snap/qc/pai
-2021,Louisiana,LA,22,0.797,https://www.fns.usda.gov/snap/qc/pai
-2021,Maine,ME,23,0.811,https://www.fns.usda.gov/snap/qc/pai
-2021,Maryland,MD,24,1.092,https://www.fns.usda.gov/snap/qc/pai
-2021,Massachusetts,MA,25,1.079,https://www.fns.usda.gov/snap/qc/pai
-2021,Michigan,MI,26,0.77,https://www.fns.usda.gov/snap/qc/pai
-2021,Minnesota,MN,27,0.661,https://www.fns.usda.gov/snap/qc/pai
-2021,Mississippi,MS,28,0.594,https://www.fns.usda.gov/snap/qc/pai
-2021,Missouri,MO,29,0.689,https://www.fns.usda.gov/snap/qc/pai
-2021,Montana,MT,30,0.557,https://www.fns.usda.gov/snap/qc/pai
-2021,Nebraska,NE,31,0.566,https://www.fns.usda.gov/snap/qc/pai
-2021,Nevada,NV,32,0.773,https://www.fns.usda.gov/snap/qc/pai
-2021,New Hampshire,NH,33,0.567,https://www.fns.usda.gov/snap/qc/pai
-2021,New Jersey,NJ,34,0.721,https://www.fns.usda.gov/snap/qc/pai
-2021,New Mexico,NM,35,1.084,https://www.fns.usda.gov/snap/qc/pai
-2021,New York,NY,36,0.819,https://www.fns.usda.gov/snap/qc/pai
-2021,North Carolina,NC,37,0.891,https://www.fns.usda.gov/snap/qc/pai
-2021,North Dakota,ND,38,0.48,https://www.fns.usda.gov/snap/qc/pai
-2021,Ohio,OH,39,0.773,https://www.fns.usda.gov/snap/qc/pai
-2021,Oklahoma,OK,40,0.815,https://www.fns.usda.gov/snap/qc/pai
-2021,Oregon,OR,41,1.052,https://www.fns.usda.gov/snap/qc/pai
-2021,Pennsylvania,PA,42,0.932,https://www.fns.usda.gov/snap/qc/pai
-2021,Rhode Island,RI,44,0.918,https://www.fns.usda.gov/snap/qc/pai
-2021,South Carolina,SC,45,0.644,https://www.fns.usda.gov/snap/qc/pai
-2021,South Dakota,SD,46,0.539,https://www.fns.usda.gov/snap/qc/pai
-2021,Tennessee,TN,47,0.694,https://www.fns.usda.gov/snap/qc/pai
-2021,Texas,TX,48,0.624,https://www.fns.usda.gov/snap/qc/pai
-2021,Utah,UT,49,0.413,https://www.fns.usda.gov/snap/qc/pai
-2021,Vermont,VT,50,0.798,https://www.fns.usda.gov/snap/qc/pai
-2021,Virginia,VA,51,0.678,https://www.fns.usda.gov/snap/qc/pai
-2021,Washington,WA,53,0.927,https://www.fns.usda.gov/snap/qc/pai
-2021,West Virginia,WV,54,0.789,https://www.fns.usda.gov/snap/qc/pai
-2021,Wisconsin,WI,55,0.949,https://www.fns.usda.gov/snap/qc/pai
-2021,Wyoming,WY,56,0.36,https://www.fns.usda.gov/snap/qc/pai
-2022,Alabama,AL,01,0.752,https://www.fns.usda.gov/snap/qc/pai
-2022,Alaska,AK,02,0.719,https://www.fns.usda.gov/snap/qc/pai
-2022,Arizona,AZ,04,0.723,https://www.fns.usda.gov/snap/qc/pai
-2022,Arkansas,AR,05,0.403,https://www.fns.usda.gov/snap/qc/pai
-2022,California,CA,06,0.784,https://www.fns.usda.gov/snap/qc/pai
-2022,Colorado,CO,08,0.779,https://www.fns.usda.gov/snap/qc/pai
-2022,Connecticut,CT,09,0.836,https://www.fns.usda.gov/snap/qc/pai
-2022,Delaware,DE,10,0.954,https://www.fns.usda.gov/snap/qc/pai
-2022,District of Columbia,DC,11,1.372,https://www.fns.usda.gov/snap/qc/pai
-2022,Florida,FL,12,0.779,https://www.fns.usda.gov/snap/qc/pai
-2022,Georgia,GA,13,0.904,https://www.fns.usda.gov/snap/qc/pai
-2022,Hawaii,HI,15,0.878,https://www.fns.usda.gov/snap/qc/pai
-2022,Idaho,ID,16,0.444,https://www.fns.usda.gov/snap/qc/pai
-2022,Illinois,IL,17,1.065,https://www.fns.usda.gov/snap/qc/pai
-2022,Indiana,IN,18,0.565,https://www.fns.usda.gov/snap/qc/pai
-2022,Iowa,IA,19,0.617,https://www.fns.usda.gov/snap/qc/pai
-2022,Kansas,KS,20,0.437,https://www.fns.usda.gov/snap/qc/pai
-2022,Kentucky,KY,21,0.594,https://www.fns.usda.gov/snap/qc/pai
-2022,Louisiana,LA,22,0.783,https://www.fns.usda.gov/snap/qc/pai
-2022,Maine,ME,23,0.885,https://www.fns.usda.gov/snap/qc/pai
-2022,Maryland,MD,24,0.954,https://www.fns.usda.gov/snap/qc/pai
-2022,Massachusetts,MA,25,1.182,https://www.fns.usda.gov/snap/qc/pai
-2022,Michigan,MI,26,0.813,https://www.fns.usda.gov/snap/qc/pai
-2022,Minnesota,MN,27,0.639,https://www.fns.usda.gov/snap/qc/pai
-2022,Mississippi,MS,28,0.579,https://www.fns.usda.gov/snap/qc/pai
-2022,Missouri,MO,29,0.638,https://www.fns.usda.gov/snap/qc/pai
-2022,Montana,MT,30,0.516,https://www.fns.usda.gov/snap/qc/pai
-2022,Nebraska,NE,31,0.55,https://www.fns.usda.gov/snap/qc/pai
-2022,Nevada,NV,32,0.882,https://www.fns.usda.gov/snap/qc/pai
-2022,New Hampshire,NH,33,0.534,https://www.fns.usda.gov/snap/qc/pai
-2022,New Jersey,NJ,34,0.738,https://www.fns.usda.gov/snap/qc/pai
-2022,New Mexico,NM,35,1.067,https://www.fns.usda.gov/snap/qc/pai
-2022,New York,NY,36,0.827,https://www.fns.usda.gov/snap/qc/pai
-2022,North Carolina,NC,37,0.89,https://www.fns.usda.gov/snap/qc/pai
-2022,North Dakota,ND,38,0.447,https://www.fns.usda.gov/snap/qc/pai
-2022,Ohio,OH,39,0.758,https://www.fns.usda.gov/snap/qc/pai
-2022,Oklahoma,OK,40,0.84,https://www.fns.usda.gov/snap/qc/pai
-2022,Oregon,OR,41,1.124,https://www.fns.usda.gov/snap/qc/pai
-2022,Pennsylvania,PA,42,0.966,https://www.fns.usda.gov/snap/qc/pai
-2022,Rhode Island,RI,44,0.972,https://www.fns.usda.gov/snap/qc/pai
-2022,South Carolina,SC,45,0.671,https://www.fns.usda.gov/snap/qc/pai
-2022,South Dakota,SD,46,0.528,https://www.fns.usda.gov/snap/qc/pai
-2022,Tennessee,TN,47,0.678,https://www.fns.usda.gov/snap/qc/pai
-2022,Texas,TX,48,0.652,https://www.fns.usda.gov/snap/qc/pai
-2022,Utah,UT,49,0.423,https://www.fns.usda.gov/snap/qc/pai
-2022,Vermont,VT,50,0.839,https://www.fns.usda.gov/snap/qc/pai
-2022,Virginia,VA,51,0.712,https://www.fns.usda.gov/snap/qc/pai
-2022,Washington,WA,53,0.899,https://www.fns.usda.gov/snap/qc/pai
-2022,West Virginia,WV,54,0.791,https://www.fns.usda.gov/snap/qc/pai
-2022,Wisconsin,WI,55,0.872,https://www.fns.usda.gov/snap/qc/pai
-2022,Wyoming,WY,56,0.346,https://www.fns.usda.gov/snap/qc/pai
+Fiscal Year,State,State_Abbr,FIPS,PAI,Source_Link,
+2003,Alabama,AL,01,0.724,https://www.fns.usda.gov/snap/qc/pai,
+2003,Alaska,AK,02,0.768,https://www.fns.usda.gov/snap/qc/pai,
+2003,Arizona,AZ,04,0.677,https://www.fns.usda.gov/snap/qc/pai,
+2003,Arkansas,AR,05,0.669,https://www.fns.usda.gov/snap/qc/pai,
+2003,California,CA,06,0.39,https://www.fns.usda.gov/snap/qc/pai,
+2003,Colorado,CO,08,0.501,https://www.fns.usda.gov/snap/qc/pai,
+2003,Connecticut,CT,09,0.664,https://www.fns.usda.gov/snap/qc/pai,
+2003,Delaware,DE,10,0.795,https://www.fns.usda.gov/snap/qc/pai,
+2003,District of Columbia,DC,11,0.909,https://www.fns.usda.gov/snap/qc/pai,
+2003,Florida,FL,12,0.495,https://www.fns.usda.gov/snap/qc/pai,
+2003,Georgia,GA,13,0.777,https://www.fns.usda.gov/snap/qc/pai,
+2003,Hawaii,HI,15,0.855,https://www.fns.usda.gov/snap/qc/pai,
+2003,Idaho,ID,16,0.625,https://www.fns.usda.gov/snap/qc/pai,
+2003,Illinois,IL,17,0.615,https://www.fns.usda.gov/snap/qc/pai,
+2003,Indiana,IN,18,0.799,https://www.fns.usda.gov/snap/qc/pai,
+2003,Iowa,IA,19,0.604,https://www.fns.usda.gov/snap/qc/pai,
+2003,Kansas,KS,20,0.571,https://www.fns.usda.gov/snap/qc/pai,
+2003,Kentucky,KY,21,0.875,https://www.fns.usda.gov/snap/qc/pai,
+2003,Louisiana,LA,22,0.885,https://www.fns.usda.gov/snap/qc/pai,
+2003,Maine,ME,23,0.916,https://www.fns.usda.gov/snap/qc/pai,
+2003,Maryland,MD,24,0.525,https://www.fns.usda.gov/snap/qc/pai,
+2003,Massachusetts,MA,25,0.472,https://www.fns.usda.gov/snap/qc/pai,
+2003,Michigan,MI,26,0.744,https://www.fns.usda.gov/snap/qc/pai,
+2003,Minnesota,MN,27,0.641,https://www.fns.usda.gov/snap/qc/pai,
+2003,Mississippi,MS,28,0.799,https://www.fns.usda.gov/snap/qc/pai,
+2003,Missouri,MO,29,1.035,https://www.fns.usda.gov/snap/qc/pai,
+2003,Montana,MT,30,0.561,https://www.fns.usda.gov/snap/qc/pai,
+2003,Nebraska,NE,31,0.623,https://www.fns.usda.gov/snap/qc/pai,
+2003,Nevada,NV,32,0.478,https://www.fns.usda.gov/snap/qc/pai,
+2003,New Hampshire,NH,33,0.623,https://www.fns.usda.gov/snap/qc/pai,
+2003,New Jersey,NJ,34,0.468,https://www.fns.usda.gov/snap/qc/pai,
+2003,New Mexico,NM,35,0.605,https://www.fns.usda.gov/snap/qc/pai,
+2003,New York,NY,36,0.544,https://www.fns.usda.gov/snap/qc/pai,
+2003,North Carolina,NC,37,0.523,https://www.fns.usda.gov/snap/qc/pai,
+2003,North Dakota,ND,38,0.752,https://www.fns.usda.gov/snap/qc/pai,
+2003,Ohio,OH,39,0.719,https://www.fns.usda.gov/snap/qc/pai,
+2003,Oklahoma,OK,40,0.966,https://www.fns.usda.gov/snap/qc/pai,
+2003,Oregon,OR,41,0.914,https://www.fns.usda.gov/snap/qc/pai,
+2003,Pennsylvania,PA,42,0.671,https://www.fns.usda.gov/snap/qc/pai,
+2003,Rhode Island,RI,44,0.622,https://www.fns.usda.gov/snap/qc/pai,
+2003,South Carolina,SC,45,0.901,https://www.fns.usda.gov/snap/qc/pai,
+2003,South Dakota,SD,46,0.673,https://www.fns.usda.gov/snap/qc/pai,
+2003,Tennessee,TN,47,0.91,https://www.fns.usda.gov/snap/qc/pai,
+2003,Texas,TX,48,0.535,https://www.fns.usda.gov/snap/qc/pai,
+2003,Utah,UT,49,0.518,https://www.fns.usda.gov/snap/qc/pai,
+2003,Vermont,VT,50,0.801,https://www.fns.usda.gov/snap/qc/pai,
+2003,Virginia,VA,51,0.546,https://www.fns.usda.gov/snap/qc/pai,
+2003,Washington,WA,53,0.551,https://www.fns.usda.gov/snap/qc/pai,
+2003,West Virginia,WV,54,0.805,https://www.fns.usda.gov/snap/qc/pai,
+2003,Wisconsin,WI,55,0.586,https://www.fns.usda.gov/snap/qc/pai,
+2003,Wyoming,WY,56,0.553,https://www.fns.usda.gov/snap/qc/pai,
+2004,Alabama,AL,01,0.654,https://www.fns.usda.gov/snap/qc/pai,
+2004,Alaska,AK,02,0.9,https://www.fns.usda.gov/snap/qc/pai,
+2004,Arizona,AZ,04,0.662,https://www.fns.usda.gov/snap/qc/pai,
+2004,Arkansas,AR,05,0.866,https://www.fns.usda.gov/snap/qc/pai,
+2004,California,CA,06,0.421,https://www.fns.usda.gov/snap/qc/pai,
+2004,Colorado,CO,08,0.548,https://www.fns.usda.gov/snap/qc/pai,
+2004,Connecticut,CT,09,0.571,https://www.fns.usda.gov/snap/qc/pai,
+2004,Delaware,DE,10,0.773,https://www.fns.usda.gov/snap/qc/pai,
+2004,District of Columbia,DC,11,0.956,https://www.fns.usda.gov/snap/qc/pai,
+2004,Florida,FL,12,0.611,https://www.fns.usda.gov/snap/qc/pai,
+2004,Georgia,GA,13,0.776,https://www.fns.usda.gov/snap/qc/pai,
+2004,Hawaii,HI,15,0.924,https://www.fns.usda.gov/snap/qc/pai,
+2004,Idaho,ID,16,0.694,https://www.fns.usda.gov/snap/qc/pai,
+2004,Illinois,IL,17,0.715,https://www.fns.usda.gov/snap/qc/pai,
+2004,Indiana,IN,18,0.752,https://www.fns.usda.gov/snap/qc/pai,
+2004,Iowa,IA,19,0.6,https://www.fns.usda.gov/snap/qc/pai,
+2004,Kansas,KS,20,0.567,https://www.fns.usda.gov/snap/qc/pai,
+2004,Kentucky,KY,21,0.768,https://www.fns.usda.gov/snap/qc/pai,
+2004,Louisiana,LA,22,0.972,https://www.fns.usda.gov/snap/qc/pai,
+2004,Maine,ME,23,0.962,https://www.fns.usda.gov/snap/qc/pai,
+2004,Maryland,MD,24,0.509,https://www.fns.usda.gov/snap/qc/pai,
+2004,Massachusetts,MA,25,0.584,https://www.fns.usda.gov/snap/qc/pai,
+2004,Michigan,MI,26,0.738,https://www.fns.usda.gov/snap/qc/pai,
+2004,Minnesota,MN,27,0.71,https://www.fns.usda.gov/snap/qc/pai,
+2004,Mississippi,MS,28,0.714,https://www.fns.usda.gov/snap/qc/pai,
+2004,Missouri,MO,29,1.048,https://www.fns.usda.gov/snap/qc/pai,
+2004,Montana,MT,30,0.644,https://www.fns.usda.gov/snap/qc/pai,
+2004,Nebraska,NE,31,0.713,https://www.fns.usda.gov/snap/qc/pai,
+2004,Nevada,NV,32,0.476,https://www.fns.usda.gov/snap/qc/pai,
+2004,New Hampshire,NH,33,0.709,https://www.fns.usda.gov/snap/qc/pai,
+2004,New Jersey,NJ,34,0.543,https://www.fns.usda.gov/snap/qc/pai,
+2004,New Mexico,NM,35,0.747,https://www.fns.usda.gov/snap/qc/pai,
+2004,New York,NY,36,0.579,https://www.fns.usda.gov/snap/qc/pai,
+2004,North Carolina,NC,37,0.621,https://www.fns.usda.gov/snap/qc/pai,
+2004,North Dakota,ND,38,0.767,https://www.fns.usda.gov/snap/qc/pai,
+2004,Ohio,OH,39,0.735,https://www.fns.usda.gov/snap/qc/pai,
+2004,Oklahoma,OK,40,1.206,https://www.fns.usda.gov/snap/qc/pai,
+2004,Oregon,OR,41,1.012,https://www.fns.usda.gov/snap/qc/pai,
+2004,Pennsylvania,PA,42,0.716,https://www.fns.usda.gov/snap/qc/pai,
+2004,Rhode Island,RI,44,0.641,https://www.fns.usda.gov/snap/qc/pai,
+2004,South Carolina,SC,45,0.821,https://www.fns.usda.gov/snap/qc/pai,
+2004,South Dakota,SD,46,0.654,https://www.fns.usda.gov/snap/qc/pai,
+2004,Tennessee,TN,47,0.883,https://www.fns.usda.gov/snap/qc/pai,
+2004,Texas,TX,48,0.632,https://www.fns.usda.gov/snap/qc/pai,
+2004,Utah,UT,49,0.538,https://www.fns.usda.gov/snap/qc/pai,
+2004,Vermont,VT,50,0.908,https://www.fns.usda.gov/snap/qc/pai,
+2004,Virginia,VA,51,0.677,https://www.fns.usda.gov/snap/qc/pai,
+2004,Washington,WA,53,0.673,https://www.fns.usda.gov/snap/qc/pai,
+2004,West Virginia,WV,54,1.014,https://www.fns.usda.gov/snap/qc/pai,
+2004,Wisconsin,WI,55,0.495,https://www.fns.usda.gov/snap/qc/pai,
+2004,Wyoming,WY,56,0.542,https://www.fns.usda.gov/snap/qc/pai,
+2005,Alabama,AL,01,0.547,https://www.fns.usda.gov/snap/qc/pai,
+2005,Alaska,AK,02,0.595,https://www.fns.usda.gov/snap/qc/pai,
+2005,Arizona,AZ,04,0.492,https://www.fns.usda.gov/snap/qc/pai,
+2005,Arkansas,AR,05,0.6,https://www.fns.usda.gov/snap/qc/pai,
+2005,California,CA,06,0.328,https://www.fns.usda.gov/snap/qc/pai,
+2005,Colorado,CO,08,0.347,https://www.fns.usda.gov/snap/qc/pai,
+2005,Connecticut,CT,09,0.557,https://www.fns.usda.gov/snap/qc/pai,
+2005,Delaware,DE,10,0.567,https://www.fns.usda.gov/snap/qc/pai,
+2005,District of Columbia,DC,11,0.729,https://www.fns.usda.gov/snap/qc/pai,
+2005,Florida,FL,12,0.408,https://www.fns.usda.gov/snap/qc/pai,
+2005,Georgia,GA,13,0.564,https://www.fns.usda.gov/snap/qc/pai,
+2005,Hawaii,HI,15,0.603,https://www.fns.usda.gov/snap/qc/pai,
+2005,Idaho,ID,16,0.35,https://www.fns.usda.gov/snap/qc/pai,
+2005,Illinois,IL,17,0.605,https://www.fns.usda.gov/snap/qc/pai,
+2005,Indiana,IN,18,0.569,https://www.fns.usda.gov/snap/qc/pai,
+2005,Iowa,IA,19,0.494,https://www.fns.usda.gov/snap/qc/pai,
+2005,Kansas,KS,20,0.425,https://www.fns.usda.gov/snap/qc/pai,
+2005,Kentucky,KY,21,0.646,https://www.fns.usda.gov/snap/qc/pai,
+2005,Louisiana,LA,22,0.637,https://www.fns.usda.gov/snap/qc/pai,
+2005,Maine,ME,23,0.723,https://www.fns.usda.gov/snap/qc/pai,
+2005,Maryland,MD,24,0.492,https://www.fns.usda.gov/snap/qc/pai,
+2005,Massachusetts,MA,25,0.473,https://www.fns.usda.gov/snap/qc/pai,
+2005,Michigan,MI,26,0.64,https://www.fns.usda.gov/snap/qc/pai,
+2005,Minnesota,MN,27,0.418,https://www.fns.usda.gov/snap/qc/pai,
+2005,Mississippi,MS,28,0.473,https://www.fns.usda.gov/snap/qc/pai,
+2005,Missouri,MO,29,0.774,https://www.fns.usda.gov/snap/qc/pai,
+2005,Montana,MT,30,0.47,https://www.fns.usda.gov/snap/qc/pai,
+2005,Nebraska,NE,31,0.454,https://www.fns.usda.gov/snap/qc/pai,
+2005,Nevada,NV,32,0.334,https://www.fns.usda.gov/snap/qc/pai,
+2005,New Hampshire,NH,33,0.42,https://www.fns.usda.gov/snap/qc/pai,
+2005,New Jersey,NJ,34,0.399,https://www.fns.usda.gov/snap/qc/pai,
+2005,New Mexico,NM,35,0.523,https://www.fns.usda.gov/snap/qc/pai,
+2005,New York,NY,36,0.535,https://www.fns.usda.gov/snap/qc/pai,
+2005,North Carolina,NC,37,0.484,https://www.fns.usda.gov/snap/qc/pai,
+2005,North Dakota,ND,38,0.478,https://www.fns.usda.gov/snap/qc/pai,
+2005,Ohio,OH,39,0.54,https://www.fns.usda.gov/snap/qc/pai,
+2005,Oklahoma,OK,40,0.591,https://www.fns.usda.gov/snap/qc/pai,
+2005,Oregon,OR,41,0.642,https://www.fns.usda.gov/snap/qc/pai,
+2005,Pennsylvania,PA,42,0.562,https://www.fns.usda.gov/snap/qc/pai,
+2005,Rhode Island,RI,44,0.469,https://www.fns.usda.gov/snap/qc/pai,
+2005,South Carolina,SC,45,0.614,https://www.fns.usda.gov/snap/qc/pai,
+2005,South Dakota,SD,46,0.47,https://www.fns.usda.gov/snap/qc/pai,
+2005,Tennessee,TN,47,0.712,https://www.fns.usda.gov/snap/qc/pai,
+2005,Texas,TX,48,0.477,https://www.fns.usda.gov/snap/qc/pai,
+2005,Utah,UT,49,0.384,https://www.fns.usda.gov/snap/qc/pai,
+2005,Vermont,VT,50,0.522,https://www.fns.usda.gov/snap/qc/pai,
+2005,Virginia,VA,51,0.525,https://www.fns.usda.gov/snap/qc/pai,
+2005,Washington,WA,53,0.535,https://www.fns.usda.gov/snap/qc/pai,
+2005,West Virginia,WV,54,0.632,https://www.fns.usda.gov/snap/qc/pai,
+2005,Wisconsin,WI,55,0.471,https://www.fns.usda.gov/snap/qc/pai,
+2005,Wyoming,WY,56,0.391,https://www.fns.usda.gov/snap/qc/pai,
+2006,Alabama,AL,01,0.556,https://www.fns.usda.gov/snap/qc/pai,
+2006,Alaska,AK,02,0.614,https://www.fns.usda.gov/snap/qc/pai,
+2006,Arizona,AZ,04,0.477,https://www.fns.usda.gov/snap/qc/pai,
+2006,Arkansas,AR,05,0.607,https://www.fns.usda.gov/snap/qc/pai,
+2006,California,CA,06,0.327,https://www.fns.usda.gov/snap/qc/pai,
+2006,Colorado,CO,08,0.346,https://www.fns.usda.gov/snap/qc/pai,
+2006,Connecticut,CT,09,0.57,https://www.fns.usda.gov/snap/qc/pai,
+2006,Delaware,DE,10,0.574,https://www.fns.usda.gov/snap/qc/pai,
+2006,District of Columbia,DC,11,0.696,https://www.fns.usda.gov/snap/qc/pai,
+2006,Florida,FL,12,0.404,https://www.fns.usda.gov/snap/qc/pai,
+2006,Georgia,GA,13,0.536,https://www.fns.usda.gov/snap/qc/pai,
+2006,Hawaii,HI,15,0.561,https://www.fns.usda.gov/snap/qc/pai,
+2006,Idaho,ID,16,0.357,https://www.fns.usda.gov/snap/qc/pai,
+2006,Illinois,IL,17,0.606,https://www.fns.usda.gov/snap/qc/pai,
+2006,Indiana,IN,18,0.567,https://www.fns.usda.gov/snap/qc/pai,
+2006,Iowa,IA,19,0.529,https://www.fns.usda.gov/snap/qc/pai,
+2006,Kansas,KS,20,0.409,https://www.fns.usda.gov/snap/qc/pai,
+2006,Kentucky,KY,21,0.657,https://www.fns.usda.gov/snap/qc/pai,
+2006,Louisiana,LA,22,0.645,https://www.fns.usda.gov/snap/qc/pai,
+2006,Maine,ME,23,0.742,https://www.fns.usda.gov/snap/qc/pai,
+2006,Maryland,MD,24,0.537,https://www.fns.usda.gov/snap/qc/pai,
+2006,Massachusetts,MA,25,0.536,https://www.fns.usda.gov/snap/qc/pai,
+2006,Michigan,MI,26,0.675,https://www.fns.usda.gov/snap/qc/pai,
+2006,Minnesota,MN,27,0.409,https://www.fns.usda.gov/snap/qc/pai,
+2006,Mississippi,MS,28,0.525,https://www.fns.usda.gov/snap/qc/pai,
+2006,Missouri,MO,29,0.71,https://www.fns.usda.gov/snap/qc/pai,
+2006,Montana,MT,30,0.488,https://www.fns.usda.gov/snap/qc/pai,
+2006,Nebraska,NE,31,0.443,https://www.fns.usda.gov/snap/qc/pai,
+2006,Nevada,NV,32,0.337,https://www.fns.usda.gov/snap/qc/pai,
+2006,New Hampshire,NH,33,0.425,https://www.fns.usda.gov/snap/qc/pai,
+2006,New Jersey,NJ,34,0.41,https://www.fns.usda.gov/snap/qc/pai,
+2006,New Mexico,NM,35,0.528,https://www.fns.usda.gov/snap/qc/pai,
+2006,New York,NY,36,0.526,https://www.fns.usda.gov/snap/qc/pai,
+2006,North Carolina,NC,37,0.513,https://www.fns.usda.gov/snap/qc/pai,
+2006,North Dakota,ND,38,0.473,https://www.fns.usda.gov/snap/qc/pai,
+2006,Ohio,OH,39,0.557,https://www.fns.usda.gov/snap/qc/pai,
+2006,Oklahoma,OK,40,0.571,https://www.fns.usda.gov/snap/qc/pai,
+2006,Oregon,OR,41,0.679,https://www.fns.usda.gov/snap/qc/pai,
+2006,Pennsylvania,PA,42,0.574,https://www.fns.usda.gov/snap/qc/pai,
+2006,Rhode Island,RI,44,0.472,https://www.fns.usda.gov/snap/qc/pai,
+2006,South Carolina,SC,45,0.617,https://www.fns.usda.gov/snap/qc/pai,
+2006,South Dakota,SD,46,0.497,https://www.fns.usda.gov/snap/qc/pai,
+2006,Tennessee,TN,47,0.693,https://www.fns.usda.gov/snap/qc/pai,
+2006,Texas,TX,48,0.491,https://www.fns.usda.gov/snap/qc/pai,
+2006,Utah,UT,49,0.351,https://www.fns.usda.gov/snap/qc/pai,
+2006,Vermont,VT,50,0.57,https://www.fns.usda.gov/snap/qc/pai,
+2006,Virginia,VA,51,0.533,https://www.fns.usda.gov/snap/qc/pai,
+2006,Washington,WA,53,0.556,https://www.fns.usda.gov/snap/qc/pai,
+2006,West Virginia,WV,54,0.646,https://www.fns.usda.gov/snap/qc/pai,
+2006,Wisconsin,WI,55,0.474,https://www.fns.usda.gov/snap/qc/pai,
+2006,Wyoming,WY,56,0.343,https://www.fns.usda.gov/snap/qc/pai,
+2007,Alabama,AL,01,0.553,https://www.fns.usda.gov/snap/qc/pai,
+2007,Alaska,AK,02,0.632,https://www.fns.usda.gov/snap/qc/pai,
+2007,Arizona,AZ,04,0.479,https://www.fns.usda.gov/snap/qc/pai,
+2007,Arkansas,AR,05,0.583,https://www.fns.usda.gov/snap/qc/pai,
+2007,California,CA,06,0.355,https://www.fns.usda.gov/snap/qc/pai,
+2007,Colorado,CO,08,0.334,https://www.fns.usda.gov/snap/qc/pai,
+2007,Connecticut,CT,09,0.595,https://www.fns.usda.gov/snap/qc/pai,
+2007,Delaware,DE,10,0.571,https://www.fns.usda.gov/snap/qc/pai,
+2007,District of Columbia,DC,11,0.749,https://www.fns.usda.gov/snap/qc/pai,
+2007,Florida,FL,12,0.424,https://www.fns.usda.gov/snap/qc/pai,
+2007,Georgia,GA,13,0.547,https://www.fns.usda.gov/snap/qc/pai,
+2007,Hawaii,HI,15,0.684,https://www.fns.usda.gov/snap/qc/pai,
+2007,Idaho,ID,16,0.356,https://www.fns.usda.gov/snap/qc/pai,
+2007,Illinois,IL,17,0.635,https://www.fns.usda.gov/snap/qc/pai,
+2007,Indiana,IN,18,0.587,https://www.fns.usda.gov/snap/qc/pai,
+2007,Iowa,IA,19,0.57,https://www.fns.usda.gov/snap/qc/pai,
+2007,Kansas,KS,20,0.447,https://www.fns.usda.gov/snap/qc/pai,
+2007,Kentucky,KY,21,0.67,https://www.fns.usda.gov/snap/qc/pai,
+2007,Louisiana,LA,22,0.653,https://www.fns.usda.gov/snap/qc/pai,
+2007,Maine,ME,23,0.782,https://www.fns.usda.gov/snap/qc/pai,
+2007,Maryland,MD,24,0.539,https://www.fns.usda.gov/snap/qc/pai,
+2007,Massachusetts,MA,25,0.585,https://www.fns.usda.gov/snap/qc/pai,
+2007,Michigan,MI,26,0.68,https://www.fns.usda.gov/snap/qc/pai,
+2007,Minnesota,MN,27,0.439,https://www.fns.usda.gov/snap/qc/pai,
+2007,Mississippi,MS,28,0.565,https://www.fns.usda.gov/snap/qc/pai,
+2007,Missouri,MO,29,0.832,https://www.fns.usda.gov/snap/qc/pai,
+2007,Montana,MT,30,0.456,https://www.fns.usda.gov/snap/qc/pai,
+2007,Nebraska,NE,31,0.449,https://www.fns.usda.gov/snap/qc/pai,
+2007,Nevada,NV,32,0.354,https://www.fns.usda.gov/snap/qc/pai,
+2007,New Hampshire,NH,33,0.479,https://www.fns.usda.gov/snap/qc/pai,
+2007,New Jersey,NJ,34,0.433,https://www.fns.usda.gov/snap/qc/pai,
+2007,New Mexico,NM,35,0.516,https://www.fns.usda.gov/snap/qc/pai,
+2007,New York,NY,36,0.545,https://www.fns.usda.gov/snap/qc/pai,
+2007,North Carolina,NC,37,0.525,https://www.fns.usda.gov/snap/qc/pai,
+2007,North Dakota,ND,38,0.508,https://www.fns.usda.gov/snap/qc/pai,
+2007,Ohio,OH,39,0.565,https://www.fns.usda.gov/snap/qc/pai,
+2007,Oklahoma,OK,40,0.579,https://www.fns.usda.gov/snap/qc/pai,
+2007,Oregon,OR,41,0.687,https://www.fns.usda.gov/snap/qc/pai,
+2007,Pennsylvania,PA,42,0.616,https://www.fns.usda.gov/snap/qc/pai,
+2007,Rhode Island,RI,44,0.493,https://www.fns.usda.gov/snap/qc/pai,
+2007,South Carolina,SC,45,0.641,https://www.fns.usda.gov/snap/qc/pai,
+2007,South Dakota,SD,46,0.483,https://www.fns.usda.gov/snap/qc/pai,
+2007,Tennessee,TN,47,0.7,https://www.fns.usda.gov/snap/qc/pai,
+2007,Texas,TX,48,0.478,https://www.fns.usda.gov/snap/qc/pai,
+2007,Utah,UT,49,0.349,https://www.fns.usda.gov/snap/qc/pai,
+2007,Vermont,VT,50,0.625,https://www.fns.usda.gov/snap/qc/pai,
+2007,Virginia,VA,51,0.533,https://www.fns.usda.gov/snap/qc/pai,
+2007,Washington,WA,53,0.566,https://www.fns.usda.gov/snap/qc/pai,
+2007,West Virginia,WV,54,0.678,https://www.fns.usda.gov/snap/qc/pai,
+2007,Wisconsin,WI,55,0.488,https://www.fns.usda.gov/snap/qc/pai,
+2007,Wyoming,WY,56,0.376,https://www.fns.usda.gov/snap/qc/pai,
+2008,Alabama,AL,01,0.616,https://www.fns.usda.gov/snap/qc/pai,
+2008,Alaska,AK,02,0.729,https://www.fns.usda.gov/snap/qc/pai,
+2008,Arizona,AZ,04,0.537,https://www.fns.usda.gov/snap/qc/pai,
+2008,Arkansas,AR,05,0.581,https://www.fns.usda.gov/snap/qc/pai,
+2008,California,CA,06,0.371,https://www.fns.usda.gov/snap/qc/pai,
+2008,Colorado,CO,08,0.351,https://www.fns.usda.gov/snap/qc/pai,
+2008,Connecticut,CT,09,0.569,https://www.fns.usda.gov/snap/qc/pai,
+2008,Delaware,DE,10,0.67,https://www.fns.usda.gov/snap/qc/pai,
+2008,District of Columbia,DC,11,0.796,https://www.fns.usda.gov/snap/qc/pai,
+2008,Florida,FL,12,0.482,https://www.fns.usda.gov/snap/qc/pai,
+2008,Georgia,GA,13,0.584,https://www.fns.usda.gov/snap/qc/pai,
+2008,Hawaii,HI,15,0.655,https://www.fns.usda.gov/snap/qc/pai,
+2008,Idaho,ID,16,0.403,https://www.fns.usda.gov/snap/qc/pai,
+2008,Illinois,IL,17,0.655,https://www.fns.usda.gov/snap/qc/pai,
+2008,Indiana,IN,18,0.585,https://www.fns.usda.gov/snap/qc/pai,
+2008,Iowa,IA,19,0.584,https://www.fns.usda.gov/snap/qc/pai,
+2008,Kansas,KS,20,0.442,https://www.fns.usda.gov/snap/qc/pai,
+2008,Kentucky,KY,21,0.694,https://www.fns.usda.gov/snap/qc/pai,
+2008,Louisiana,LA,22,0.712,https://www.fns.usda.gov/snap/qc/pai,
+2008,Maine,ME,23,0.833,https://www.fns.usda.gov/snap/qc/pai,
+2008,Maryland,MD,24,0.639,https://www.fns.usda.gov/snap/qc/pai,
+2008,Massachusetts,MA,25,0.654,https://www.fns.usda.gov/snap/qc/pai,
+2008,Michigan,MI,26,0.71,https://www.fns.usda.gov/snap/qc/pai,
+2008,Minnesota,MN,27,0.45,https://www.fns.usda.gov/snap/qc/pai,
+2008,Mississippi,MS,28,0.58,https://www.fns.usda.gov/snap/qc/pai,
+2008,Missouri,MO,29,0.9,https://www.fns.usda.gov/snap/qc/pai,
+2008,Montana,MT,30,0.467,https://www.fns.usda.gov/snap/qc/pai,
+2008,Nebraska,NE,31,0.468,https://www.fns.usda.gov/snap/qc/pai,
+2008,Nevada,NV,32,0.39,https://www.fns.usda.gov/snap/qc/pai,
+2008,New Hampshire,NH,33,0.508,https://www.fns.usda.gov/snap/qc/pai,
+2008,New Jersey,NJ,34,0.457,https://www.fns.usda.gov/snap/qc/pai,
+2008,New Mexico,NM,35,0.557,https://www.fns.usda.gov/snap/qc/pai,
+2008,New York,NY,36,0.609,https://www.fns.usda.gov/snap/qc/pai,
+2008,North Carolina,NC,37,0.562,https://www.fns.usda.gov/snap/qc/pai,
+2008,North Dakota,ND,38,0.51,https://www.fns.usda.gov/snap/qc/pai,
+2008,Ohio,OH,39,0.609,https://www.fns.usda.gov/snap/qc/pai,
+2008,Oklahoma,OK,40,0.595,https://www.fns.usda.gov/snap/qc/pai,
+2008,Oregon,OR,41,0.735,https://www.fns.usda.gov/snap/qc/pai,
+2008,Pennsylvania,PA,42,0.63,https://www.fns.usda.gov/snap/qc/pai,
+2008,Rhode Island,RI,44,0.586,https://www.fns.usda.gov/snap/qc/pai,
+2008,South Carolina,SC,45,0.672,https://www.fns.usda.gov/snap/qc/pai,
+2008,South Dakota,SD,46,0.551,https://www.fns.usda.gov/snap/qc/pai,
+2008,Tennessee,TN,47,0.747,https://www.fns.usda.gov/snap/qc/pai,
+2008,Texas,TX,48,0.526,https://www.fns.usda.gov/snap/qc/pai,
+2008,Utah,UT,49,0.389,https://www.fns.usda.gov/snap/qc/pai,
+2008,Vermont,VT,50,0.679,https://www.fns.usda.gov/snap/qc/pai,
+2008,Virginia,VA,51,0.556,https://www.fns.usda.gov/snap/qc/pai,
+2008,Washington,WA,53,0.628,https://www.fns.usda.gov/snap/qc/pai,
+2008,West Virginia,WV,54,0.718,https://www.fns.usda.gov/snap/qc/pai,
+2008,Wisconsin,WI,55,0.586,https://www.fns.usda.gov/snap/qc/pai,
+2008,Wyoming,WY,56,0.363,https://www.fns.usda.gov/snap/qc/pai,
+2009,Alabama,AL,01,0.681,https://www.fns.usda.gov/snap/qc/pai,
+2009,Alaska,AK,02,0.809,https://www.fns.usda.gov/snap/qc/pai,
+2009,Arizona,AZ,04,0.639,https://www.fns.usda.gov/snap/qc/pai,
+2009,Arkansas,AR,05,0.615,https://www.fns.usda.gov/snap/qc/pai,
+2009,California,CA,06,0.428,https://www.fns.usda.gov/snap/qc/pai,
+2009,Colorado,CO,08,0.418,https://www.fns.usda.gov/snap/qc/pai,
+2009,Connecticut,CT,09,0.681,https://www.fns.usda.gov/snap/qc/pai,
+2009,Delaware,DE,10,0.766,https://www.fns.usda.gov/snap/qc/pai,
+2009,District of Columbia,DC,11,0.87,https://www.fns.usda.gov/snap/qc/pai,
+2009,Florida,FL,12,0.587,https://www.fns.usda.gov/snap/qc/pai,
+2009,Georgia,GA,13,0.665,https://www.fns.usda.gov/snap/qc/pai,
+2009,Hawaii,HI,15,0.702,https://www.fns.usda.gov/snap/qc/pai,
+2009,Idaho,ID,16,0.501,https://www.fns.usda.gov/snap/qc/pai,
+2009,Illinois,IL,17,0.688,https://www.fns.usda.gov/snap/qc/pai,
+2009,Indiana,IN,18,0.628,https://www.fns.usda.gov/snap/qc/pai,
+2009,Iowa,IA,19,0.662,https://www.fns.usda.gov/snap/qc/pai,
+2009,Kansas,KS,20,0.478,https://www.fns.usda.gov/snap/qc/pai,
+2009,Kentucky,KY,21,0.732,https://www.fns.usda.gov/snap/qc/pai,
+2009,Louisiana,LA,22,0.754,https://www.fns.usda.gov/snap/qc/pai,
+2009,Maine,ME,23,0.963,https://www.fns.usda.gov/snap/qc/pai,
+2009,Maryland,MD,24,0.723,https://www.fns.usda.gov/snap/qc/pai,
+2009,Massachusetts,MA,25,0.776,https://www.fns.usda.gov/snap/qc/pai,
+2009,Michigan,MI,26,0.764,https://www.fns.usda.gov/snap/qc/pai,
+2009,Minnesota,MN,27,0.496,https://www.fns.usda.gov/snap/qc/pai,
+2009,Mississippi,MS,28,0.659,https://www.fns.usda.gov/snap/qc/pai,
+2009,Missouri,MO,29,0.746,https://www.fns.usda.gov/snap/qc/pai,
+2009,Montana,MT,30,0.522,https://www.fns.usda.gov/snap/qc/pai,
+2009,Nebraska,NE,31,0.475,https://www.fns.usda.gov/snap/qc/pai,
+2009,Nevada,NV,32,0.502,https://www.fns.usda.gov/snap/qc/pai,
+2009,New Hampshire,NH,33,0.614,https://www.fns.usda.gov/snap/qc/pai,
+2009,New Jersey,NJ,34,0.494,https://www.fns.usda.gov/snap/qc/pai,
+2009,New Mexico,NM,35,0.674,https://www.fns.usda.gov/snap/qc/pai,
+2009,New York,NY,36,0.706,https://www.fns.usda.gov/snap/qc/pai,
+2009,North Carolina,NC,37,0.62,https://www.fns.usda.gov/snap/qc/pai,
+2009,North Dakota,ND,38,0.611,https://www.fns.usda.gov/snap/qc/pai,
+2009,Ohio,OH,39,0.653,https://www.fns.usda.gov/snap/qc/pai,
+2009,Oklahoma,OK,40,0.678,https://www.fns.usda.gov/snap/qc/pai,
+2009,Oregon,OR,41,0.873,https://www.fns.usda.gov/snap/qc/pai,
+2009,Pennsylvania,PA,42,0.702,https://www.fns.usda.gov/snap/qc/pai,
+2009,Rhode Island,RI,44,0.717,https://www.fns.usda.gov/snap/qc/pai,
+2009,South Carolina,SC,45,0.727,https://www.fns.usda.gov/snap/qc/pai,
+2009,South Dakota,SD,46,0.578,https://www.fns.usda.gov/snap/qc/pai,
+2009,Tennessee,TN,47,0.82,https://www.fns.usda.gov/snap/qc/pai,
+2009,Texas,TX,48,0.555,https://www.fns.usda.gov/snap/qc/pai,
+2009,Utah,UT,49,0.461,https://www.fns.usda.gov/snap/qc/pai,
+2009,Vermont,VT,50,0.861,https://www.fns.usda.gov/snap/qc/pai,
+2009,Virginia,VA,51,0.649,https://www.fns.usda.gov/snap/qc/pai,
+2009,Washington,WA,53,0.782,https://www.fns.usda.gov/snap/qc/pai,
+2009,West Virginia,WV,54,0.774,https://www.fns.usda.gov/snap/qc/pai,
+2009,Wisconsin,WI,55,0.66,https://www.fns.usda.gov/snap/qc/pai,
+2009,Wyoming,WY,56,0.398,https://www.fns.usda.gov/snap/qc/pai,
+2010,Alabama,AL,01,0.714,https://www.fns.usda.gov/snap/qc/pai,
+2010,Alaska,AK,02,0.803,https://www.fns.usda.gov/snap/qc/pai,
+2010,Arizona,AZ,04,0.706,https://www.fns.usda.gov/snap/qc/pai,
+2010,Arkansas,AR,05,0.669,https://www.fns.usda.gov/snap/qc/pai,
+2010,California,CA,06,0.458,https://www.fns.usda.gov/snap/qc/pai,
+2010,Colorado,CO,08,0.476,https://www.fns.usda.gov/snap/qc/pai,
+2010,Connecticut,CT,09,0.769,https://www.fns.usda.gov/snap/qc/pai,
+2010,Delaware,DE,10,0.926,https://www.fns.usda.gov/snap/qc/pai,
+2010,District of Columbia,DC,11,0.959,https://www.fns.usda.gov/snap/qc/pai,
+2010,Florida,FL,12,0.681,https://www.fns.usda.gov/snap/qc/pai,
+2010,Georgia,GA,13,0.749,https://www.fns.usda.gov/snap/qc/pai,
+2010,Hawaii,HI,15,0.777,https://www.fns.usda.gov/snap/qc/pai,
+2010,Idaho,ID,16,0.622,https://www.fns.usda.gov/snap/qc/pai,
+2010,Illinois,IL,17,0.74,https://www.fns.usda.gov/snap/qc/pai,
+2010,Indiana,IN,18,0.661,https://www.fns.usda.gov/snap/qc/pai,
+2010,Iowa,IA,19,0.693,https://www.fns.usda.gov/snap/qc/pai,
+2010,Kansas,KS,20,0.538,https://www.fns.usda.gov/snap/qc/pai,
+2010,Kentucky,KY,21,0.762,https://www.fns.usda.gov/snap/qc/pai,
+2010,Louisiana,LA,22,0.79,https://www.fns.usda.gov/snap/qc/pai,
+2010,Maine,ME,23,1.017,https://www.fns.usda.gov/snap/qc/pai,
+2010,Maryland,MD,24,0.817,https://www.fns.usda.gov/snap/qc/pai,
+2010,Massachusetts,MA,25,0.81,https://www.fns.usda.gov/snap/qc/pai,
+2010,Michigan,MI,26,0.887,https://www.fns.usda.gov/snap/qc/pai,
+2010,Minnesota,MN,27,0.555,https://www.fns.usda.gov/snap/qc/pai,
+2010,Mississippi,MS,28,0.707,https://www.fns.usda.gov/snap/qc/pai,
+2010,Missouri,MO,29,0.785,https://www.fns.usda.gov/snap/qc/pai,
+2010,Montana,MT,30,0.61,https://www.fns.usda.gov/snap/qc/pai,
+2010,Nebraska,NE,31,0.541,https://www.fns.usda.gov/snap/qc/pai,
+2010,Nevada,NV,32,0.571,https://www.fns.usda.gov/snap/qc/pai,
+2010,New Hampshire,NH,33,0.756,https://www.fns.usda.gov/snap/qc/pai,
+2010,New Jersey,NJ,34,0.561,https://www.fns.usda.gov/snap/qc/pai,
+2010,New Mexico,NM,35,0.701,https://www.fns.usda.gov/snap/qc/pai,
+2010,New York,NY,36,0.781,https://www.fns.usda.gov/snap/qc/pai,
+2010,North Carolina,NC,37,0.661,https://www.fns.usda.gov/snap/qc/pai,
+2010,North Dakota,ND,38,0.554,https://www.fns.usda.gov/snap/qc/pai,
+2010,Ohio,OH,39,0.726,https://www.fns.usda.gov/snap/qc/pai,
+2010,Oklahoma,OK,40,0.752,https://www.fns.usda.gov/snap/qc/pai,
+2010,Oregon,OR,41,0.917,https://www.fns.usda.gov/snap/qc/pai,
+2010,Pennsylvania,PA,42,0.748,https://www.fns.usda.gov/snap/qc/pai,
+2010,Rhode Island,RI,44,0.784,https://www.fns.usda.gov/snap/qc/pai,
+2010,South Carolina,SC,45,0.772,https://www.fns.usda.gov/snap/qc/pai,
+2010,South Dakota,SD,46,0.67,https://www.fns.usda.gov/snap/qc/pai,
+2010,Tennessee,TN,47,0.865,https://www.fns.usda.gov/snap/qc/pai,
+2010,Texas,TX,48,0.639,https://www.fns.usda.gov/snap/qc/pai,
+2010,Utah,UT,49,0.56,https://www.fns.usda.gov/snap/qc/pai,
+2010,Vermont,VT,50,0.869,https://www.fns.usda.gov/snap/qc/pai,
+2010,Virginia,VA,51,0.704,https://www.fns.usda.gov/snap/qc/pai,
+2010,Washington,WA,53,0.858,https://www.fns.usda.gov/snap/qc/pai,
+2010,West Virginia,WV,54,0.801,https://www.fns.usda.gov/snap/qc/pai,
+2010,Wisconsin,WI,55,0.781,https://www.fns.usda.gov/snap/qc/pai,
+2010,Wyoming,WY,56,0.428,https://www.fns.usda.gov/snap/qc/pai,
+2011,Alabama,AL,01,0.759,https://www.fns.usda.gov/snap/qc/pai,
+2011,Alaska,AK,02,0.862,https://www.fns.usda.gov/snap/qc/pai,
+2011,Arizona,AZ,04,0.711,https://www.fns.usda.gov/snap/qc/pai,
+2011,Arkansas,AR,05,0.677,https://www.fns.usda.gov/snap/qc/pai,
+2011,California,CA,06,0.49,https://www.fns.usda.gov/snap/qc/pai,
+2011,Colorado,CO,08,0.514,https://www.fns.usda.gov/snap/qc/pai,
+2011,Connecticut,CT,09,0.777,https://www.fns.usda.gov/snap/qc/pai,
+2011,Delaware,DE,10,0.989,https://www.fns.usda.gov/snap/qc/pai,
+2011,District of Columbia,DC,11,1.07,https://www.fns.usda.gov/snap/qc/pai,
+2011,Florida,FL,12,0.746,https://www.fns.usda.gov/snap/qc/pai,
+2011,Georgia,GA,13,0.777,https://www.fns.usda.gov/snap/qc/pai,
+2011,Hawaii,HI,15,0.794,https://www.fns.usda.gov/snap/qc/pai,
+2011,Idaho,ID,16,0.693,https://www.fns.usda.gov/snap/qc/pai,
+2011,Illinois,IL,17,0.738,https://www.fns.usda.gov/snap/qc/pai,
+2011,Indiana,IN,18,0.677,https://www.fns.usda.gov/snap/qc/pai,
+2011,Iowa,IA,19,0.766,https://www.fns.usda.gov/snap/qc/pai,
+2011,Kansas,KS,20,0.589,https://www.fns.usda.gov/snap/qc/pai,
+2011,Kentucky,KY,21,0.797,https://www.fns.usda.gov/snap/qc/pai,
+2011,Louisiana,LA,22,0.779,https://www.fns.usda.gov/snap/qc/pai,
+2011,Maine,ME,23,1.002,https://www.fns.usda.gov/snap/qc/pai,
+2011,Maryland,MD,24,0.924,https://www.fns.usda.gov/snap/qc/pai,
+2011,Massachusetts,MA,25,0.851,https://www.fns.usda.gov/snap/qc/pai,
+2011,Michigan,MI,26,0.889,https://www.fns.usda.gov/snap/qc/pai,
+2011,Minnesota,MN,27,0.637,https://www.fns.usda.gov/snap/qc/pai,
+2011,Mississippi,MS,28,0.752,https://www.fns.usda.gov/snap/qc/pai,
+2011,Missouri,MO,29,0.783,https://www.fns.usda.gov/snap/qc/pai,
+2011,Montana,MT,30,0.639,https://www.fns.usda.gov/snap/qc/pai,
+2011,Nebraska,NE,31,0.551,https://www.fns.usda.gov/snap/qc/pai,
+2011,Nevada,NV,32,0.608,https://www.fns.usda.gov/snap/qc/pai,
+2011,New Hampshire,NH,33,0.745,https://www.fns.usda.gov/snap/qc/pai,
+2011,New Jersey,NJ,34,0.65,https://www.fns.usda.gov/snap/qc/pai,
+2011,New Mexico,NM,35,0.755,https://www.fns.usda.gov/snap/qc/pai,
+2011,New York,NY,36,0.779,https://www.fns.usda.gov/snap/qc/pai,
+2011,North Carolina,NC,37,0.732,https://www.fns.usda.gov/snap/qc/pai,
+2011,North Dakota,ND,38,0.599,https://www.fns.usda.gov/snap/qc/pai,
+2011,Ohio,OH,39,0.757,https://www.fns.usda.gov/snap/qc/pai,
+2011,Oklahoma,OK,40,0.759,https://www.fns.usda.gov/snap/qc/pai,
+2011,Oregon,OR,41,0.925,https://www.fns.usda.gov/snap/qc/pai,
+2011,Pennsylvania,PA,42,0.788,https://www.fns.usda.gov/snap/qc/pai,
+2011,Rhode Island,RI,44,0.872,https://www.fns.usda.gov/snap/qc/pai,
+2011,South Carolina,SC,45,0.76,https://www.fns.usda.gov/snap/qc/pai,
+2011,South Dakota,SD,46,0.728,https://www.fns.usda.gov/snap/qc/pai,
+2011,Tennessee,TN,47,0.859,https://www.fns.usda.gov/snap/qc/pai,
+2011,Texas,TX,48,0.668,https://www.fns.usda.gov/snap/qc/pai,
+2011,Utah,UT,49,0.583,https://www.fns.usda.gov/snap/qc/pai,
+2011,Vermont,VT,50,0.969,https://www.fns.usda.gov/snap/qc/pai,
+2011,Virginia,VA,51,0.72,https://www.fns.usda.gov/snap/qc/pai,
+2011,Washington,WA,53,0.886,https://www.fns.usda.gov/snap/qc/pai,
+2011,West Virginia,WV,54,0.794,https://www.fns.usda.gov/snap/qc/pai,
+2011,Wisconsin,WI,55,0.839,https://www.fns.usda.gov/snap/qc/pai,
+2011,Wyoming,WY,56,0.433,https://www.fns.usda.gov/snap/qc/pai,
+2012,Alabama,AL,01,0.78733,https://www.fns.usda.gov/snap/qc/pai,
+2012,Alaska,AK,02,0.87019,https://www.fns.usda.gov/snap/qc/pai,
+2012,Arizona,AZ,04,0.73279,https://www.fns.usda.gov/snap/qc/pai,
+2012,Arkansas,AR,05,0.68208,https://www.fns.usda.gov/snap/qc/pai,
+2012,California,CA,06,0.50999,https://www.fns.usda.gov/snap/qc/pai,
+2012,Colorado,CO,08,0.55241,https://www.fns.usda.gov/snap/qc/pai,
+2012,Connecticut,CT,09,0.84387,https://www.fns.usda.gov/snap/qc/pai,
+2012,Delaware,DE,10,1.08182,https://www.fns.usda.gov/snap/qc/pai,
+2012,District of Columbia,DC,11,1.06447,https://www.fns.usda.gov/snap/qc/pai,
+2012,Florida,FL,12,0.79825,https://www.fns.usda.gov/snap/qc/pai,
+2012,Georgia,GA,13,0.8148,https://www.fns.usda.gov/snap/qc/pai,
+2012,Hawaii,HI,15,0.88439,https://www.fns.usda.gov/snap/qc/pai,
+2012,Idaho,ID,16,0.69459,https://www.fns.usda.gov/snap/qc/pai,
+2012,Illinois,IL,17,0.79969,https://www.fns.usda.gov/snap/qc/pai,
+2012,Indiana,IN,18,0.70882,https://www.fns.usda.gov/snap/qc/pai,
+2012,Iowa,IA,19,0.8375,https://www.fns.usda.gov/snap/qc/pai,
+2012,Kansas,KS,20,0.59309,https://www.fns.usda.gov/snap/qc/pai,
+2012,Kentucky,KY,21,0.81245,https://www.fns.usda.gov/snap/qc/pai,
+2012,Louisiana,LA,22,0.79858,https://www.fns.usda.gov/snap/qc/pai,
+2012,Maine,ME,23,0.99529,https://www.fns.usda.gov/snap/qc/pai,
+2012,Maryland,MD,24,0.95124,https://www.fns.usda.gov/snap/qc/pai,
+2012,Massachusetts,MA,25,0.89534,https://www.fns.usda.gov/snap/qc/pai,
+2012,Michigan,MI,26,0.85328,https://www.fns.usda.gov/snap/qc/pai,
+2012,Minnesota,MN,27,0.68344,https://www.fns.usda.gov/snap/qc/pai,
+2012,Mississippi,MS,28,0.74509,https://www.fns.usda.gov/snap/qc/pai,
+2012,Missouri,MO,29,0.76726,https://www.fns.usda.gov/snap/qc/pai,
+2012,Montana,MT,30,0.62541,https://www.fns.usda.gov/snap/qc/pai,
+2012,Nebraska,NE,31,0.55454,https://www.fns.usda.gov/snap/qc/pai,
+2012,Nevada,NV,32,0.59972,https://www.fns.usda.gov/snap/qc/pai,
+2012,New Hampshire,NH,33,0.7071,https://www.fns.usda.gov/snap/qc/pai,
+2012,New Jersey,NJ,34,0.68362,https://www.fns.usda.gov/snap/qc/pai,
+2012,New Mexico,NM,35,0.80924,https://www.fns.usda.gov/snap/qc/pai,
+2012,New York,NY,36,0.80195,https://www.fns.usda.gov/snap/qc/pai,
+2012,North Carolina,NC,37,0.74581,https://www.fns.usda.gov/snap/qc/pai,
+2012,North Dakota,ND,38,0.60331,https://www.fns.usda.gov/snap/qc/pai,
+2012,Ohio,OH,39,0.77139,https://www.fns.usda.gov/snap/qc/pai,
+2012,Oklahoma,OK,40,0.74868,https://www.fns.usda.gov/snap/qc/pai,
+2012,Oregon,OR,41,0.96415,https://www.fns.usda.gov/snap/qc/pai,
+2012,Pennsylvania,PA,42,0.81183,https://www.fns.usda.gov/snap/qc/pai,
+2012,Rhode Island,RI,44,0.95549,https://www.fns.usda.gov/snap/qc/pai,
+2012,South Carolina,SC,45,0.79514,https://www.fns.usda.gov/snap/qc/pai,
+2012,South Dakota,SD,46,0.7596,https://www.fns.usda.gov/snap/qc/pai,
+2012,Tennessee,TN,47,0.90703,https://www.fns.usda.gov/snap/qc/pai,
+2012,Texas,TX,48,0.67058,https://www.fns.usda.gov/snap/qc/pai,
+2012,Utah,UT,49,0.54421,https://www.fns.usda.gov/snap/qc/pai,
+2012,Vermont,VT,50,1.03502,https://www.fns.usda.gov/snap/qc/pai,
+2012,Virginia,VA,51,0.74711,https://www.fns.usda.gov/snap/qc/pai,
+2012,Washington,WA,53,0.94112,https://www.fns.usda.gov/snap/qc/pai,
+2012,West Virginia,WV,54,0.82554,https://www.fns.usda.gov/snap/qc/pai,
+2012,Wisconsin,WI,55,0.87023,https://www.fns.usda.gov/snap/qc/pai,
+2012,Wyoming,WY,56,0.39759,https://www.fns.usda.gov/snap/qc/pai,
+2013,Alabama,AL,01,0.791,https://www.fns.usda.gov/snap/qc/pai,
+2013,Alaska,AK,02,0.969,https://www.fns.usda.gov/snap/qc/pai,
+2013,Arizona,AZ,04,0.714,https://www.fns.usda.gov/snap/qc/pai,
+2013,Arkansas,AR,05,0.674,https://www.fns.usda.gov/snap/qc/pai,
+2013,California,CA,06,0.532,https://www.fns.usda.gov/snap/qc/pai,
+2013,Colorado,CO,08,0.568,https://www.fns.usda.gov/snap/qc/pai,
+2013,Connecticut,CT,09,0.885,https://www.fns.usda.gov/snap/qc/pai,
+2013,Delaware,DE,10,0.998,https://www.fns.usda.gov/snap/qc/pai,
+2013,District of Columbia,DC,11,1.031,https://www.fns.usda.gov/snap/qc/pai,
+2013,Florida,FL,12,0.836,https://www.fns.usda.gov/snap/qc/pai,
+2013,Georgia,GA,13,0.809,https://www.fns.usda.gov/snap/qc/pai,
+2013,Hawaii,HI,15,0.961,https://www.fns.usda.gov/snap/qc/pai,
+2013,Idaho,ID,16,0.674,https://www.fns.usda.gov/snap/qc/pai,
+2013,Illinois,IL,17,0.852,https://www.fns.usda.gov/snap/qc/pai,
+2013,Indiana,IN,18,0.699,https://www.fns.usda.gov/snap/qc/pai,
+2013,Iowa,IA,19,0.842,https://www.fns.usda.gov/snap/qc/pai,
+2013,Kansas,KS,20,0.618,https://www.fns.usda.gov/snap/qc/pai,
+2013,Kentucky,KY,21,0.841,https://www.fns.usda.gov/snap/qc/pai,
+2013,Louisiana,LA,22,0.811,https://www.fns.usda.gov/snap/qc/pai,
+2013,Maine,ME,23,0.981,https://www.fns.usda.gov/snap/qc/pai,
+2013,Maryland,MD,24,1.014,https://www.fns.usda.gov/snap/qc/pai,
+2013,Massachusetts,MA,25,0.898,https://www.fns.usda.gov/snap/qc/pai,
+2013,Michigan,MI,26,0.847,https://www.fns.usda.gov/snap/qc/pai,
+2013,Minnesota,MN,27,0.708,https://www.fns.usda.gov/snap/qc/pai,
+2013,Mississippi,MS,28,0.763,https://www.fns.usda.gov/snap/qc/pai,
+2013,Missouri,MO,29,0.756,https://www.fns.usda.gov/snap/qc/pai,
+2013,Montana,MT,30,0.601,https://www.fns.usda.gov/snap/qc/pai,
+2013,Nebraska,NE,31,0.553,https://www.fns.usda.gov/snap/qc/pai,
+2013,Nevada,NV,32,0.625,https://www.fns.usda.gov/snap/qc/pai,
+2013,New Hampshire,NH,33,0.762,https://www.fns.usda.gov/snap/qc/pai,
+2013,New Jersey,NJ,34,0.677,https://www.fns.usda.gov/snap/qc/pai,
+2013,New Mexico,NM,35,0.757,https://www.fns.usda.gov/snap/qc/pai,
+2013,New York,NY,36,0.82,https://www.fns.usda.gov/snap/qc/pai,
+2013,North Carolina,NC,37,0.747,https://www.fns.usda.gov/snap/qc/pai,
+2013,North Dakota,ND,38,0.511,https://www.fns.usda.gov/snap/qc/pai,
+2013,Ohio,OH,39,0.785,https://www.fns.usda.gov/snap/qc/pai,
+2013,Oklahoma,OK,40,0.771,https://www.fns.usda.gov/snap/qc/pai,
+2013,Oregon,OR,41,0.963,https://www.fns.usda.gov/snap/qc/pai,
+2013,Pennsylvania,PA,42,0.817,https://www.fns.usda.gov/snap/qc/pai,
+2013,Rhode Island,RI,44,0.946,https://www.fns.usda.gov/snap/qc/pai,
+2013,South Carolina,SC,45,0.795,https://www.fns.usda.gov/snap/qc/pai,
+2013,South Dakota,SD,46,0.685,https://www.fns.usda.gov/snap/qc/pai,
+2013,Tennessee,TN,47,0.91,https://www.fns.usda.gov/snap/qc/pai,
+2013,Texas,TX,48,0.673,https://www.fns.usda.gov/snap/qc/pai,
+2013,Utah,UT,49,0.507,https://www.fns.usda.gov/snap/qc/pai,
+2013,Vermont,VT,50,0.984,https://www.fns.usda.gov/snap/qc/pai,
+2013,Virginia,VA,51,0.754,https://www.fns.usda.gov/snap/qc/pai,
+2013,Washington,WA,53,0.89,https://www.fns.usda.gov/snap/qc/pai,
+2013,West Virginia,WV,54,0.821,https://www.fns.usda.gov/snap/qc/pai,
+2013,Wisconsin,WI,55,0.863,https://www.fns.usda.gov/snap/qc/pai,
+2013,Wyoming,WY,56,0.45,https://www.fns.usda.gov/snap/qc/pai,
+2014,Alabama,AL,01,0.761,https://www.fns.usda.gov/snap/qc/pai,
+2014,Alaska,AK,02,0.788,https://www.fns.usda.gov/snap/qc/pai,
+2014,Arizona,AZ,04,0.666,https://www.fns.usda.gov/snap/qc/pai,
+2014,Arkansas,AR,05,0.675,https://www.fns.usda.gov/snap/qc/pai,
+2014,California,CA,06,0.565,https://www.fns.usda.gov/snap/qc/pai,
+2014,Colorado,CO,08,0.591,https://www.fns.usda.gov/snap/qc/pai,
+2014,Connecticut,CT,09,0.912,https://www.fns.usda.gov/snap/qc/pai,
+2014,Delaware,DE,10,1.042,https://www.fns.usda.gov/snap/qc/pai,
+2014,District of Columbia,DC,11,1.093,https://www.fns.usda.gov/snap/qc/pai,
+2014,Florida,FL,12,0.836,https://www.fns.usda.gov/snap/qc/pai,
+2014,Georgia,GA,13,0.795,https://www.fns.usda.gov/snap/qc/pai,
+2014,Hawaii,HI,15,0.929,https://www.fns.usda.gov/snap/qc/pai,
+2014,Idaho,ID,16,0.616,https://www.fns.usda.gov/snap/qc/pai,
+2014,Illinois,IL,17,0.86,https://www.fns.usda.gov/snap/qc/pai,
+2014,Indiana,IN,18,0.684,https://www.fns.usda.gov/snap/qc/pai,
+2014,Iowa,IA,19,0.805,https://www.fns.usda.gov/snap/qc/pai,
+2014,Kansas,KS,20,0.566,https://www.fns.usda.gov/snap/qc/pai,
+2014,Kentucky,KY,21,0.774,https://www.fns.usda.gov/snap/qc/pai,
+2014,Louisiana,LA,22,0.76,https://www.fns.usda.gov/snap/qc/pai,
+2014,Maine,ME,23,0.928,https://www.fns.usda.gov/snap/qc/pai,
+2014,Maryland,MD,24,1.005,https://www.fns.usda.gov/snap/qc/pai,
+2014,Massachusetts,MA,25,0.863,https://www.fns.usda.gov/snap/qc/pai,
+2014,Michigan,MI,26,0.813,https://www.fns.usda.gov/snap/qc/pai,
+2014,Minnesota,MN,27,0.664,https://www.fns.usda.gov/snap/qc/pai,
+2014,Mississippi,MS,28,0.803,https://www.fns.usda.gov/snap/qc/pai,
+2014,Missouri,MO,29,0.709,https://www.fns.usda.gov/snap/qc/pai,
+2014,Montana,MT,30,0.605,https://www.fns.usda.gov/snap/qc/pai,
+2014,Nebraska,NE,31,0.557,https://www.fns.usda.gov/snap/qc/pai,
+2014,Nevada,NV,32,0.683,https://www.fns.usda.gov/snap/qc/pai,
+2014,New Hampshire,NH,33,0.701,https://www.fns.usda.gov/snap/qc/pai,
+2014,New Jersey,NJ,34,0.704,https://www.fns.usda.gov/snap/qc/pai,
+2014,New Mexico,NM,35,0.779,https://www.fns.usda.gov/snap/qc/pai,
+2014,New York,NY,36,0.791,https://www.fns.usda.gov/snap/qc/pai,
+2014,North Carolina,NC,37,0.722,https://www.fns.usda.gov/snap/qc/pai,
+2014,North Dakota,ND,38,0.52,https://www.fns.usda.gov/snap/qc/pai,
+2014,Ohio,OH,39,0.758,https://www.fns.usda.gov/snap/qc/pai,
+2014,Oklahoma,OK,40,0.756,https://www.fns.usda.gov/snap/qc/pai,
+2014,Oregon,OR,41,0.942,https://www.fns.usda.gov/snap/qc/pai,
+2014,Pennsylvania,PA,42,0.819,https://www.fns.usda.gov/snap/qc/pai,
+2014,Rhode Island,RI,44,0.942,https://www.fns.usda.gov/snap/qc/pai,
+2014,South Carolina,SC,45,0.743,https://www.fns.usda.gov/snap/qc/pai,
+2014,South Dakota,SD,46,0.713,https://www.fns.usda.gov/snap/qc/pai,
+2014,Tennessee,TN,47,0.849,https://www.fns.usda.gov/snap/qc/pai,
+2014,Texas,TX,48,0.642,https://www.fns.usda.gov/snap/qc/pai,
+2014,Utah,UT,49,0.494,https://www.fns.usda.gov/snap/qc/pai,
+2014,Vermont,VT,50,0.93,https://www.fns.usda.gov/snap/qc/pai,
+2014,Virginia,VA,51,0.723,https://www.fns.usda.gov/snap/qc/pai,
+2014,Washington,WA,53,0.921,https://www.fns.usda.gov/snap/qc/pai,
+2014,West Virginia,WV,54,0.861,https://www.fns.usda.gov/snap/qc/pai,
+2014,Wisconsin,WI,55,0.876,https://www.fns.usda.gov/snap/qc/pai,
+2014,Wyoming,WY,56,0.385,https://www.fns.usda.gov/snap/qc/pai,
+2015,Alabama,AL,01,0.783,https://www.fns.usda.gov/snap/qc/pai,
+2015,Alaska,AK,02,0.815,https://www.fns.usda.gov/snap/qc/pai,
+2015,Arizona,AZ,04,0.668,https://www.fns.usda.gov/snap/qc/pai,
+2015,Arkansas,AR,05,0.633,https://www.fns.usda.gov/snap/qc/pai,
+2015,California,CA,06,0.602,https://www.fns.usda.gov/snap/qc/pai,
+2015,Colorado,CO,08,0.603,https://www.fns.usda.gov/snap/qc/pai,
+2015,Connecticut,CT,09,0.92,https://www.fns.usda.gov/snap/qc/pai,
+2015,Delaware,DE,10,1.015,https://www.fns.usda.gov/snap/qc/pai,
+2015,District of Columbia,DC,11,1.031,https://www.fns.usda.gov/snap/qc/pai,
+2015,Florida,FL,12,0.872,https://www.fns.usda.gov/snap/qc/pai,
+2015,Georgia,GA,13,0.81,https://www.fns.usda.gov/snap/qc/pai,
+2015,Hawaii,HI,15,1.003,https://www.fns.usda.gov/snap/qc/pai,
+2015,Idaho,ID,16,0.606,https://www.fns.usda.gov/snap/qc/pai,
+2015,Illinois,IL,17,0.907,https://www.fns.usda.gov/snap/qc/pai,
+2015,Indiana,IN,18,0.664,https://www.fns.usda.gov/snap/qc/pai,
+2015,Iowa,IA,19,0.786,https://www.fns.usda.gov/snap/qc/pai,
+2015,Kansas,KS,20,0.549,https://www.fns.usda.gov/snap/qc/pai,
+2015,Kentucky,KY,21,0.746,https://www.fns.usda.gov/snap/qc/pai,
+2015,Louisiana,LA,22,0.764,https://www.fns.usda.gov/snap/qc/pai,
+2015,Maine,ME,23,0.858,https://www.fns.usda.gov/snap/qc/pai,
+2015,Maryland,MD,24,1.041,https://www.fns.usda.gov/snap/qc/pai,
+2015,Massachusetts,MA,25,0.801,https://www.fns.usda.gov/snap/qc/pai,
+2015,Michigan,MI,26,0.789,https://www.fns.usda.gov/snap/qc/pai,
+2015,Minnesota,MN,27,0.656,https://www.fns.usda.gov/snap/qc/pai,
+2015,Mississippi,MS,28,0.77,https://www.fns.usda.gov/snap/qc/pai,
+2015,Missouri,MO,29,0.74,https://www.fns.usda.gov/snap/qc/pai,
+2015,Montana,MT,30,0.617,https://www.fns.usda.gov/snap/qc/pai,
+2015,Nebraska,NE,31,0.575,https://www.fns.usda.gov/snap/qc/pai,
+2015,Nevada,NV,32,0.766,https://www.fns.usda.gov/snap/qc/pai,
+2015,New Hampshire,NH,33,0.758,https://www.fns.usda.gov/snap/qc/pai,
+2015,New Jersey,NJ,34,0.717,https://www.fns.usda.gov/snap/qc/pai,
+2015,New Mexico,NM,35,,https://www.fns.usda.gov/snap/qc/pai,
+2015,New York,NY,36,0.791,https://www.fns.usda.gov/snap/qc/pai,
+2015,North Carolina,NC,37,0.767,https://www.fns.usda.gov/snap/qc/pai,
+2015,North Dakota,ND,38,0.534,https://www.fns.usda.gov/snap/qc/pai,
+2015,Ohio,OH,39,0.761,https://www.fns.usda.gov/snap/qc/pai,
+2015,Oklahoma,OK,40,0.767,https://www.fns.usda.gov/snap/qc/pai,
+2015,Oregon,OR,41,0.98,https://www.fns.usda.gov/snap/qc/pai,
+2015,Pennsylvania,PA,42,0.873,https://www.fns.usda.gov/snap/qc/pai,
+2015,Rhode Island,RI,44,0.95,https://www.fns.usda.gov/snap/qc/pai,
+2015,South Carolina,SC,45,0.808,https://www.fns.usda.gov/snap/qc/pai,
+2015,South Dakota,SD,46,0.68,https://www.fns.usda.gov/snap/qc/pai,
+2015,Tennessee,TN,47,0.842,https://www.fns.usda.gov/snap/qc/pai,
+2015,Texas,TX,48,0.656,https://www.fns.usda.gov/snap/qc/pai,
+2015,Utah,UT,49,0.503,https://www.fns.usda.gov/snap/qc/pai,
+2015,Vermont,VT,50,0.926,https://www.fns.usda.gov/snap/qc/pai,
+2015,Virginia,VA,51,0.708,https://www.fns.usda.gov/snap/qc/pai,
+2015,Washington,WA,53,0.947,https://www.fns.usda.gov/snap/qc/pai,
+2015,West Virginia,WV,54,0.881,https://www.fns.usda.gov/snap/qc/pai,
+2015,Wisconsin,WI,55,0.871,https://www.fns.usda.gov/snap/qc/pai,
+2015,Wyoming,WY,56,0.385,https://www.fns.usda.gov/snap/qc/pai,
+2016,Alabama,AL,01,0.791,https://www.fns.usda.gov/snap/qc/pai,
+2016,Alaska,AK,02,0.871,https://www.fns.usda.gov/snap/qc/pai,
+2016,Arizona,AZ,04,0.659,https://www.fns.usda.gov/snap/qc/pai,
+2016,Arkansas,AR,05,0.612,https://www.fns.usda.gov/snap/qc/pai,
+2016,California,CA,06,0.617,https://www.fns.usda.gov/snap/qc/pai,
+2016,Colorado,CO,08,0.582,https://www.fns.usda.gov/snap/qc/pai,
+2016,Connecticut,CT,09,0.956,https://www.fns.usda.gov/snap/qc/pai,
+2016,Delaware,DE,10,1.066,https://www.fns.usda.gov/snap/qc/pai,
+2016,District of Columbia,DC,11,0.916,https://www.fns.usda.gov/snap/qc/pai,
+2016,Florida,FL,12,0.828,https://www.fns.usda.gov/snap/qc/pai,
+2016,Georgia,GA,13,0.821,https://www.fns.usda.gov/snap/qc/pai,
+2016,Hawaii,HI,15,1.016,https://www.fns.usda.gov/snap/qc/pai,
+2016,Idaho,ID,16,0.571,https://www.fns.usda.gov/snap/qc/pai,
+2016,Illinois,IL,17,0.888,https://www.fns.usda.gov/snap/qc/pai,
+2016,Indiana,IN,18,0.608,https://www.fns.usda.gov/snap/qc/pai,
+2016,Iowa,IA,19,0.794,https://www.fns.usda.gov/snap/qc/pai,
+2016,Kansas,KS,20,0.531,https://www.fns.usda.gov/snap/qc/pai,
+2016,Kentucky,KY,21,0.652,https://www.fns.usda.gov/snap/qc/pai,
+2016,Louisiana,LA,22,0.78,https://www.fns.usda.gov/snap/qc/pai,
+2016,Maine,ME,23,0.863,https://www.fns.usda.gov/snap/qc/pai,
+2016,Maryland,MD,24,0.994,https://www.fns.usda.gov/snap/qc/pai,
+2016,Massachusetts,MA,25,0.883,https://www.fns.usda.gov/snap/qc/pai,
+2016,Michigan,MI,26,0.767,https://www.fns.usda.gov/snap/qc/pai,
+2016,Minnesota,MN,27,0.643,https://www.fns.usda.gov/snap/qc/pai,
+2016,Mississippi,MS,28,0.732,https://www.fns.usda.gov/snap/qc/pai,
+2016,Missouri,MO,29,0.718,https://www.fns.usda.gov/snap/qc/pai,
+2016,Montana,MT,30,0.639,https://www.fns.usda.gov/snap/qc/pai,
+2016,Nebraska,NE,31,0.612,https://www.fns.usda.gov/snap/qc/pai,
+2016,Nevada,NV,32,0.808,https://www.fns.usda.gov/snap/qc/pai,
+2016,New Hampshire,NH,33,0.751,https://www.fns.usda.gov/snap/qc/pai,
+2016,New Jersey,NJ,34,0.714,https://www.fns.usda.gov/snap/qc/pai,
+2016,New Mexico,NM,35,,https://www.fns.usda.gov/snap/qc/pai,
+2016,New York,NY,36,0.816,https://www.fns.usda.gov/snap/qc/pai,
+2016,North Carolina,NC,37,0.751,https://www.fns.usda.gov/snap/qc/pai,
+2016,North Dakota,ND,38,0.544,https://www.fns.usda.gov/snap/qc/pai,
+2016,Ohio,OH,39,0.741,https://www.fns.usda.gov/snap/qc/pai,
+2016,Oklahoma,OK,40,0.764,https://www.fns.usda.gov/snap/qc/pai,
+2016,Oregon,OR,41,1,https://www.fns.usda.gov/snap/qc/pai,
+2016,Pennsylvania,PA,42,0.894,https://www.fns.usda.gov/snap/qc/pai,
+2016,Rhode Island,RI,44,0.999,https://www.fns.usda.gov/snap/qc/pai,
+2016,South Carolina,SC,45,0.777,https://www.fns.usda.gov/snap/qc/pai,
+2016,South Dakota,SD,46,0.709,https://www.fns.usda.gov/snap/qc/pai,
+2016,Tennessee,TN,47,0.809,https://www.fns.usda.gov/snap/qc/pai,
+2016,Texas,TX,48,0.673,https://www.fns.usda.gov/snap/qc/pai,
+2016,Utah,UT,49,0.496,https://www.fns.usda.gov/snap/qc/pai,
+2016,Vermont,VT,50,0.826,https://www.fns.usda.gov/snap/qc/pai,
+2016,Virginia,VA,51,0.687,https://www.fns.usda.gov/snap/qc/pai,
+2016,Washington,WA,53,0.928,https://www.fns.usda.gov/snap/qc/pai,
+2016,West Virginia,WV,54,0.838,https://www.fns.usda.gov/snap/qc/pai,
+2016,Wisconsin,WI,55,0.815,https://www.fns.usda.gov/snap/qc/pai,
+2016,Wyoming,WY,56,0.408,https://www.fns.usda.gov/snap/qc/pai,
+2017,Alabama,AL,01,0.746,https://www.fns.usda.gov/snap/qc/pai,
+2017,Alaska,AK,02,0.903,https://www.fns.usda.gov/snap/qc/pai,
+2017,Arizona,AZ,04,0.669,https://www.fns.usda.gov/snap/qc/pai,
+2017,Arkansas,AR,05,0.595,https://www.fns.usda.gov/snap/qc/pai,
+2017,California,CA,06,0.623,https://www.fns.usda.gov/snap/qc/pai,
+2017,Colorado,CO,08,0.599,https://www.fns.usda.gov/snap/qc/pai,
+2017,Connecticut,CT,09,0.921,https://www.fns.usda.gov/snap/qc/pai,
+2017,Delaware,DE,10,0.872,https://www.fns.usda.gov/snap/qc/pai,
+2017,District of Columbia,DC,11,0.906,https://www.fns.usda.gov/snap/qc/pai,
+2017,Florida,FL,12,0.809,https://www.fns.usda.gov/snap/qc/pai,
+2017,Georgia,GA,13,0.788,https://www.fns.usda.gov/snap/qc/pai,
+2017,Hawaii,HI,15,1.02,https://www.fns.usda.gov/snap/qc/pai,
+2017,Idaho,ID,16,0.567,https://www.fns.usda.gov/snap/qc/pai,
+2017,Illinois,IL,17,0.892,https://www.fns.usda.gov/snap/qc/pai,
+2017,Indiana,IN,18,0.567,https://www.fns.usda.gov/snap/qc/pai,
+2017,Iowa,IA,19,0.803,https://www.fns.usda.gov/snap/qc/pai,
+2017,Kansas,KS,20,0.498,https://www.fns.usda.gov/snap/qc/pai,
+2017,Kentucky,KY,21,0.673,https://www.fns.usda.gov/snap/qc/pai,
+2017,Louisiana,LA,22,0.768,https://www.fns.usda.gov/snap/qc/pai,
+2017,Maine,ME,23,0.876,https://www.fns.usda.gov/snap/qc/pai,
+2017,Maryland,MD,24,0.937,https://www.fns.usda.gov/snap/qc/pai,
+2017,Massachusetts,MA,25,0.856,https://www.fns.usda.gov/snap/qc/pai,
+2017,Michigan,MI,26,0.749,https://www.fns.usda.gov/snap/qc/pai,
+2017,Minnesota,MN,27,0.638,https://www.fns.usda.gov/snap/qc/pai,
+2017,Mississippi,MS,28,0.712,https://www.fns.usda.gov/snap/qc/pai,
+2017,Missouri,MO,29,0.699,https://www.fns.usda.gov/snap/qc/pai,
+2017,Montana,MT,30,0.675,https://www.fns.usda.gov/snap/qc/pai,
+2017,Nebraska,NE,31,0.626,https://www.fns.usda.gov/snap/qc/pai,
+2017,Nevada,NV,32,0.851,https://www.fns.usda.gov/snap/qc/pai,
+2017,New Hampshire,NH,33,0.662,https://www.fns.usda.gov/snap/qc/pai,
+2017,New Jersey,NJ,34,0.687,https://www.fns.usda.gov/snap/qc/pai,
+2017,New Mexico,NM,35,0.895,https://www.fns.usda.gov/snap/qc/pai,
+2017,New York,NY,36,0.811,https://www.fns.usda.gov/snap/qc/pai,
+2017,North Carolina,NC,37,0.637,https://www.fns.usda.gov/snap/qc/pai,
+2017,North Dakota,ND,38,0.551,https://www.fns.usda.gov/snap/qc/pai,
+2017,Ohio,OH,39,0.719,https://www.fns.usda.gov/snap/qc/pai,
+2017,Oklahoma,OK,40,0.773,https://www.fns.usda.gov/snap/qc/pai,
+2017,Oregon,OR,41,0.931,https://www.fns.usda.gov/snap/qc/pai,
+2017,Pennsylvania,PA,42,0.908,https://www.fns.usda.gov/snap/qc/pai,
+2017,Rhode Island,RI,44,0.082,https://www.fns.usda.gov/snap/qc/pai,
+2017,South Carolina,SC,45,0.695,https://www.fns.usda.gov/snap/qc/pai,
+2017,South Dakota,SD,46,0.693,https://www.fns.usda.gov/snap/qc/pai,
+2017,Tennessee,TN,47,0.782,https://www.fns.usda.gov/snap/qc/pai,
+2017,Texas,TX,48,0.716,https://www.fns.usda.gov/snap/qc/pai,
+2017,Utah,UT,49,0.494,https://www.fns.usda.gov/snap/qc/pai,
+2017,Vermont,VT,50,0.818,https://www.fns.usda.gov/snap/qc/pai,
+2017,Virginia,VA,51,0.65,https://www.fns.usda.gov/snap/qc/pai,
+2017,Washington,WA,53,0.873,https://www.fns.usda.gov/snap/qc/pai,
+2017,West Virginia,WV,54,0.784,https://www.fns.usda.gov/snap/qc/pai,
+2017,Wisconsin,WI,55,0.796,https://www.fns.usda.gov/snap/qc/pai,
+2017,Wyoming,WY,56,0.391,https://www.fns.usda.gov/snap/qc/pai,
+2018,Alabama,AL,01,0.712,https://www.fns.usda.gov/snap/qc/pai,
+2018,Alaska,AK,02,0.851,https://www.fns.usda.gov/snap/qc/pai,
+2018,Arizona,AZ,04,0.634,https://www.fns.usda.gov/snap/qc/pai,
+2018,Arkansas,AR,05,0.547,https://www.fns.usda.gov/snap/qc/pai,
+2018,California,CA,06,0.612,https://www.fns.usda.gov/snap/qc/pai,
+2018,Colorado,CO,08,0.616,https://www.fns.usda.gov/snap/qc/pai,
+2018,Connecticut,CT,09,0.813,https://www.fns.usda.gov/snap/qc/pai,
+2018,Delaware,DE,10,0.878,https://www.fns.usda.gov/snap/qc/pai,
+2018,District of Columbia,DC,11,0.847,https://www.fns.usda.gov/snap/qc/pai,
+2018,Florida,FL,12,0.773,https://www.fns.usda.gov/snap/qc/pai,
+2018,Georgia,GA,13,0.771,https://www.fns.usda.gov/snap/qc/pai,
+2018,Hawaii,HI,15,1.054,https://www.fns.usda.gov/snap/qc/pai,
+2018,Idaho,ID,16,0.548,https://www.fns.usda.gov/snap/qc/pai,
+2018,Illinois,IL,17,0.89,https://www.fns.usda.gov/snap/qc/pai,
+2018,Indiana,IN,18,0.532,https://www.fns.usda.gov/snap/qc/pai,
+2018,Iowa,IA,19,0.726,https://www.fns.usda.gov/snap/qc/pai,
+2018,Kansas,KS,20,0.463,https://www.fns.usda.gov/snap/qc/pai,
+2018,Kentucky,KY,21,0.628,https://www.fns.usda.gov/snap/qc/pai,
+2018,Louisiana,LA,22,0.77,https://www.fns.usda.gov/snap/qc/pai,
+2018,Maine,ME,23,0.78,https://www.fns.usda.gov/snap/qc/pai,
+2018,Maryland,MD,24,0.917,https://www.fns.usda.gov/snap/qc/pai,
+2018,Massachusetts,MA,25,0.887,https://www.fns.usda.gov/snap/qc/pai,
+2018,Michigan,MI,26,0.697,https://www.fns.usda.gov/snap/qc/pai,
+2018,Minnesota,MN,27,0.592,https://www.fns.usda.gov/snap/qc/pai,
+2018,Mississippi,MS,28,0.664,https://www.fns.usda.gov/snap/qc/pai,
+2018,Missouri,MO,29,0.676,https://www.fns.usda.gov/snap/qc/pai,
+2018,Montana,MT,30,0.611,https://www.fns.usda.gov/snap/qc/pai,
+2018,Nebraska,NE,31,0.589,https://www.fns.usda.gov/snap/qc/pai,
+2018,Nevada,NV,32,0.838,https://www.fns.usda.gov/snap/qc/pai,
+2018,New Hampshire,NH,33,0.61,https://www.fns.usda.gov/snap/qc/pai,
+2018,New Jersey,NJ,34,0.669,https://www.fns.usda.gov/snap/qc/pai,
+2018,New Mexico,NM,35,0.891,https://www.fns.usda.gov/snap/qc/pai,
+2018,New York,NY,36,0.808,https://www.fns.usda.gov/snap/qc/pai,
+2018,North Carolina,NC,37,,https://www.fns.usda.gov/snap/qc/pai,
+2018,North Dakota,ND,38,0.514,https://www.fns.usda.gov/snap/qc/pai,
+2018,Ohio,OH,39,0.686,https://www.fns.usda.gov/snap/qc/pai,
+2018,Oklahoma,OK,40,0.754,https://www.fns.usda.gov/snap/qc/pai,
+2018,Oregon,OR,41,0.897,https://www.fns.usda.gov/snap/qc/pai,
+2018,Pennsylvania,PA,42,0.905,https://www.fns.usda.gov/snap/qc/pai,
+2018,Rhode Island,RI,44,0.928,https://www.fns.usda.gov/snap/qc/pai,
+2018,South Carolina,SC,45,0.628,https://www.fns.usda.gov/snap/qc/pai,
+2018,South Dakota,SD,46,0.631,https://www.fns.usda.gov/snap/qc/pai,
+2018,Tennessee,TN,47,0.702,https://www.fns.usda.gov/snap/qc/pai,
+2018,Texas,TX,48,0.646,https://www.fns.usda.gov/snap/qc/pai,
+2018,Utah,UT,49,0.468,https://www.fns.usda.gov/snap/qc/pai,
+2018,Vermont,VT,50,0.795,https://www.fns.usda.gov/snap/qc/pai,
+2018,Virginia,VA,51,0.615,https://www.fns.usda.gov/snap/qc/pai,
+2018,Washington,WA,53,0.86,https://www.fns.usda.gov/snap/qc/pai,
+2018,West Virginia,WV,54,0.784,https://www.fns.usda.gov/snap/qc/pai,
+2018,Wisconsin,WI,55,0.764,https://www.fns.usda.gov/snap/qc/pai,
+2018,Wyoming,WY,56,0.357,https://www.fns.usda.gov/snap/qc/pai,
+2019,Alabama,AL,01,0.672,https://www.fns.usda.gov/snap/qc/pai,
+2019,Alaska,AK,02,0.803,https://www.fns.usda.gov/snap/qc/pai,
+2019,Arizona,AZ,04,0.587,https://www.fns.usda.gov/snap/qc/pai,
+2019,Arkansas,AR,05,0.552,https://www.fns.usda.gov/snap/qc/pai,
+2019,California,CA,06,0.629,https://www.fns.usda.gov/snap/qc/pai,
+2019,Colorado,CO,08,0.586,https://www.fns.usda.gov/snap/qc/pai,
+2019,Connecticut,CT,09,0.75,https://www.fns.usda.gov/snap/qc/pai,
+2019,Delaware,DE,10,0.875,https://www.fns.usda.gov/snap/qc/pai,
+2019,District of Columbia,DC,11,0.911,https://www.fns.usda.gov/snap/qc/pai,
+2019,Florida,FL,12,0.722,https://www.fns.usda.gov/snap/qc/pai,
+2019,Georgia,GA,13,0.713,https://www.fns.usda.gov/snap/qc/pai,
+2019,Hawaii,HI,15,0.89,https://www.fns.usda.gov/snap/qc/pai,
+2019,Idaho,ID,16,0.493,https://www.fns.usda.gov/snap/qc/pai,
+2019,Illinois,IL,17,0.884,https://www.fns.usda.gov/snap/qc/pai,
+2019,Indiana,IN,18,0.499,https://www.fns.usda.gov/snap/qc/pai,
+2019,Iowa,IA,19,0.63,https://www.fns.usda.gov/snap/qc/pai,
+2019,Kansas,KS,20,0.422,https://www.fns.usda.gov/snap/qc/pai,
+2019,Kentucky,KY,21,0.529,https://www.fns.usda.gov/snap/qc/pai,
+2019,Louisiana,LA,22,0.687,https://www.fns.usda.gov/snap/qc/pai,
+2019,Maine,ME,23,0.757,https://www.fns.usda.gov/snap/qc/pai,
+2019,Maryland,MD,24,0.813,https://www.fns.usda.gov/snap/qc/pai,
+2019,Massachusetts,MA,25,0.869,https://www.fns.usda.gov/snap/qc/pai,
+2019,Michigan,MI,26,0.708,https://www.fns.usda.gov/snap/qc/pai,
+2019,Minnesota,MN,27,0.56,https://www.fns.usda.gov/snap/qc/pai,
+2019,Mississippi,MS,28,0.562,https://www.fns.usda.gov/snap/qc/pai,
+2019,Missouri,MO,29,0.622,https://www.fns.usda.gov/snap/qc/pai,
+2019,Montana,MT,30,0.566,https://www.fns.usda.gov/snap/qc/pai,
+2019,Nebraska,NE,31,0.561,https://www.fns.usda.gov/snap/qc/pai,
+2019,Nevada,NV,32,0.787,https://www.fns.usda.gov/snap/qc/pai,
+2019,New Hampshire,NH,33,0.528,https://www.fns.usda.gov/snap/qc/pai,
+2019,New Jersey,NJ,34,0.599,https://www.fns.usda.gov/snap/qc/pai,
+2019,New Mexico,NM,35,0.864,https://www.fns.usda.gov/snap/qc/pai,
+2019,New York,NY,36,0.837,https://www.fns.usda.gov/snap/qc/pai,
+2019,North Carolina,NC,37,,https://www.fns.usda.gov/snap/qc/pai,
+2019,North Dakota,ND,38,0.449,https://www.fns.usda.gov/snap/qc/pai,
+2019,Ohio,OH,39,0.655,https://www.fns.usda.gov/snap/qc/pai,
+2019,Oklahoma,OK,40,0.725,https://www.fns.usda.gov/snap/qc/pai,
+2019,Oregon,OR,41,0.881,https://www.fns.usda.gov/snap/qc/pai,
+2019,Pennsylvania,PA,42,0.838,https://www.fns.usda.gov/snap/qc/pai,
+2019,Rhode Island,RI,44,0.962,https://www.fns.usda.gov/snap/qc/pai,
+2019,South Carolina,SC,45,0.586,https://www.fns.usda.gov/snap/qc/pai,
+2019,South Dakota,SD,46,0.577,https://www.fns.usda.gov/snap/qc/pai,
+2019,Tennessee,TN,47,0.67,https://www.fns.usda.gov/snap/qc/pai,
+2019,Texas,TX,48,0.601,https://www.fns.usda.gov/snap/qc/pai,
+2019,Utah,UT,49,0.42,https://www.fns.usda.gov/snap/qc/pai,
+2019,Vermont,VT,50,0.837,https://www.fns.usda.gov/snap/qc/pai,
+2019,Virginia,VA,51,0.599,https://www.fns.usda.gov/snap/qc/pai,
+2019,Washington,WA,53,0.854,https://www.fns.usda.gov/snap/qc/pai,
+2019,West Virginia,WV,54,0.763,https://www.fns.usda.gov/snap/qc/pai,
+2019,Wisconsin,WI,55,0.717,https://www.fns.usda.gov/snap/qc/pai,
+2019,Wyoming,WY,56,0.326,https://www.fns.usda.gov/snap/qc/pai,
+2020,Alabama,AL,01,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Alaska,AK,02,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Arizona,AZ,04,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Arkansas,AR,05,,https://www.fns.usda.gov/snap/qc/pai,
+2020,California,CA,06,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Colorado,CO,08,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Connecticut,CT,09,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Delaware,DE,10,,https://www.fns.usda.gov/snap/qc/pai,
+2020,District of Columbia,DC,11,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Florida,FL,12,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Georgia,GA,13,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Hawaii,HI,15,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Idaho,ID,16,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Illinois,IL,17,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Indiana,IN,18,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Iowa,IA,19,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Kansas,KS,20,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Kentucky,KY,21,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Louisiana,LA,22,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Maine,ME,23,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Maryland,MD,24,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Massachusetts,MA,25,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Michigan,MI,26,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Minnesota,MN,27,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Mississippi,MS,28,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Missouri,MO,29,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Montana,MT,30,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Nebraska,NE,31,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Nevada,NV,32,,https://www.fns.usda.gov/snap/qc/pai,
+2020,New Hampshire,NH,33,,https://www.fns.usda.gov/snap/qc/pai,
+2020,New Jersey,NJ,34,,https://www.fns.usda.gov/snap/qc/pai,
+2020,New Mexico,NM,35,,https://www.fns.usda.gov/snap/qc/pai,
+2020,New York,NY,36,,https://www.fns.usda.gov/snap/qc/pai,
+2020,North Carolina,NC,37,,https://www.fns.usda.gov/snap/qc/pai,
+2020,North Dakota,ND,38,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Ohio,OH,39,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Oklahoma,OK,40,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Oregon,OR,41,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Pennsylvania,PA,42,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Rhode Island,RI,44,,https://www.fns.usda.gov/snap/qc/pai,
+2020,South Carolina,SC,45,,https://www.fns.usda.gov/snap/qc/pai,
+2020,South Dakota,SD,46,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Tennessee,TN,47,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Texas,TX,48,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Utah,UT,49,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Vermont,VT,50,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Virginia,VA,51,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Washington,WA,53,,https://www.fns.usda.gov/snap/qc/pai,
+2020,West Virginia,WV,54,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Wisconsin,WI,55,,https://www.fns.usda.gov/snap/qc/pai,
+2020,Wyoming,WY,56,,https://www.fns.usda.gov/snap/qc/pai,
+2021,Alabama,AL,01,0.728,https://www.fns.usda.gov/snap/qc/pai,
+2021,Alaska,AK,02,0.896,https://www.fns.usda.gov/snap/qc/pai,
+2021,Arizona,AZ,04,0.726,https://www.fns.usda.gov/snap/qc/pai,
+2021,Arkansas,AR,05,0.529,https://www.fns.usda.gov/snap/qc/pai,
+2021,California,CA,06,0.709,https://www.fns.usda.gov/snap/qc/pai,
+2021,Colorado,CO,08,0.73,https://www.fns.usda.gov/snap/qc/pai,
+2021,Connecticut,CT,09,0.835,https://www.fns.usda.gov/snap/qc/pai,
+2021,Delaware,DE,10,0.775,https://www.fns.usda.gov/snap/qc/pai,
+2021,District of Columbia,DC,11,1.216,https://www.fns.usda.gov/snap/qc/pai,
+2021,Florida,FL,12,0.866,https://www.fns.usda.gov/snap/qc/pai,
+2021,Georgia,GA,13,0.849,https://www.fns.usda.gov/snap/qc/pai,
+2021,Hawaii,HI,15,0.992,https://www.fns.usda.gov/snap/qc/pai,
+2021,Idaho,ID,16,0.466,https://www.fns.usda.gov/snap/qc/pai,
+2021,Illinois,IL,17,1.03,https://www.fns.usda.gov/snap/qc/pai,
+2021,Indiana,IN,18,0.597,https://www.fns.usda.gov/snap/qc/pai,
+2021,Iowa,IA,19,0.621,https://www.fns.usda.gov/snap/qc/pai,
+2021,Kansas,KS,20,0.462,https://www.fns.usda.gov/snap/qc/pai,
+2021,Kentucky,KY,21,0.618,https://www.fns.usda.gov/snap/qc/pai,
+2021,Louisiana,LA,22,0.797,https://www.fns.usda.gov/snap/qc/pai,
+2021,Maine,ME,23,0.811,https://www.fns.usda.gov/snap/qc/pai,
+2021,Maryland,MD,24,1.092,https://www.fns.usda.gov/snap/qc/pai,
+2021,Massachusetts,MA,25,1.079,https://www.fns.usda.gov/snap/qc/pai,
+2021,Michigan,MI,26,0.77,https://www.fns.usda.gov/snap/qc/pai,
+2021,Minnesota,MN,27,0.661,https://www.fns.usda.gov/snap/qc/pai,
+2021,Mississippi,MS,28,0.594,https://www.fns.usda.gov/snap/qc/pai,
+2021,Missouri,MO,29,0.689,https://www.fns.usda.gov/snap/qc/pai,
+2021,Montana,MT,30,0.557,https://www.fns.usda.gov/snap/qc/pai,
+2021,Nebraska,NE,31,0.566,https://www.fns.usda.gov/snap/qc/pai,
+2021,Nevada,NV,32,0.773,https://www.fns.usda.gov/snap/qc/pai,
+2021,New Hampshire,NH,33,0.567,https://www.fns.usda.gov/snap/qc/pai,
+2021,New Jersey,NJ,34,0.721,https://www.fns.usda.gov/snap/qc/pai,
+2021,New Mexico,NM,35,1.084,https://www.fns.usda.gov/snap/qc/pai,
+2021,New York,NY,36,0.819,https://www.fns.usda.gov/snap/qc/pai,
+2021,North Carolina,NC,37,0.891,https://www.fns.usda.gov/snap/qc/pai,
+2021,North Dakota,ND,38,0.48,https://www.fns.usda.gov/snap/qc/pai,
+2021,Ohio,OH,39,0.773,https://www.fns.usda.gov/snap/qc/pai,
+2021,Oklahoma,OK,40,0.815,https://www.fns.usda.gov/snap/qc/pai,
+2021,Oregon,OR,41,1.052,https://www.fns.usda.gov/snap/qc/pai,
+2021,Pennsylvania,PA,42,0.932,https://www.fns.usda.gov/snap/qc/pai,
+2021,Rhode Island,RI,44,0.918,https://www.fns.usda.gov/snap/qc/pai,
+2021,South Carolina,SC,45,0.644,https://www.fns.usda.gov/snap/qc/pai,
+2021,South Dakota,SD,46,0.539,https://www.fns.usda.gov/snap/qc/pai,
+2021,Tennessee,TN,47,0.694,https://www.fns.usda.gov/snap/qc/pai,
+2021,Texas,TX,48,0.624,https://www.fns.usda.gov/snap/qc/pai,
+2021,Utah,UT,49,0.413,https://www.fns.usda.gov/snap/qc/pai,
+2021,Vermont,VT,50,0.798,https://www.fns.usda.gov/snap/qc/pai,
+2021,Virginia,VA,51,0.678,https://www.fns.usda.gov/snap/qc/pai,
+2021,Washington,WA,53,0.927,https://www.fns.usda.gov/snap/qc/pai,
+2021,West Virginia,WV,54,0.789,https://www.fns.usda.gov/snap/qc/pai,
+2021,Wisconsin,WI,55,0.949,https://www.fns.usda.gov/snap/qc/pai,
+2021,Wyoming,WY,56,0.36,https://www.fns.usda.gov/snap/qc/pai,
+2022,Alabama,AL,01,0.752,https://www.fns.usda.gov/snap/qc/pai,
+2022,Alaska,AK,02,0.719,https://www.fns.usda.gov/snap/qc/pai,
+2022,Arizona,AZ,04,0.723,https://www.fns.usda.gov/snap/qc/pai,
+2022,Arkansas,AR,05,0.403,https://www.fns.usda.gov/snap/qc/pai,
+2022,California,CA,06,0.784,https://www.fns.usda.gov/snap/qc/pai,
+2022,Colorado,CO,08,0.779,https://www.fns.usda.gov/snap/qc/pai,
+2022,Connecticut,CT,09,0.836,https://www.fns.usda.gov/snap/qc/pai,
+2022,Delaware,DE,10,0.954,https://www.fns.usda.gov/snap/qc/pai,
+2022,District of Columbia,DC,11,1.372,https://www.fns.usda.gov/snap/qc/pai,
+2022,Florida,FL,12,0.779,https://www.fns.usda.gov/snap/qc/pai,
+2022,Georgia,GA,13,0.904,https://www.fns.usda.gov/snap/qc/pai,
+2022,Hawaii,HI,15,0.878,https://www.fns.usda.gov/snap/qc/pai,
+2022,Idaho,ID,16,0.444,https://www.fns.usda.gov/snap/qc/pai,
+2022,Illinois,IL,17,1.065,https://www.fns.usda.gov/snap/qc/pai,
+2022,Indiana,IN,18,0.565,https://www.fns.usda.gov/snap/qc/pai,
+2022,Iowa,IA,19,0.617,https://www.fns.usda.gov/snap/qc/pai,
+2022,Kansas,KS,20,0.437,https://www.fns.usda.gov/snap/qc/pai,
+2022,Kentucky,KY,21,0.594,https://www.fns.usda.gov/snap/qc/pai,
+2022,Louisiana,LA,22,0.783,https://www.fns.usda.gov/snap/qc/pai,
+2022,Maine,ME,23,0.885,https://www.fns.usda.gov/snap/qc/pai,
+2022,Maryland,MD,24,0.954,https://www.fns.usda.gov/snap/qc/pai,
+2022,Massachusetts,MA,25,1.182,https://www.fns.usda.gov/snap/qc/pai,
+2022,Michigan,MI,26,0.813,https://www.fns.usda.gov/snap/qc/pai,
+2022,Minnesota,MN,27,0.639,https://www.fns.usda.gov/snap/qc/pai,
+2022,Mississippi,MS,28,0.579,https://www.fns.usda.gov/snap/qc/pai,
+2022,Missouri,MO,29,0.638,https://www.fns.usda.gov/snap/qc/pai,
+2022,Montana,MT,30,0.516,https://www.fns.usda.gov/snap/qc/pai,
+2022,Nebraska,NE,31,0.55,https://www.fns.usda.gov/snap/qc/pai,
+2022,Nevada,NV,32,0.882,https://www.fns.usda.gov/snap/qc/pai,
+2022,New Hampshire,NH,33,0.534,https://www.fns.usda.gov/snap/qc/pai,
+2022,New Jersey,NJ,34,0.738,https://www.fns.usda.gov/snap/qc/pai,
+2022,New Mexico,NM,35,1.067,https://www.fns.usda.gov/snap/qc/pai,
+2022,New York,NY,36,0.827,https://www.fns.usda.gov/snap/qc/pai,
+2022,North Carolina,NC,37,0.89,https://www.fns.usda.gov/snap/qc/pai,
+2022,North Dakota,ND,38,0.447,https://www.fns.usda.gov/snap/qc/pai,
+2022,Ohio,OH,39,0.758,https://www.fns.usda.gov/snap/qc/pai,
+2022,Oklahoma,OK,40,0.84,https://www.fns.usda.gov/snap/qc/pai,
+2022,Oregon,OR,41,1.124,https://www.fns.usda.gov/snap/qc/pai,
+2022,Pennsylvania,PA,42,0.966,https://www.fns.usda.gov/snap/qc/pai,
+2022,Rhode Island,RI,44,0.972,https://www.fns.usda.gov/snap/qc/pai,
+2022,South Carolina,SC,45,0.671,https://www.fns.usda.gov/snap/qc/pai,
+2022,South Dakota,SD,46,0.528,https://www.fns.usda.gov/snap/qc/pai,
+2022,Tennessee,TN,47,0.678,https://www.fns.usda.gov/snap/qc/pai,
+2022,Texas,TX,48,0.652,https://www.fns.usda.gov/snap/qc/pai,
+2022,Utah,UT,49,0.423,https://www.fns.usda.gov/snap/qc/pai,
+2022,Vermont,VT,50,0.839,https://www.fns.usda.gov/snap/qc/pai,
+2022,Virginia,VA,51,0.712,https://www.fns.usda.gov/snap/qc/pai,
+2022,Washington,WA,53,0.899,https://www.fns.usda.gov/snap/qc/pai,
+2022,West Virginia,WV,54,0.791,https://www.fns.usda.gov/snap/qc/pai,
+2022,Wisconsin,WI,55,0.872,https://www.fns.usda.gov/snap/qc/pai,
+2022,Wyoming,WY,56,0.346,https://www.fns.usda.gov/snap/qc/pai,
+2023,Alabama,AL,01,0.771,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Alaska,AK,02,0.562,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Arizona,AZ,04,0.776,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Arkansas,AR,05,0.391,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,California,CA,06,0.89,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Colorado,CO,08,0.835,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Connecticut,CT,09,0.856,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Delaware,DE,10,0.939,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,District of Columbia,DC,11,1.32,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Florida,FL,12,0.855,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Georgia,GA,13,0.793,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Hawaii,HI,15,0.885,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Idaho,ID,16,0.482,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Illinois,IL,17,1.119,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Indiana,IN,18,0.565,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Iowa,IA,19,0.573,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Kansas,KS,20,0.442,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Kentucky,KY,21,0.601,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Louisiana,LA,22,0.852,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Maine,ME,23,0.893,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Maryland,MD,24,0.939,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Massachusetts,MA,25,1.233,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Michigan,MI,26,0.873,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Minnesota,MN,27,0.673,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Mississippi,MS,28,0.587,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Missouri,MO,29,0.685,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Montana,MT,30,0.496,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Nebraska,NE,31,0.588,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Nevada,NV,32,0.995,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,New Hampshire,NH,33,0.599,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,New Jersey,NJ,34,0.683,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,New Mexico,NM,35,0.99,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,New York,NY,36,0.853,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,North Carolina,NC,37,0.881,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,North Dakota,ND,38,0.506,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Ohio,OH,39,0.724,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Oklahoma,OK,40,0.862,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Oregon,OR,41,1.125,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Pennsylvania,PA,42,1.005,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Rhode Island,RI,44,1.002,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,South Carolina,SC,45,0.655,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,South Dakota,SD,46,0.549,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Tennessee,TN,47,0.601,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Texas,TX,48,0.619,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Utah,UT,49,0.407,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Vermont,VT,50,0.892,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Virginia,VA,51,0.759,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Washington,WA,53,0.899,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,West Virginia,WV,54,0.818,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Wisconsin,WI,55,0.889,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+2023,Wyoming,WY,56,0.356,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-pai2023-101824.pdf,
+,,,,,,
+,,,,,,
