@@ -19,6 +19,7 @@ USDA Descriptions as follows:
 - 2/20/24 Payment Error Rates CSV uploaded
 - 3/1/24 Program Access Index CSV uploaded
 - 7/8/24 Payment Error Rates updated for FY 2023, and CAPER CSV added through 2019.
+- 8/15/24 Program Access Index and Application Processing Timeliness data updated for 2022 and 2023, respectively.
 
 ### General Notes
 
