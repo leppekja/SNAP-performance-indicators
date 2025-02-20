@@ -21,6 +21,7 @@ USDA Descriptions as follows:
 - 7/8/24 Payment Error Rates updated for FY 2023, and CAPER CSV added through 2019.
 - 8/15/24 Program Access Index and Application Processing Timeliness data updated for 2022 and 2023, respectively.
 - 1/31/2025 Program Access Index data updated for 2023
+- 2/19/2025 Minor update to consistently lowercase the 'of' in 'District of Columbia'
 
 ### General Notes
 
