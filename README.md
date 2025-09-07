@@ -22,11 +22,13 @@ USDA Descriptions as follows:
 - 8/15/24 Program Access Index and Application Processing Timeliness data updated for 2022 and 2023, respectively.
 - 1/31/2025 Program Access Index data updated for 2023
 - 2/19/2025 Minor update to consistently lowercase the 'of' in 'District of Columbia'
+- 9/7/2025 Added 2024 PER data (published June 30, 2025)
+- 9/7/2025 Added 2024 CAPER data (published June 30, 2025)
 
 ### General Notes
 
-- Any listed corrctions that were already made to the data when accessed are reflected within the CSVs.
-- View each years' summary to view any descriptions or release-specific notes.
+- Any listed corrections that were already made to the data when accessed are reflected within the CSVs.
+- View each years' summary webpage on the FNS site to view any descriptions or release-specific notes. There are a few cases where calculations may not be what you expect due to state by state regulations.
 - Any national totals are not included in the data.
 - Blank values may reflect missing or unreported data for a variety of reasons, including suspended reporting requirements (COVID-19 pandemic, Hurricane Katrina), data quality issues (varies by state), or undiscussed issues.
 - Data is reported by fiscal year.
