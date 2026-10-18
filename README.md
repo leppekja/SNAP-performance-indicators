@@ -7,9 +7,8 @@ Much of the SNAP Efficiency & Effectiveness data is shared in PDF tables. This r
 USDA Descriptions as follows:
 
 - Program Access Index (PAI) "indicate the degree to which low-income people have access to SNAP benefits. The PAI compares a state’s average monthly SNAP participation to the number of residents with incomes below 125% of the federal poverty line."
-
 - Application Processing Timeliness (APT) "measures the timeliness of states’ processing of initial SNAP applications. The Food and Nutrition Act of 2008 entitles all eligible households to SNAP benefits within 30 days of application, or within 7 days, if they are eligible for expedited service."
-
+- Recertification Processing Timeliness (RPT) "is calculated by dividing the number of SNAP recertification applications approved timely for a given period of time (i.e., day, month, year, etc.) by the total number of recertifications approved within that same time period. A SNAP recertification application is considered processed timely when the household has been certified with access to their benefit allotment by their normal issuance date. FNA removes client-caused delays when calculating recertification processing timeliness, using only agency-caused delays to monitor state agency compliance with statutory requirements."
 - Payment Error Rates (PER) "measures how accurately a state agency determined SNAP eligibility and benefit amounts for those who participate in SNAP. Errors include both overpayments -- when households receive more benefits than they are entitled to – and underpayments – when households receive less benefits than they are entitled to."
 - Case and Procedural Error Rates (CAPER) "assesses the accuracy of state agency actions in cases in which applicants were denied, terminated, or suspended and did not receive benefits. It also measures a state's compliance with federal procedural requirements, including the timeliness and accuracy of notifications sent to affected households."
 
@@ -24,6 +23,10 @@ USDA Descriptions as follows:
 - 2/19/2025 Minor update to consistently lowercase the 'of' in 'District of Columbia'
 - 9/7/2025 Added 2024 PER data (published June 30, 2025)
 - 9/7/2025 Added 2024 CAPER data (published June 30, 2025)
+- 10/18/2026 Added 2025 PER data
+- 10/18/2026 Added 2025 CAPER data
+- 10/18/2026 Added 2025 APT data
+- 10/18/2026 Added 2024 and 2025 RPT data (new dataset)
 
 ### General Notes
 

@@ -12,6 +12,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,AK,02,Alaska,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,AK,02,Alaska,93.51,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,AK,02,Alaska,38.98,https://www.fns.usda.gov/snap/qc/timeliness/fy24,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,AK,02,Alaska,57.93,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,AK,02,Alaska,64.26,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,AL,01,Alabama,86.25,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,AL,01,Alabama,78.65,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,AL,01,Alabama,85.88,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -25,6 +27,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,AL,01,Alabama,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,AL,01,Alabama,89.68,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,AL,01,Alabama,94.3,https://www.fns.usda.gov/snap/qc/timeliness/fy23,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,AL,01,Alabama,93.02,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,AL,01,Alabama,92.79,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,AR,05,Arkansas,79,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,AR,05,Arkansas,85.98,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,AR,05,Arkansas,90.57,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -38,6 +42,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,AR,05,Arkansas,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,AR,05,Arkansas,75.2,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,AR,05,Arkansas,67.38,https://www.fns.usda.gov/snap/qc/timeliness/fy26,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,AR,05,Arkansas,61.94,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,AR,05,Arkansas,83.15,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,AZ,04,Arizona,79.17,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,AZ,04,Arizona,93.07,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,AZ,04,Arizona,91.21,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -51,6 +57,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,AZ,04,Arizona,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,AZ,04,Arizona,90.46,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,AZ,04,Arizona,91.47,https://www.fns.usda.gov/snap/qc/timeliness/fy25,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,AZ,04,Arizona,90.29,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,AZ,04,Arizona,87.97,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,CA,06,California,81.28,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,CA,06,California,84.71,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,CA,06,California,86.57,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -64,6 +72,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,CA,06,California,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,CA,06,California,79.84,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,CA,06,California,82.07,https://www.fns.usda.gov/snap/qc/timeliness/fy27,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,CA,06,California,80.21,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,CA,06,California,86.35,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,CO,08,Colorado,82.46,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,CO,08,Colorado,91.64,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,CO,08,Colorado,94.94,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -77,6 +87,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,CO,08,Colorado,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,CO,08,Colorado,74.22,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,CO,08,Colorado,74.91,https://www.fns.usda.gov/snap/qc/timeliness/fy28,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,CO,08,Colorado,66.87,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,CO,08,Colorado,75.25,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,CT,09,Connecticut,60.35,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,CT,09,Connecticut,56.71,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,CT,09,Connecticut,57.36,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -90,6 +102,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,CT,09,Connecticut,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,CT,09,Connecticut,93.07,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,CT,09,Connecticut,93.81,https://www.fns.usda.gov/snap/qc/timeliness/fy29,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,CT,09,Connecticut,89.11,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,CT,09,Connecticut,89.02,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,DC,11,District of Columbia,96.28,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,DC,11,District of Columbia,96.41,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,DC,11,District of Columbia,97.62,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -103,6 +117,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,DC,11,District of Columbia,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,DC,11,District of Columbia,42.86,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,DC,11,District of Columbia,48.13,https://www.fns.usda.gov/snap/qc/timeliness/fy31,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,DC,11,District of Columbia,56.73,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,DC,11,District of Columbia,85.48,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,DE,10,Delaware,92.96,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,DE,10,Delaware,84.62,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,DE,10,Delaware,85.51,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -116,6 +132,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,DE,10,Delaware,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,DE,10,Delaware,79.41,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,DE,10,Delaware,89.72,https://www.fns.usda.gov/snap/qc/timeliness/fy30,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,DE,10,Delaware,75.08,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,DE,10,Delaware,71.83,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,FL,12,Florida,94.01,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,FL,12,Florida,91.91,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,FL,12,Florida,94.07,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -129,6 +147,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,FL,12,Florida,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,FL,12,Florida,72.92,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,FL,12,Florida,64.38,https://www.fns.usda.gov/snap/qc/timeliness/fy32,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,FL,12,Florida,63.31,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,FL,12,Florida,79.11,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,GA,13,Georgia,80.32,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,GA,13,Georgia,81.08,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,GA,13,Georgia,77.99,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -142,6 +162,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,GA,13,Georgia,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,GA,13,Georgia,68,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,GA,13,Georgia,78.09,https://www.fns.usda.gov/snap/qc/timeliness/fy33,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,GA,13,Georgia,67.22,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,GA,13,Georgia,61.24,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,GU,66,Guam,63.3,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,GU,66,Guam,72.22,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,GU,66,Guam,78.67,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -155,6 +177,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,GU,66,Guam,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,GU,66,Guam,65.93,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,GU,66,Guam,61.27,https://www.fns.usda.gov/snap/qc/timeliness/fy34,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,GU,66,Guam,50.86,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,GU,66,Guam,60.33,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,HI,15,Hawaii,68.63,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,HI,15,Hawaii,81.77,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,HI,15,Hawaii,91.95,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -168,6 +192,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,HI,15,Hawaii,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,HI,15,Hawaii,77.04,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,HI,15,Hawaii,75.35,https://www.fns.usda.gov/snap/qc/timeliness/fy35,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,HI,15,Hawaii,68.87,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,HI,15,Hawaii,77.34,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,IA,19,Iowa,84.39,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,IA,19,Iowa,85.51,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,IA,19,Iowa,90.64,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -181,6 +207,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,IA,19,Iowa,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,IA,19,Iowa,78.34,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,IA,19,Iowa,77.73,https://www.fns.usda.gov/snap/qc/timeliness/fy39,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,IA,19,Iowa,64.66,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,IA,19,Iowa,71.38,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,ID,16,Idaho,99.06,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,ID,16,Idaho,99.28,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,ID,16,Idaho,98.98,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -194,6 +222,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,ID,16,Idaho,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,ID,16,Idaho,100,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,ID,16,Idaho,98.15,https://www.fns.usda.gov/snap/qc/timeliness/fy36,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,ID,16,Idaho,91.02,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,ID,16,Idaho,96.3,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,IL,17,Illinois,73.87,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,IL,17,Illinois,66.03,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,IL,17,Illinois,82.13,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -207,6 +237,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,IL,17,Illinois,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,IL,17,Illinois,96.09,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,IL,17,Illinois,95.85,https://www.fns.usda.gov/snap/qc/timeliness/fy37,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,IL,17,Illinois,93.56,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,IL,17,Illinois,91.01,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,IN,18,Indiana,90.32,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,IN,18,Indiana,88.25,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,IN,18,Indiana,87.86,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -220,6 +252,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,IN,18,Indiana,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,IN,18,Indiana,84.8,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,IN,18,Indiana,78.17,https://www.fns.usda.gov/snap/qc/timeliness/fy38,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,IN,18,Indiana,80.04,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,IN,18,Indiana,93.39,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,KS,20,Kansas,85.45,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,KS,20,Kansas,85.87,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,KS,20,Kansas,92.36,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -233,6 +267,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,KS,20,Kansas,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,KS,20,Kansas,74.03,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,KS,20,Kansas,81.28,https://www.fns.usda.gov/snap/qc/timeliness/fy40,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,KS,20,Kansas,81.99,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,KS,20,Kansas,89.43,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,KY,21,Kentucky,99.06,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,KY,21,Kentucky,97.26,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,KY,21,Kentucky,98.41,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -246,6 +282,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,KY,21,Kentucky,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,KY,21,Kentucky,89.86,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,KY,21,Kentucky,76.14,https://www.fns.usda.gov/snap/qc/timeliness/fy41,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,KY,21,Kentucky,87.38,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,KY,21,Kentucky,89.42,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,LA,22,Louisiana,93.11,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,LA,22,Louisiana,80.47,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,LA,22,Louisiana,87.17,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -259,6 +297,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,LA,22,Louisiana,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,LA,22,Louisiana,92.94,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,LA,22,Louisiana,94.12,https://www.fns.usda.gov/snap/qc/timeliness/fy42,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,LA,22,Louisiana,87.08,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,LA,22,Louisiana,82.01,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MA,25,Massachusetts,94.91,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MA,25,Massachusetts,87.44,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MA,25,Massachusetts,83.78,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -272,6 +312,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MA,25,Massachusetts,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MA,25,Massachusetts,93.63,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MA,25,Massachusetts,85.91,https://www.fns.usda.gov/snap/qc/timeliness/fy45,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MA,25,Massachusetts,85.45,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MA,25,Massachusetts,81.7,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MD,24,Maryland,91.69,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MD,24,Maryland,87.29,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MD,24,Maryland,89.78,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -285,6 +327,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MD,24,Maryland,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MD,24,Maryland,89.16,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MD,24,Maryland,84.8,https://www.fns.usda.gov/snap/qc/timeliness/fy44,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MD,24,Maryland,91.04,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MD,24,Maryland,94.89,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,ME,23,Maine,96.75,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,ME,23,Maine,91.54,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,ME,23,Maine,92.51,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -298,6 +342,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,ME,23,Maine,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,ME,23,Maine,90.7,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,ME,23,Maine,88.89,https://www.fns.usda.gov/snap/qc/timeliness/fy43,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,ME,23,Maine,64.93,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,ME,23,Maine,78.07,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MI,26,Michigan,85.99,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MI,26,Michigan,91.86,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MI,26,Michigan,89.52,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -311,6 +357,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MI,26,Michigan,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MI,26,Michigan,82.72,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MI,26,Michigan,77.66,https://www.fns.usda.gov/snap/qc/timeliness/fy46,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MI,26,Michigan,76.05,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MI,26,Michigan,76.64,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MN,27,Minnesota,91.22,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MN,27,Minnesota,94.06,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MN,27,Minnesota,91.52,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -324,6 +372,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MN,27,Minnesota,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MN,27,Minnesota,87.9,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MN,27,Minnesota,85.89,https://www.fns.usda.gov/snap/qc/timeliness/fy47,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MN,27,Minnesota,80.37,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MN,27,Minnesota,82.04,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MO,29,Missouri,88.15,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MO,29,Missouri,84.72,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MO,29,Missouri,82.88,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -337,6 +387,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MO,29,Missouri,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MO,29,Missouri,77.21,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MO,29,Missouri,85.32,https://www.fns.usda.gov/snap/qc/timeliness/fy49,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MO,29,Missouri,78.28,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MO,29,Missouri,86.89,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MS,28,Mississippi,91.47,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MS,28,Mississippi,93.88,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MS,28,Mississippi,95.13,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -350,6 +402,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MS,28,Mississippi,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MS,28,Mississippi,81,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MS,28,Mississippi,83.25,https://www.fns.usda.gov/snap/qc/timeliness/fy48,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MS,28,Mississippi,79.38,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MS,28,Mississippi,80.51,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,MT,30,Montana,91.96,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,MT,30,Montana,93.29,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,MT,30,Montana,88.62,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -363,6 +417,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,MT,30,Montana,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,MT,30,Montana,86.61,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,MT,30,Montana,74.76,https://www.fns.usda.gov/snap/qc/timeliness/fy50,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,MT,30,Montana,66.88,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,MT,30,Montana,72.61,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NC,37,North Carolina,87,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NC,37,North Carolina,87.62,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NC,37,North Carolina,75.36,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -376,6 +432,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NC,37,North Carolina,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NC,37,North Carolina,94.42,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NC,37,North Carolina,91.98,https://www.fns.usda.gov/snap/qc/timeliness/fy57,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NC,37,North Carolina,84.4,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NC,37,North Carolina,92.33,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,ND,38,North Dakota,96.53,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,ND,38,North Dakota,96.62,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,ND,38,North Dakota,97.24,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -389,6 +447,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,ND,38,North Dakota,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,ND,38,North Dakota,75.78,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,ND,38,North Dakota,52.94,https://www.fns.usda.gov/snap/qc/timeliness/fy58,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,ND,38,North Dakota,57.02,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,ND,38,North Dakota,72.61,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NE,31,Nebraska,74.69,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NE,31,Nebraska,70.07,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NE,31,Nebraska,68.03,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -402,6 +462,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NE,31,Nebraska,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NE,31,Nebraska,89.22,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NE,31,Nebraska,91.2,https://www.fns.usda.gov/snap/qc/timeliness/fy51,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NE,31,Nebraska,88.96,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NE,31,Nebraska,90.46,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NH,33,New Hampshire,89.74,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NH,33,New Hampshire,91.58,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NH,33,New Hampshire,91.12,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -415,6 +477,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NH,33,New Hampshire,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NH,33,New Hampshire,92.63,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NH,33,New Hampshire,91.67,https://www.fns.usda.gov/snap/qc/timeliness/fy53,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NH,33,New Hampshire,89.32,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NH,33,New Hampshire,88.31,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NJ,34,New Jersey,73.75,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NJ,34,New Jersey,60.7,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NJ,34,New Jersey,68.81,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -428,6 +492,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NJ,34,New Jersey,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NJ,34,New Jersey,95.21,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NJ,34,New Jersey,82.08,https://www.fns.usda.gov/snap/qc/timeliness/fy54,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NJ,34,New Jersey,77.61,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NJ,34,New Jersey,87.12,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NM,35,New Mexico,98.63,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NM,35,New Mexico,97.85,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NM,35,New Mexico,98.64,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -441,6 +507,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NM,35,New Mexico,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NM,35,New Mexico,92.42,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NM,35,New Mexico,66.34,https://www.fns.usda.gov/snap/qc/timeliness/fy55,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NM,35,New Mexico,52.36,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NM,35,New Mexico,92.03,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NV,32,Nevada,80.78,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NV,32,Nevada,81.96,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NV,32,Nevada,73.9,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -454,6 +522,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NV,32,Nevada,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NV,32,Nevada,96.48,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NV,32,Nevada,93.58,https://www.fns.usda.gov/snap/qc/timeliness/fy52,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NV,32,Nevada,93.09,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NV,32,Nevada,95.27,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,NY,36,New York,90.94,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,NY,36,New York,90.38,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,NY,36,New York,91.89,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -467,6 +537,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,NY,36,New York,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,NY,36,New York,71.08,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,NY,36,New York,60.45,https://www.fns.usda.gov/snap/qc/timeliness/fy56,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,NY,36,New York,81.61,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,NY,36,New York,84.86,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,OH,39,Ohio,87.32,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,OH,39,Ohio,79.56,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,OH,39,Ohio,80.47,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -480,6 +552,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,OH,39,Ohio,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,OH,39,Ohio,93.16,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,OH,39,Ohio,92.54,https://www.fns.usda.gov/snap/qc/timeliness/fy59,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,OH,39,Ohio,91.93,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,OH,39,Ohio,84.57,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,OK,40,Oklahoma,94.24,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,OK,40,Oklahoma,92.05,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,OK,40,Oklahoma,91.5,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -493,6 +567,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,OK,40,Oklahoma,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,OK,40,Oklahoma,87.88,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,OK,40,Oklahoma,89.54,https://www.fns.usda.gov/snap/qc/timeliness/fy60,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,OK,40,Oklahoma,88.65,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,OK,40,Oklahoma,92.49,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,OR,41,Oregon,96.47,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,OR,41,Oregon,92.98,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,OR,41,Oregon,90.58,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -506,6 +582,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,OR,41,Oregon,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,OR,41,Oregon,74.46,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,OR,41,Oregon,79.84,https://www.fns.usda.gov/snap/qc/timeliness/fy61,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,OR,41,Oregon,71.83,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,OR,41,Oregon,90.39,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,PA,42,Pennsylvania,81.44,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,PA,42,Pennsylvania,75.78,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,PA,42,Pennsylvania,80,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -519,6 +597,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,PA,42,Pennsylvania,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,PA,42,Pennsylvania,92.86,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,PA,42,Pennsylvania,92.06,https://www.fns.usda.gov/snap/qc/timeliness/fy62,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,PA,42,Pennsylvania,90.29,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,PA,42,Pennsylvania,84.51,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,RI,44,Rhode Island,93.14,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,RI,44,Rhode Island,91.49,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,RI,44,Rhode Island,91.87,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -532,6 +612,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,RI,44,Rhode Island,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,RI,44,Rhode Island,91.74,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,RI,44,Rhode Island,90.11,https://www.fns.usda.gov/snap/qc/timeliness/fy63,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,RI,44,Rhode Island,93.52,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,RI,44,Rhode Island,91.64,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,SC,45,South Carolina,84.91,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,SC,45,South Carolina,82.77,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,SC,45,South Carolina,76.76,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -545,6 +627,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,SC,45,South Carolina,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,SC,45,South Carolina,84.88,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,SC,45,South Carolina,71.49,https://www.fns.usda.gov/snap/qc/timeliness/fy64,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,SC,45,South Carolina,73.48,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,SC,45,South Carolina,90.38,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,SD,46,South Dakota,95.19,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,SD,46,South Dakota,94.71,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,SD,46,South Dakota,96.02,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -558,6 +642,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,SD,46,South Dakota,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,SD,46,South Dakota,88.89,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,SD,46,South Dakota,89.23,https://www.fns.usda.gov/snap/qc/timeliness/fy65,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,SD,46,South Dakota,85.89,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,SD,46,South Dakota,92.41,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,TN,47,Tennessee,73.51,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,TN,47,Tennessee,78.81,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,TN,47,Tennessee,78.44,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -571,6 +657,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,TN,47,Tennessee,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,TN,47,Tennessee,82.99,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,TN,47,Tennessee,70.48,https://www.fns.usda.gov/snap/qc/timeliness/fy66,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,TN,47,Tennessee,42.72,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,TN,47,Tennessee,69.46,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,TX,48,Texas,82.8,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,TX,48,Texas,88.63,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,TX,48,Texas,93.53,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -584,6 +672,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,TX,48,Texas,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,TX,48,Texas,82.72,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,TX,48,Texas,82.7,https://www.fns.usda.gov/snap/qc/timeliness/fy67,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,TX,48,Texas,75.48,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,TX,48,Texas,80.42,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,UT,49,Utah,94.48,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,UT,49,Utah,94.04,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,UT,49,Utah,93.75,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -597,6 +687,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,UT,49,Utah,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,UT,49,Utah,96.77,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,UT,49,Utah,96.35,https://www.fns.usda.gov/snap/qc/timeliness/fy68,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,UT,49,Utah,89.82,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,UT,49,Utah,91.32,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,VA,51,Virginia,91.5,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,VA,51,Virginia,91.98,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,VA,51,Virginia,91.57,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -610,6 +702,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,VA,51,Virginia,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,VA,51,Virginia,89.11,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,VA,51,Virginia,75.44,https://www.fns.usda.gov/snap/qc/timeliness/fy71,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,VA,51,Virginia,83.23,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,VA,51,Virginia,88.48,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,VI,78,Virgin Islands,89.83,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,VI,78,Virgin Islands,95.38,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,VI,78,Virgin Islands,83.36,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -623,6 +717,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,VI,78,Virgin Islands,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,VI,78,Virgin Islands,67.27,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,VI,78,Virgin Islands,87.73,https://www.fns.usda.gov/snap/qc/timeliness/fy70,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,VI,78,Virgin Islands,77.63,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,VI,78,Virgin Islands,73.68,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,VT,50,Vermont,69.77,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,VT,50,Vermont,73.6,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,VT,50,Vermont,85.58,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -636,6 +732,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,VT,50,Vermont,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,VT,50,Vermont,89.36,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,VT,50,Vermont,90.3,https://www.fns.usda.gov/snap/qc/timeliness/fy69,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,VT,50,Vermont,84.47,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,VT,50,Vermont,89.18,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,WA,53,Washington,93.01,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,WA,53,Washington,90.22,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,WA,53,Washington,93.1,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -649,6 +747,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,WA,53,Washington,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,WA,53,Washington,87.44,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,WA,53,Washington,94.09,https://www.fns.usda.gov/snap/qc/timeliness/fy72,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,WA,53,Washington,90.36,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,WA,53,Washington,89.34,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,WI,55,Wisconsin,80.07,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,WI,55,Wisconsin,87.14,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,WI,55,Wisconsin,91.85,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -662,6 +762,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,WI,55,Wisconsin,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,WI,55,Wisconsin,97.74,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,WI,55,Wisconsin,97.45,https://www.fns.usda.gov/snap/qc/timeliness/fy74,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,WI,55,Wisconsin,95.62,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,WI,55,Wisconsin,97.22,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,WV,54,West Virginia,96.69,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,WV,54,West Virginia,93.82,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,WV,54,West Virginia,90.1,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -675,6 +777,8 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,WV,54,West Virginia,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,WV,54,West Virginia,83.59,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,WV,54,West Virginia,82.61,https://www.fns.usda.gov/snap/qc/timeliness/fy73,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,WV,54,West Virginia,75.8,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,WV,54,West Virginia,84.5,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,
 2011,WY,56,Wyoming,89.1,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2011.pdf,
 2012,WY,56,Wyoming,88.93,,https://fns-prod.azureedge.us/sites/default/files/media/file/Application%20Processing%20Timeliness%20-%20FY2012.pdf,
 2013,WY,56,Wyoming,90.18,,https://fns-prod.azureedge.us/sites/default/files/snap/FY2013SNAPApplicationProcessingTimeliness.pdf,
@@ -688,3 +792,5 @@ Year,State_Abbr,FIPS,State,Rate,Source_Link,Source_Document,Source_Notes
 2021,WY,56,Wyoming,,,,The suspension of certain quality control requirements during the COVID-19 public health emergency resulted in a lack of available data to calculate APT rates for fiscal years 2020 and 2021.
 2022,WY,56,Wyoming,94.68,https://www.fns.usda.gov/snap/fy-2022-reported-application-processing-timeliness,,
 2023,WY,56,Wyoming,92.31,https://www.fns.usda.gov/snap/qc/timeliness/fy75,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-application-processing-timeliness-rates.pdf,
+2024,WY,56,Wyoming,90.43,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy24,,
+2025,WY,56,Wyoming,94.74,https://www.fna.usda.gov/snap/qc/timeliness/apt-fy25,,

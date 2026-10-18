@@ -17,6 +17,7 @@
 2022,AK,02,Alaska,56.69,0.29,56.97,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,AK,02,Alaska,59.59,0.78,60.37,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,AK,02,Alaska,22.5,2.16,24.66,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,AK,02,Alaska,20.58,2.57,23.15,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,AL,01,Alabama,6.87,1.14,8.02,
 2004,AL,01,Alabama,7.02,0.98,8,
 2005,AL,01,Alabama,3.25,0.43,3.68,
@@ -35,6 +36,7 @@
 2022,AL,01,Alabama,3.96,0.72,4.68,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,AL,01,Alabama,5.44,1.64,7.07,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,AL,01,Alabama,7.32,0.99,8.32,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,AL,01,Alabama,8.82,0.7,9.52,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,AR,05,Arkansas,3.52,0.5,4.02,
 2004,AR,05,Arkansas,4.07,1.26,5.34,
 2005,AR,05,Arkansas,4.72,0.71,5.43,
@@ -53,6 +55,7 @@
 2022,AR,05,Arkansas,10.21,1.1,11.31,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,AR,05,Arkansas,8.76,0.81,9.57,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,AR,05,Arkansas,7.97,1.59,9.56,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,AR,05,Arkansas,7.97,0.84,8.81,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,AZ,04,Arizona,4.71,1.13,5.83,
 2004,AZ,04,Arizona,5.12,1.42,6.54,
 2005,AZ,04,Arizona,6.02,1.59,7.61,
@@ -72,6 +75,7 @@
 2022,AZ,04,Arizona,9.62,1.77,11.39,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,AZ,04,Arizona,9.72,1.67,11.39,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,AZ,04,Arizona,7.56,1.28,8.84,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,AZ,04,Arizona,8.63,2.16,10.8,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,CA,06,California,5.71,2.25,7.96,
 2004,CA,06,California,4.73,1.6,6.32,
 2005,CA,06,California,4.27,2.12,6.38,
@@ -90,6 +94,7 @@
 2022,CA,06,California,9.59,1.51,11.1,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,CA,06,California,11.61,1.78,13.4,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,CA,06,California,9.01,1.98,10.98,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,CA,06,California,10.06,0.87,10.93,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,CO,08,Colorado,6.08,1.32,7.4,
 2004,CO,08,Colorado,2.33,0.6,2.93,
 2005,CO,08,Colorado,5.02,2.4,7.42,
@@ -108,6 +113,7 @@
 2022,CO,08,Colorado,5.29,2.02,7.31,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,CO,08,Colorado,6.45,2.16,8.61,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,CO,08,Colorado,7.91,2.06,9.97,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,CO,08,Colorado,8.52,1.57,10.09,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,CT,09,Connecticut,7.02,1.75,8.77,
 2004,CT,09,Connecticut,3.62,1.32,4.94,
 2005,CT,09,Connecticut,5.01,1.61,6.61,
@@ -126,6 +132,7 @@
 2022,CT,09,Connecticut,7.21,1.73,8.93,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,CT,09,Connecticut,7.33,1.58,8.91,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,CT,09,Connecticut,8.61,1.65,10.25,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,CT,09,Connecticut,7.43,1.65,9.08,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,DC,11,District of Columbia,7.08,1.89,8.97,
 2004,DC,11,District of Columbia,4.75,0.9,5.65,
 2005,DC,11,District of Columbia,8.21,1.69,9.89,
@@ -144,6 +151,7 @@
 2022,DC,11,District of Columbia,14.55,4.4,18.95,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,DC,11,District of Columbia,15.68,4.58,20.26,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,DC,11,District of Columbia,13.62,3.76,17.38,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,DC,11,District of Columbia,15.33,3.33,18.66,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,DE,10,Delaware,4.07,1.31,5.38,
 2004,DE,10,Delaware,4.29,1.95,6.24,
 2005,DE,10,Delaware,4.3,2.16,6.46,
@@ -162,6 +170,7 @@
 2022,DE,10,Delaware,18.61,3.83,22.43,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,DE,10,Delaware,19.23,3.57,22.8,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,DE,10,Delaware,10.49,1.88,12.37,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,DE,10,Delaware,14.55,1.45,16,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,FL,12,Florida,5.5,2.5,7.93,
 2004,FL,12,Florida,5.24,0.92,6.16,
 2005,FL,12,Florida,5.88,1.32,7.19,
@@ -180,6 +189,7 @@
 2022,FL,12,Florida,7.45,1.15,8.59,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,FL,12,Florida,11.25,1.35,12.6,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,FL,12,Florida,13.05,2.08,15.13,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,FL,12,Florida,11.54,1.43,12.97,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,GA,13,Georgia,4,1.16,5.15,
 2004,GA,13,Georgia,5.26,0.95,6.21,
 2005,GA,13,Georgia,4.31,0.58,4.89,
@@ -198,6 +208,7 @@
 2022,GA,13,Georgia,11.75,3.23,14.98,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,GA,13,Georgia,9.12,2.95,12.07,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,GA,13,Georgia,13.59,2.06,15.65,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,GA,13,Georgia,13.62,1.59,15.21,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,GU,66,Guam,4.64,2.4,7.04,
 2004,GU,66,Guam,3.81,2.8,6.61,
 2005,GU,66,Guam,4.08,2.12,6.2,
@@ -217,6 +228,7 @@
 2022,GU,66,Guam,12.68,3.63,16.31,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,GU,66,Guam,15.22,2.79,18.01,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,GU,66,Guam,7.88,1.84,9.72,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,GU,66,Guam,9.52,2.18,11.7,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,HI,15,Hawaii,3.45,1.33,4.78,
 2004,HI,15,Hawaii,3.45,0.9,4.35,
 2005,HI,15,Hawaii,3.95,1.68,5.63,
@@ -235,6 +247,7 @@
 2022,HI,15,Hawaii,19.65,2.13,21.78,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,HI,15,Hawaii,19.97,0.97,20.94,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,HI,15,Hawaii,5.87,0.8,6.68,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,HI,15,Hawaii,9.94,0.98,10.92,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,IA,19,Iowa,4.13,1.1,5.23,
 2004,IA,19,Iowa,4.98,1.2,6.19,
 2005,IA,19,Iowa,5.22,0.8,6.03,
@@ -253,6 +266,7 @@
 2022,IA,19,Iowa,6.78,1.82,8.6,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,IA,19,Iowa,4.43,0.76,5.19,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,IA,19,Iowa,5.3,0.84,6.14,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,IA,19,Iowa,4.63,0.71,5.34,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,ID,16,Idaho,7.9,3.41,11.31,
 2004,ID,16,Idaho,6.13,2.92,9.05,
 2005,ID,16,Idaho,6.03,2.31,8.34,
@@ -271,6 +285,7 @@
 2022,ID,16,Idaho,3.26,0.18,3.44,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,ID,16,Idaho,2.96,0.46,3.42,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,ID,16,Idaho,3.02,0.57,3.59,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,ID,16,Idaho,3.45,0.4,3.85,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,IL,17,Illinois,4.1,0.77,4.87,
 2004,IL,17,Illinois,4.66,0.95,5.61,
 2005,IL,17,Illinois,4.76,1,5.75,
@@ -289,6 +304,7 @@
 2022,IL,17,Illinois,9.67,1.24,10.91,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,IL,17,Illinois,8,1.91,9.91,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,IL,17,Illinois,10.64,0.93,11.56,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,IL,17,Illinois,13.33,1.33,14.67,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,IN,18,Indiana,7.94,2.06,10,
 2004,IN,18,Indiana,4.35,1.48,5.84,
 2005,IN,18,Indiana,5.47,1.11,6.58,
@@ -307,6 +323,7 @@
 2022,IN,18,Indiana,6.59,2.1,8.69,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,IN,18,Indiana,8.96,1.5,10.46,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,IN,18,Indiana,7.42,2.1,9.52,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,IN,18,Indiana,7.73,2.04,9.77,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,KS,20,Kansas,8.04,2.41,10.45,
 2004,KS,20,Kansas,4.16,0.95,5.11,
 2005,KS,20,Kansas,3.47,0.91,4.37,
@@ -326,6 +343,7 @@
 2022,KS,20,Kansas,8.74,0.33,9.07,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,KS,20,Kansas,11.33,0.74,12.07,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,KS,20,Kansas,9.43,0.55,9.98,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,KS,20,Kansas,8.46,0.98,9.44,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,KY,21,Kentucky,5.1,1.22,6.32,
 2004,KY,21,Kentucky,4.67,0.96,5.63,
 2005,KY,21,Kentucky,3.57,0.99,4.56,
@@ -344,6 +362,7 @@
 2022,KY,21,Kentucky,5.05,0.78,5.83,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,KY,21,Kentucky,6.32,0.95,7.27,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,KY,21,Kentucky,8.23,0.88,9.11,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,KY,21,Kentucky,4.02,0.67,4.7,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,LA,22,Louisiana,4.41,1.38,5.79,
 2004,LA,22,Louisiana,3.69,1.13,4.81,
 2005,LA,22,Louisiana,4.95,0.88,5.83,
@@ -362,6 +381,7 @@
 2022,LA,22,Louisiana,6,1.2,7.19,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,LA,22,Louisiana,5.2,1.44,6.65,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,LA,22,Louisiana,5.14,1.48,6.62,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,LA,22,Louisiana,6.84,1.3,8.14,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MA,25,Massachusetts,3.57,1.42,4.99,
 2004,MA,25,Massachusetts,2.98,1.78,4.76,
 2005,MA,25,Massachusetts,2.91,0.97,3.88,
@@ -381,6 +401,7 @@
 2022,MA,25,Massachusetts,10.77,1,11.77,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MA,25,Massachusetts,8.97,0.89,9.86,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MA,25,Massachusetts,13.03,1.07,14.1,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MA,25,Massachusetts,11.83,0.66,12.49,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MD,24,Maryland,5.12,2.11,7.23,
 2004,MD,24,Maryland,4.4,1.43,5.83,
 2005,MD,24,Maryland,4.03,1.45,5.49,
@@ -399,6 +420,7 @@
 2022,MD,24,Maryland,32.65,2.91,35.56,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MD,24,Maryland,15.07,3.91,18.98,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MD,24,Maryland,8.85,4.79,13.64,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MD,24,Maryland,10.89,2.19,13.08,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,ME,23,Maine,10.16,3.13,13.29,
 2004,ME,23,Maine,8.93,2.04,10.97,
 2005,ME,23,Maine,6.17,1.43,7.59,
@@ -417,6 +439,7 @@
 2022,ME,23,Maine,13.59,1.27,14.86,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,ME,23,Maine,10.08,3.41,13.48,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,ME,23,Maine,8.57,1.68,10.26,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,ME,23,Maine,9.33,1.48,10.81,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MI,26,Michigan,8.25,2.85,11.1,
 2004,MI,26,Michigan,4.82,2.37,7.19,
 2005,MI,26,Michigan,5.94,1.41,7.34,
@@ -435,6 +458,7 @@
 2022,MI,26,Michigan,10.22,2.78,13,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MI,26,Michigan,8.69,2.03,10.72,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MI,26,Michigan,8.03,1.5,9.53,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MI,26,Michigan,8.66,1.23,9.89,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MN,27,Minnesota,5.99,1.98,7.96,
 2004,MN,27,Minnesota,4.98,1.96,6.94,
 2005,MN,27,Minnesota,5.52,2.08,7.6,
@@ -454,6 +478,7 @@
 2022,MN,27,Minnesota,5.49,2.75,8.24,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MN,27,Minnesota,4.95,1.46,6.4,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MN,27,Minnesota,6.32,2.66,8.98,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MN,27,Minnesota,9.86,2.72,12.58,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MO,29,Missouri,5.37,1.38,6.75,
 2004,MO,29,Missouri,6.42,1,7.42,
 2005,MO,29,Missouri,4,1.09,5.1,
@@ -472,6 +497,7 @@
 2022,MO,29,Missouri,12.02,1.01,13.03,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MO,29,Missouri,10.02,0.52,10.54,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MO,29,Missouri,8.16,1.26,9.42,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MO,29,Missouri,8.24,0.43,8.67,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MS,28,Mississippi,3.07,1,4.07,
 2004,MS,28,Mississippi,4.31,1.58,5.89,
 2005,MS,28,Mississippi,2.02,0.98,3,
@@ -490,6 +516,7 @@
 2022,MS,28,Mississippi,6.63,1.16,7.79,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MS,28,Mississippi,8.63,1.53,10.15,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MS,28,Mississippi,8.93,1.76,10.69,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MS,28,Mississippi,7.57,1.94,9.51,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,MT,30,Montana,4.92,0.86,5.78,
 2004,MT,30,Montana,3.59,1.01,4.6,
 2005,MT,30,Montana,3.38,0.67,4.05,
@@ -508,6 +535,7 @@
 2022,MT,30,Montana,7.71,2.26,9.97,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,MT,30,Montana,5.25,0.79,6.04,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,MT,30,Montana,6.47,2.41,8.89,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,MT,30,Montana,7.51,1.35,8.86,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NC,37,North Carolina,3.94,1,4.94,
 2004,NC,37,North Carolina,2.16,1.01,3.17,
 2005,NC,37,North Carolina,2.31,0.66,2.97,
@@ -526,6 +554,7 @@
 2022,NC,37,North Carolina,17.44,1.63,19.07,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NC,37,North Carolina,8.16,1.56,9.72,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NC,37,North Carolina,8.11,2.1,10.21,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NC,37,North Carolina,5.76,1.6,7.36,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,ND,38,North Dakota,3.8,1.04,4.85,
 2004,ND,38,North Dakota,2.68,1.46,4.15,
 2005,ND,38,North Dakota,2.26,1.33,3.59,
@@ -545,6 +574,7 @@
 2022,ND,38,North Dakota,8.06,1.45,9.51,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,ND,38,North Dakota,7.83,1.68,9.51,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,ND,38,North Dakota,5.72,2.19,7.91,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,ND,38,North Dakota,7.48,2.4,9.89,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NE,31,Nebraska,5.67,1.57,7.24,
 2004,NE,31,Nebraska,4.24,1.36,5.6,
 2005,NE,31,Nebraska,3.65,0.8,4.45,
@@ -563,6 +593,7 @@
 2022,NE,31,Nebraska,6.39,0.95,7.34,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NE,31,Nebraska,5.95,1.11,7.06,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NE,31,Nebraska,4.64,0.86,5.5,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NE,31,Nebraska,4.82,1.08,5.9,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NH,33,New Hampshire,6.27,1.25,7.52,
 2004,NH,33,New Hampshire,5.78,1.32,7.1,
 2005,NH,33,New Hampshire,4.68,1.22,5.91,
@@ -581,6 +612,7 @@
 2022,NH,33,New Hampshire,7.71,4.63,12.34,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NH,33,New Hampshire,9.82,2.71,12.53,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NH,33,New Hampshire,4.52,3.05,7.57,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NH,33,New Hampshire,6.15,2.7,8.85,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NJ,34,New Jersey,1.83,0.6,2.43,
 2004,NJ,34,New Jersey,2.03,0.99,3.01,
 2005,NJ,34,New Jersey,3.58,1.21,4.79,
@@ -599,6 +631,7 @@
 2022,NJ,34,New Jersey,4.92,1.32,6.24,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NJ,34,New Jersey,33.48,2.22,35.7,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NJ,34,New Jersey,12.11,2.22,14.33,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NJ,34,New Jersey,4.81,2.05,6.86,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NM,35,New Mexico,4.86,1.3,6.16,
 2004,NM,35,New Mexico,4.36,1.23,5.59,
 2005,NM,35,New Mexico,4.98,1.01,5.99,
@@ -617,6 +650,7 @@
 2022,NM,35,New Mexico,11.39,1.04,12.43,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NM,35,New Mexico,13.45,0.95,14.4,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NM,35,New Mexico,13.07,1.54,14.61,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NM,35,New Mexico,15.76,1.06,16.81,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NV,32,Nevada,6.46,1.79,8.25,
 2004,NV,32,Nevada,6.16,1.36,7.51,
 2005,NV,32,Nevada,2.12,0.74,2.86,
@@ -635,6 +669,7 @@
 2022,NV,32,Nevada,6.1,1.12,7.22,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NV,32,Nevada,5.6,1.11,6.71,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NV,32,Nevada,5.63,0.32,5.94,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NV,32,Nevada,5.69,0.53,6.22,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,NY,36,New York,3.67,2.21,5.88,
 2004,NY,36,New York,3.25,2.49,5.74,
 2005,NY,36,New York,4.9,2.33,7.23,
@@ -654,6 +689,7 @@
 2022,NY,36,New York,10.35,2.54,12.89,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,NY,36,New York,11.22,1.46,12.68,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,NY,36,New York,12.65,1.44,14.09,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,NY,36,New York,12.06,1.12,13.18,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,OH,39,Ohio,5.09,1.52,6.61,
 2004,OH,39,Ohio,6.98,1.46,8.43,
 2005,OH,39,Ohio,6.96,1.69,8.65,
@@ -672,6 +708,7 @@
 2022,OH,39,Ohio,6.14,0.96,7.1,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,OH,39,Ohio,5.42,1.6,7.01,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,OH,39,Ohio,7.67,1.34,9.01,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,OH,39,Ohio,5.1,1.66,6.76,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,OK,40,Oklahoma,7.83,1.15,8.98,
 2004,OK,40,Oklahoma,4.97,0.93,5.9,
 2005,OK,40,Oklahoma,6.62,0.81,7.42,
@@ -690,6 +727,7 @@
 2022,OK,40,Oklahoma,7.67,1.22,8.89,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,OK,40,Oklahoma,9.61,1.03,10.64,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,OK,40,Oklahoma,9.63,1.25,10.87,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,OK,40,Oklahoma,9.63,1.41,11.04,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,OR,41,Oregon,10.7,2.3,13,
 2004,OR,41,Oregon,6.04,1.83,7.86,
 2005,OR,41,Oregon,4.73,0.97,5.71,
@@ -708,6 +746,7 @@
 2022,OR,41,Oregon,21.76,1.23,22.99,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,OR,41,Oregon,15.27,1.49,16.76,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,OR,41,Oregon,12.66,1.4,14.06,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,OR,41,Oregon,13.88,0.26,14.14,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,PA,42,Pennsylvania,6.24,1.97,8.21,
 2004,PA,42,Pennsylvania,2.86,1.14,4,
 2005,PA,42,Pennsylvania,3.64,0.87,4.51,
@@ -726,6 +765,7 @@
 2022,PA,42,Pennsylvania,12.54,1.91,14.44,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,PA,42,Pennsylvania,15.03,1.58,16.61,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,PA,42,Pennsylvania,9.49,1.27,10.76,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,PA,42,Pennsylvania,8.03,1.18,9.21,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,RI,44,Rhode Island,7.04,1.9,8.94,
 2004,RI,44,Rhode Island,10.45,2.85,13.3,
 2005,RI,44,Rhode Island,7.12,2.71,9.84,
@@ -744,6 +784,7 @@
 2022,RI,44,Rhode Island,12.18,2.41,14.59,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,RI,44,Rhode Island,9.75,2.65,12.4,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,RI,44,Rhode Island,10.61,1.68,12.29,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,RI,44,Rhode Island,11.63,0.79,12.42,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,SC,45,South Carolina,4.22,0.71,4.94,
 2004,SC,45,South Carolina,5.53,0.73,6.25,
 2005,SC,45,South Carolina,4.73,0.71,5.44,
@@ -762,6 +803,7 @@
 2022,SC,45,South Carolina,7.49,1.7,9.19,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,SC,45,South Carolina,20.94,1.63,22.57,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,SC,45,South Carolina,7.89,1.36,9.25,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,SC,45,South Carolina,7.83,0.97,8.8,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,SD,46,South Dakota,0.9,0.25,1.16,
 2004,SD,46,South Dakota,1.69,0.28,1.97,
 2005,SD,46,South Dakota,1.01,0.18,1.19,
@@ -781,6 +823,7 @@
 2022,SD,46,South Dakota,2.68,0.39,3.07,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,SD,46,South Dakota,2.87,0.4,3.27,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,SD,46,South Dakota,2.43,0.85,3.28,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,SD,46,South Dakota,2.05,0.42,2.47,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,TN,47,Tennessee,6.13,1.07,7.2,
 2004,TN,47,Tennessee,4.98,1.71,6.69,
 2005,TN,47,Tennessee,5.28,0.73,6.01,
@@ -799,6 +842,7 @@
 2022,TN,47,Tennessee,19.04,0.75,19.79,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,TN,47,Tennessee,11.54,1.02,12.56,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,TN,47,Tennessee,8.43,1.04,9.47,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,TN,47,Tennessee,7.84,1.6,9.44,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,TX,48,Texas,2.23,1.06,3.29,
 2004,TX,48,Texas,2.85,1.27,4.12,
 2005,TX,48,Texas,3.58,1.46,5.03,
@@ -817,6 +861,7 @@
 2022,TX,48,Texas,5.26,2.6,7.86,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,TX,48,Texas,4.54,2.15,6.7,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,TX,48,Texas,5.77,2.55,8.32,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,TX,48,Texas,6.99,2.35,9.34,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,UT,49,Utah,3.4,1.6,5,
 2004,UT,49,Utah,2.73,1.03,3.76,
 2005,UT,49,Utah,3.12,1.29,4.41,
@@ -835,6 +880,7 @@
 2022,UT,49,Utah,5.58,1.03,6.61,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,UT,49,Utah,4.32,0.77,5.09,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,UT,49,Utah,5.09,0.65,5.74,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,UT,49,Utah,4.64,0.89,5.54,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,VA,51,Virginia,4.13,1.33,5.46,
 2004,VA,51,Virginia,5.2,1.39,6.59,
 2005,VA,51,Virginia,4.75,1.03,5.79,
@@ -853,6 +899,7 @@
 2022,VA,51,Virginia,7.66,1.68,9.34,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,VA,51,Virginia,8.15,1.71,9.86,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,VA,51,Virginia,9.54,1.96,11.5,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,VA,51,Virginia,10.3,2.02,12.32,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,VI,78,Virgin Islands,5.87,1,6.88,
 2004,VI,78,Virgin Islands,3.76,1.02,4.78,
 2005,VI,78,Virgin Islands,1.98,0.13,2.11,
@@ -872,6 +919,7 @@
 2022,VI,78,Virgin Islands,5.95,1.28,7.22,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,VI,78,Virgin Islands,8.54,1.75,10.29,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,VI,78,Virgin Islands,3,0.54,3.54,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,VI,78,Virgin Islands,4.17,1.19,5.36,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,VT,50,Vermont,6.99,1.53,8.52,
 2004,VT,50,Vermont,4.07,1.06,5.13,
 2005,VT,50,Vermont,4.61,1.03,5.64,
@@ -890,6 +938,7 @@
 2022,VT,50,Vermont,4.1,0.47,4.57,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,VT,50,Vermont,2.82,0.64,3.45,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,VT,50,Vermont,4.74,0.39,5.13,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,VT,50,Vermont,5.06,0.32,5.38,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,WA,53,Washington,5.02,1.26,6.28,
 2004,WA,53,Washington,5.88,1.74,7.62,
 2005,WA,53,Washington,1.67,1.05,2.72,
@@ -908,6 +957,7 @@
 2022,WA,53,Washington,8.65,0.68,9.33,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,WA,53,Washington,5.67,1.07,6.74,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,WA,53,Washington,5.79,0.26,6.06,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,WA,53,Washington,6.15,0.83,6.98,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,WI,55,Wisconsin,6.78,2.54,9.32,
 2004,WI,55,Wisconsin,4.84,1.81,6.65,
 2005,WI,55,Wisconsin,3.45,2.16,5.61,
@@ -926,6 +976,7 @@
 2022,WI,55,Wisconsin,3.81,0.58,4.39,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,WI,55,Wisconsin,4.74,0.41,5.15,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,WI,55,Wisconsin,3.81,0.66,4.47,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,WI,55,Wisconsin,5.32,0.4,5.72,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,WV,54,West Virginia,4.8,1.42,6.21,
 2004,WV,54,West Virginia,5.49,1.1,6.58,
 2005,WV,54,West Virginia,4.89,1.05,5.94,
@@ -945,6 +996,7 @@
 2022,WV,54,West Virginia,7.56,1.79,9.35,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,WV,54,West Virginia,9.83,1.15,10.98,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,WV,54,West Virginia,8.57,0.86,9.43,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,WV,54,West Virginia,6.22,0.46,6.69,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
 2003,WY,56,Wyoming,3.03,1.2,4.23,
 2004,WY,56,Wyoming,3.03,1.66,4.69,
 2005,WY,56,Wyoming,5.87,1.16,7.03,
@@ -964,3 +1016,4 @@
 2022,WY,56,Wyoming,3.44,0.86,4.3,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy22-qc-payment-error-rate.pdf
 2023,WY,56,Wyoming,4.33,0.86,5.19,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy23-qc-payment-error-rate.pdf
 2024,WY,56,Wyoming,3.27,1.85,5.12,https://fns-prod.azureedge.us/sites/default/files/resource-files/snap-fy24QC-PER.pdf
+2025,WY,56,Wyoming,3.55,0.41,3.96,https://fna-bwbufwdzbabpezgc.z01.azurefd.us/sites/default/files/resource-files/snap-qcfy25-per.pdf
